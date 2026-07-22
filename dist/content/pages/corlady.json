@@ -1,0 +1,24 @@
+{
+  "id": "corlady",
+  "slug": "corlady",
+  "type": "image-wrapper",
+  "title": "Corregio's Portrait of a Lady",
+  "sourceFile": "CorLady.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><img alt=\"Correggio's Protrait of a Lady\" src=\"images/correg5s.jpg\"/></td>\n</tr>\n<tr>\n<td><font>Corregio's\n        Portrait of a Lady, 15??.</font></td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Corregio's Portrait of a Lady, 15??.",
+  "links": [],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/correg5s.jpg",
+      "fragment": null,
+      "alt": "Correggio's Protrait of a Lady"
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "CorLady.htm"
+  },
+  "backlinks": []
+}

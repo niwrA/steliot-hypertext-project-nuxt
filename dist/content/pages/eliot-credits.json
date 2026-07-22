@@ -1,0 +1,25 @@
+{
+  "id": "eliot-credits",
+  "slug": "eliot-credits",
+  "type": "source-page",
+  "title": "Credits page",
+  "sourceFile": "Eliot_credits.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div>\n<table>\n<tr>\n<td><font><strong>Credits</strong></font><hr noshade=\"\"/>\n<p>You could be here too! Write a note to one of the\n        poems, or a book review, and send it to <a href=\"mailto:a.arum@wxs.nl\">a.arum@wxs.nl</a> under the\n        subject heading \"add to TSE site\"</p>\n<p>this site owes its existence to the following people,\n        in alphabetical order:</p>\n<p><strong>Arwin van Arum</strong><br/>\n        student of English Literature,<br/>\n        Vrije Universiteit, Amsterdam<br/>\n        The Netherlands</p>\n<p>On the Internet:: <a href=\"mailto:a.arum@wxs.nl\">a.arum@wxs.nl</a><br/>\n<a href=\"http://hem1.passagen.se/arwin/index.html\">http://hem1.passagen.se/arwin/index.html</a>\n</p>\n<p><em>Contributions</em></p>\n<p>general site layout, introductory pieces,\n        notes on various poems...</p>\n<blockquote>\n<p><em>Arwin van Arum</em></p>\n</blockquote>\n</td>\n</tr>\n</table>\n</div>\n",
+  "text": "Credits You could be here too! Write a note to one of the poems, or a book review, and send it to a.arum@wxs.nl under the subject heading \"add to TSE site\" this site owes its existence to the following people, in alphabetical order: Arwin van Arum student of English Literature, Vrije Universiteit, Amsterdam The Netherlands On the Internet:: a.arum@wxs.nl http://hem1.passagen.se/arwin/index.html Contributions general site layout, introductory pieces, notes on various poems... Arwin van Arum",
+  "links": [
+    {
+      "kind": "external",
+      "href": "http://hem1.passagen.se/arwin/index.html",
+      "label": "http://hem1.passagen.se/arwin/index.html"
+    }
+  ],
+  "images": [],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Eliot_credits.htm"
+  },
+  "backlinks": [
+    "contents"
+  ]
+}

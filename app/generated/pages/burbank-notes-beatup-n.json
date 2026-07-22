@@ -1,0 +1,85 @@
+{
+  "id": "burbank-notes-beatup-n",
+  "slug": "beatup",
+  "type": "annotation",
+  "title": "beat up the...",
+  "sourceFile": "Burbank_notes/beatup_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>beat up\n        the...</strong></font><hr noshade=\"\"/>\n<p><font>The dawn is beat up by the horses of\n        Phoebus, who rides the sun across the sky every day in\n        his chariot, called by Ovid the burning axle-tree. There\n        is another echo from Ovid's <em>Metamorphoses</em>, the\n        story of Niobe: \"With even surface, far extending\n        round, / Beaten and level'd, while it daily feels / The\n        trampling horse, and chariot's grinding wheels.\" </font></p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"Istria_H.htm\">Istria in Herod</a></td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td>Eliot and the axle-tree</td>\n<td> </td>\n</tr>\n<tr>\n<td>Sir Ferdinand Klein</td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "beat up the... The dawn is beat up by the horses of Phoebus, who rides the sun across the sky every day in his chariot, called by Ovid the burning axle-tree. There is another echo from Ovid's Metamorphoses , the story of Niobe: \"With even surface, far extending round, / Beaten and level'd, while it daily feels / The trampling horse, and chariot's grinding wheels.\" reference topics Istria in Herod Eliot and the axle-tree Sir Ferdinand Klein back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Istria_H.htm",
+      "fragment": null,
+      "label": "Istria in Herod",
+      "resolvedPath": "Burbank_notes/Istria_H.htm",
+      "pageId": "burbank-notes-istria-h"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/beatup_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

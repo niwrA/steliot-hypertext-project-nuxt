@@ -1,0 +1,63 @@
+{
+  "id": "waste-notes-quandofi-t",
+  "slug": "quandofi-t",
+  "type": "image-wrapper",
+  "title": "Quandofiam",
+  "sourceFile": "Waste_notes/quandofi_T.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div>\n<table>\n<tr>\n<td><font><img alt=\"Translation\" src=\"../images/T.gif\"/>\n</font><b>Latin</b><hr noshade=\"\"/>\n<p>\"When shall I be as the swallow?\"</p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td> </td>\n<td><a href=\"publication_data.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</div>\n",
+  "text": "Latin \"When shall I be as the swallow?\" reference topics back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/publication_data.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/publication_data.htm",
+      "pageId": "burbank-notes-publication-data"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/T.gif",
+      "fragment": null,
+      "alt": "Translation"
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/quandofi_T.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

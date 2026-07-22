@@ -1,0 +1,63 @@
+{
+  "id": "waste-notes-riversweats-n",
+  "slug": "riversweats",
+  "type": "annotation",
+  "title": "The river sweats",
+  "sourceFile": "Waste_notes/riversweats_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> </font><b>The\n        river sweats ...</b><hr noshade=\"\"/>\n<p>The Song of the (three) Thames-daughters begins here.\n        From line 292 to 306 inclusive they speak in turn.\n        V. <i>Götterdämmerung</i>, III, i: the Rhine\n        Daughters. [Eliot's note] Eliot parallel's the\n        Thames-daughters with the Rhine-maidens in Wagner's opera\n        <i>Die Götterdämmerung</i> (\"The Twilight of the\n        Gods\") who lament that, with the gold of the\n        Nibelungs stolen, the beauty of the river is gone. The\n        refrain in lines 277-8 is borrowed from Wagner.</p>\n<table>\n<tr>\n<td> </td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "The river sweats ... The Song of the (three) Thames-daughters begins here. From line 292 to 306 inclusive they speak in turn. V. Götterdämmerung , III, i: the Rhine Daughters. [Eliot's note] Eliot parallel's the Thames-daughters with the Rhine-maidens in Wagner's opera Die Götterdämmerung (\"The Twilight of the Gods\") who lament that, with the gold of the Nibelungs stolen, the beauty of the river is gone. The refrain in lines 277-8 is borrowed from Wagner. back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/riversweats_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

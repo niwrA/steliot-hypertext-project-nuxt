@@ -1,0 +1,63 @@
+{
+  "id": "waste-notes-magnus-n",
+  "slug": "magnus",
+  "type": "annotation",
+  "title": "Magnus Martyr",
+  "sourceFile": "Waste_notes/magnus_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> </font><b>Of\n        Magnus Martyr ...</b><hr noshade=\"\"/>\n<p>The interior of St. Magnus Martyr is to my mind one of\n        the finest among Wren's interiors. See <i>The Proposed\n        Demolition of Nineteen City Churches</i>: (P.S. King\n        &amp; Son, Ltd.). [Eliot's note] In these lines, the\n        \"pleasant\" music, the \"fishmen\"\n        resting after labour, and the splendour of the church\n        interior all suggest a world of true values, where work\n        and relaxation are both real and take place in a context\n        of religious meaning. It is but a momentary glimpse of an\n        almost lost world.</p>\n<table>\n<tr>\n<td> </td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Of Magnus Martyr ... The interior of St. Magnus Martyr is to my mind one of the finest among Wren's interiors. See The Proposed Demolition of Nineteen City Churches : (P.S. King & Son, Ltd.). [Eliot's note] In these lines, the \"pleasant\" music, the \"fishmen\" resting after labour, and the splendour of the church interior all suggest a world of true values, where work and relaxation are both real and take place in a context of religious meaning. It is but a momentary glimpse of an almost lost world. back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/magnus_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

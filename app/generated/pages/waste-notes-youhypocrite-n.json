@@ -1,0 +1,63 @@
+{
+  "id": "waste-notes-youhypocrite-n",
+  "slug": "youhypocrite",
+  "type": "annotation",
+  "title": "youhypocrite",
+  "sourceFile": "Waste_notes/youhypocrite_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>You!\n        Hypocrite ...</strong></font><hr noshade=\"\"/>\n<p>V. Baudelaire, Preface to <em>Fleurs du Mal</em>.\n        [Eliot's note] The passage is the last line of the\n        introductory poem \"Au Lecteur\" (\"To the\n        Reader\") in Baudelaire's <em>Fleurs du Mal</em>.\n        \"Au Lecteur\" describes man as sunk in\n        stupidity, sin, and evil, but the worst in \"each\n        man's foul menagerie of sin\" is boredom, the\n        \"monstre delicat\" - \"You know him,\n        reader\". </p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td>link two</td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "You! Hypocrite ... V. Baudelaire, Preface to Fleurs du Mal . [Eliot's note] The passage is the last line of the introductory poem \"Au Lecteur\" (\"To the Reader\") in Baudelaire's Fleurs du Mal . \"Au Lecteur\" describes man as sunk in stupidity, sin, and evil, but the worst in \"each man's foul menagerie of sin\" is boredom, the \"monstre delicat\" - \"You know him, reader\". reference topics link two back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/youhypocrite_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

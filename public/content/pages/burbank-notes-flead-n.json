@@ -1,0 +1,117 @@
+{
+  "id": "burbank-notes-flead-n",
+  "slug": "flead",
+  "type": "annotation",
+  "title": "flea'd",
+  "sourceFile": "Burbank_notes/flead_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table bordercolor=\"#000080\">\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>flea'd</strong></font><hr noshade=\"\"/>\n<p><font>Burbank perceives Venice, symbolised by\n        the winged lion of St. Mark, with clipped wings, a flea'd\n        rump, and pared claws. The idea is that Venice has been\n        dressed up and domesticised, as for a cat-show, an image\n        Eliot may have gotten from Théophile Gautier (<em>Italia</em>).\n        Burbank who has left out the ugly sides in Venice's\n        literary representation. </font></p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td>Venice indirectly</td>\n<td><a href=\"Stones_JR.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td>Venice misrepresented</td>\n<td><a href=\"Stonesi_JR.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td>Romance vs Realism</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td>the first draft</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td>structural analysis</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td><a href=\"IMG_Rialto1988.htm\"><img src=\"../images/pic.gif\"/></a><a href=\"IMG_StMark.htm\">\n                St. Mark &amp; Winged Lion</a></td>\n<td> </td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\"</font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "flea'd Burbank perceives Venice, symbolised by the winged lion of St. Mark, with clipped wings, a flea'd rump, and pared claws. The idea is that Venice has been dressed up and domesticised, as for a cat-show, an image Eliot may have gotten from Théophile Gautier ( Italia ). Burbank who has left out the ugly sides in Venice's literary representation. reference topics Venice indirectly Venice misrepresented Romance vs Realism the first draft structural analysis St. Mark & Winged Lion back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stones_JR.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Stones_JR.htm",
+      "pageId": "burbank-notes-stones-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stonesi_JR.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Stonesi_JR.htm",
+      "pageId": "burbank-notes-stonesi-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/IMG_Rialto1988.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/IMG_Rialto1988.htm",
+      "pageId": "burbank-notes-img-rialto1988"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/IMG_StMark.htm",
+      "fragment": null,
+      "label": "St. Mark & Winged Lion",
+      "resolvedPath": "Burbank_notes/IMG_StMark.htm",
+      "pageId": "burbank-notes-img-stmark"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/pic.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/flead_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "waste-notes-whenlovely-n",
+  "slug": "whenlovely",
+  "type": "annotation",
+  "title": "When lovely woman",
+  "sourceFile": "Waste_notes/whenlovely_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> </font><b>When\n        lovely woman ...</b><hr noshade=\"\"/>\n<p>V. Goldsmith, the song in <i>The Vicar of Wakefield. </i>[Eliot's\n        note] Olivia, a character in Oliver Goldsmith's novel,\n        sings the following song when she returns to the place\n        where she was seduced:</p>\n<p>When lovely woman stoops to folly<br/>\n        And finds too late that men betray<br/>\n        What charm can sooth her melancholy,<br/>\n        What art can wash her guilt away?<br/>\n        The only art her guilt to cover,<br/>\n        To hide her shame from every eye,<br/>\n        To give repentance to her lover<br/>\n        And wring his bosom -- is to die.</p>\n<table>\n<tr>\n<td><i>The Story of Narcissus and Echo</i></td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "When lovely woman ... V. Goldsmith, the song in The Vicar of Wakefield. [Eliot's note] Olivia, a character in Oliver Goldsmith's novel, sings the following song when she returns to the place where she was seduced: When lovely woman stoops to folly And finds too late that men betray What charm can sooth her melancholy, What art can wash her guilt away? The only art her guilt to cover, To hide her shame from every eye, To give repentance to her lover And wring his bosom -- is to die. The Story of Narcissus and Echo back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/whenlovely_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

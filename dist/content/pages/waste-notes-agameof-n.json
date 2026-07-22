@@ -1,0 +1,63 @@
+{
+  "id": "waste-notes-agameof-n",
+  "slug": "agameof",
+  "type": "annotation",
+  "title": "A Game of Chess",
+  "sourceFile": "Waste_notes/agameof_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> </font><b>A Game\n        of Chess</b> <hr noshade=\"\"/>\n<p>The title suggests two plays by Thomas Middleton\n        (1580-1627): <em>A Game at Chess</em> and, more\n        significant, W<em>omen beware Women</em>, which has a\n        scene in which a mother-in-law is distracted by a game of\n        chess while her daughter-in-law is seduced: every move in\n        the chess game represents a move in the seduction. (NA) </p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td>link two</td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "A Game of Chess The title suggests two plays by Thomas Middleton (1580-1627): A Game at Chess and, more significant, W omen beware Women , which has a scene in which a mother-in-law is distracted by a game of chess while her daughter-in-law is seduced: every move in the chess game represents a move in the seduction. (NA) reference topics link two back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/agameof_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

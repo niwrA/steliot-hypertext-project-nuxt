@@ -1,0 +1,85 @@
+{
+  "id": "waste-notes-chair-n",
+  "slug": "chair",
+  "type": "annotation",
+  "title": "The Chair",
+  "sourceFile": "Waste_notes/chair_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> </font><b>The\n        Chair she ...</b><hr noshade=\"\"/>\n<p>Cf. <i>Antony and Cleopatra</i>, II, ii, l.190.\n        [Eliot's note] \"The barge she sat in, like a\n        burnish'd throne,/Burn'd on the water.\" In the\n        opening lines of this passage Eliot makes a lot of\n        references to Shakespeare's play, particularly the\n        following famous scene in which Enobarbus describes with\n        what kind of extravaganza Cleopatra first received\n        Antony. Eliot has mixed imagery from Shakespeare's play\n        with Dido's description in Virgil's <em>Aeneid</em> (see\n        below). </p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"Antony2ii255-98.htm\"><em>Antony and\n                Cleopatra </em>II.ii.187-255</a></td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td>\"Burbank with a Baedeker\"</td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "The Chair she ... Cf. Antony and Cleopatra , II, ii, l.190. [Eliot's note] \"The barge she sat in, like a burnish'd throne,/Burn'd on the water.\" In the opening lines of this passage Eliot makes a lot of references to Shakespeare's play, particularly the following famous scene in which Enobarbus describes with what kind of extravaganza Cleopatra first received Antony. Eliot has mixed imagery from Shakespeare's play with Dido's description in Virgil's Aeneid (see below). reference topics Antony and Cleopatra II.ii.187-255 \"Burbank with a Baedeker\" back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Antony2ii255-98.htm",
+      "fragment": null,
+      "label": "Antony and Cleopatra II.ii.187-255",
+      "resolvedPath": "Waste_notes/Antony2ii255-98.htm",
+      "pageId": "waste-notes-antony2ii255-98"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/chair_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

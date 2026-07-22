@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "route": "/content/*.json", "headers": { "cache-control": "public, max-age=300" } },
+    { "route": "/content/search-index.*.json", "headers": { "cache-control": "public, max-age=31536000, immutable" } },
+    { "route": "/_nuxt/*", "headers": { "cache-control": "public, max-age=31536000, immutable" } }
+  ],
+  "responseOverrides": { "404": { "rewrite": "/404.html", "statusCode": 404 } },
+  "globalHeaders": { "content-security-policy": "default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; connect-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'", "x-content-type-options": "nosniff", "referrer-policy": "strict-origin-when-cross-origin", "permissions-policy": "camera=(), microphone=(), geolocation=()" },
+  "mimeTypes": { ".json": "application/json", ".webmanifest": "application/manifest+json", ".xml": "application/xml", ".svg": "image/svg+xml" }
+}

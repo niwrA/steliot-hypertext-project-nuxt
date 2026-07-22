@@ -1,0 +1,42 @@
+{
+  "id": "burbank-frame",
+  "slug": "burbank",
+  "type": "reading-page",
+  "title": "Burbank with a Baedeker: Bleistein with a Cigar",
+  "sourceFile": "Burbank_FRAME.htm",
+  "encoding": "windows-1252",
+  "html": "\n<p><a name=\"Title\"></a></p>\n<div><center>\n<table>\n<tr>\n<td><p><font><strong>Burbank\n        with a Baedeker:<br/>\n        Bleistein with a Cigar </strong></font></p>\n<p><a href=\"Burbank_notes/Burbank_A.htm\"><img src=\"images/arrowl.gif\"/>annotated\n        edition available<img src=\"images/arrowr.gif\"/></a></p>\n<p><font><strong>1920</strong></font></p>\n<div><center><table>\n<tr>\n<td><i>Tra-la-la-la-la-la-lair</i> <i>- nil nisis\n                divinum stabile<br/>\n                est; caetera fumus - the gondola stopped, the old<br/>\n                palace was there, how charming its grey and pink\n                -</i> <i><br/>\n                goats and monkeys, with such hair too! - so the<br/>\n                countess passed on until she came through the\n                little<br/>\n                park, where Niobe presented her with a cabinet,\n                and<br/>\n                so departed. </i></td>\n</tr>\n</table>\n</center></div></td>\n</tr>\n</table>\n</center></div>\n<p><a name=\"Body\"></a></p>\n<div><center>\n<table>\n<tr>\n<td>Burbank crossed a little\n        bridge <br/>\n        Descending at a small hotel; <br/>\n        Princess Volupine arrived,<br/>\n        They were together, and he fell. <br/>\n<br/>\n        Defunctive music under sea<br/>\n        Passed seaward with the passing bell <br/>\n        Slowly: the God Hercules<br/>\n        Had left him, that had loved him well. <br/>\n<br/>\n        The horses, under the axletree<br/>\n        Beat up the dawn from Istria <br/>\n        With even feet. Her shuttered barge<br/>\n        Burned on the water all the day. <br/>\n<br/>\n        But this or such was Bleistein's way:<br/>\n        A saggy bending of the knees<br/>\n        And elbows, with the palms turned out, <br/>\n        Chicago Semite Viennese. <br/>\n<br/>\n        A lustreless protrusive eye<br/>\n        Stares from the protozoic slime<br/>\n        At a perspective of Canaletto<br/>\n        The smoky candle end of time <br/>\n<br/>\n        Declines. On the Rialto once.<br/>\n        The rats are underneath the piles.<br/>\n        The Jew is underneath the lot.<br/>\n        Money in furs. The boatman smiles, <br/>\n<br/>\n        Princess Volupine extends <br/>\n        A meagre, blue-nailed, phthisic hand<br/>\n        To climb the waterstair. Lights, Lights,<br/>\n        She entertains Sir Ferdinand <br/>\n<br/>\n        Klein. Who clipped the lion's wings <br/>\n        And flea'd his rump and pared his claws?<br/>\n        Thought Burbank, meditating on <br/>\n        Time's ruins, and the seven laws. </td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Burbank with a Baedeker: Bleistein with a Cigar annotated edition available 1920 Tra-la-la-la-la-la-lair - nil nisis divinum stabile est; caetera fumus - the gondola stopped, the old palace was there, how charming its grey and pink - goats and monkeys, with such hair too! - so the countess passed on until she came through the little park, where Niobe presented her with a cabinet, and so departed. Burbank crossed a little bridge Descending at a small hotel; Princess Volupine arrived, They were together, and he fell. Defunctive music under sea Passed seaward with the passing bell Slowly: the God Hercules Had left him, that had loved him well. The horses, under the axletree Beat up the dawn from Istria With even feet. Her shuttered barge Burned on the water all the day. But this or such was Bleistein's way: A saggy bending of the knees And elbows, with the palms turned out, Chicago Semite Viennese. A lustreless protrusive eye Stares from the protozoic slime At a perspective of Canaletto The smoky candle end of time Declines. On the Rialto once. The rats are underneath the piles. The Jew is underneath the lot. Money in furs. The boatman smiles, Princess Volupine extends A meagre, blue-nailed, phthisic hand To climb the waterstair. Lights, Lights, She entertains Sir Ferdinand Klein. Who clipped the lion's wings And flea'd his rump and pared his claws? Thought Burbank, meditating on Time's ruins, and the seven laws.",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "annotated edition available",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/arrowl.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowr.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_FRAME.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a",
+    "poems-1920"
+  ]
+}

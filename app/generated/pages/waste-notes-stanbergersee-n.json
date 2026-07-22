@@ -1,0 +1,49 @@
+{
+  "id": "waste-notes-stanbergersee-n",
+  "slug": "stanbergersee",
+  "type": "annotation",
+  "title": "Stanbergersee",
+  "sourceFile": "Waste_notes/Stanbergersee_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>Starnbergersee</strong></font><hr noshade=\"\"/>\n<p>Lake a few miles south of Munich, where the\n        \"mad\" King Ludwig II of Bavaria drowned in 1886\n        in mysterious circumstances. This romantic, melancholy\n        king was a passionate admirer of Richard Wagner and\n        especially of Wagner's opera Tristan und Isolde, which\n        plays a significant part in The Waste Land. Ludwig's\n        suffering of \"death by water\" in the\n        Stanbergersee thus evokes a cluster of themes central to\n        the poem. (NA) </p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Starnbergersee Lake a few miles south of Munich, where the \"mad\" King Ludwig II of Bavaria drowned in 1886 in mysterious circumstances. This romantic, melancholy king was a passionate admirer of Richard Wagner and especially of Wagner's opera Tristan und Isolde, which plays a significant part in The Waste Land. Ludwig's suffering of \"death by water\" in the Stanbergersee thus evokes a cluster of themes central to the poem. (NA) reference topics back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/Stanbergersee_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

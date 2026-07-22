@@ -1,0 +1,121 @@
+{
+  "id": "burbank-notes-thisorsu-n",
+  "slug": "thisorsu",
+  "type": "annotation",
+  "title": "But this or...",
+  "sourceFile": "Burbank_notes/thisorsu_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>But this\n        or...</strong></font><hr noshade=\"\"/>\n<p><font>Cf. Robert Browning, \"How it\n        Strikes a Contemporary\": \"and this, or\n        something like it, was his way.\" Bleistein, being\n        misrepresented in the three ways that Joyce describes in\n        the the portrait, himself points out Venice's\n        misrepresentation. This is a complex working out of what\n        Browning's poem achieves.</font></p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"Contemporary_RB.htm\">How it Strikes a Contemporary</a></td>\n<td><a href=\"Contemporary_RB.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td>Contemporary and Bleistein</td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td><a href=\"Burbank.htm\">Burbank</a>\n                and The Beautiful Dream</td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td>Burbank and Bleistein</td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "But this or... Cf. Robert Browning, \"How it Strikes a Contemporary\": \"and this, or something like it, was his way.\" Bleistein, being misrepresented in the three ways that Joyce describes in the the portrait, himself points out Venice's misrepresentation. This is a complex working out of what Browning's poem achieves. reference topics How it Strikes a Contemporary Contemporary and Bleistein Burbank and The Beautiful Dream Burbank and Bleistein back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Contemporary_RB.htm",
+      "fragment": null,
+      "label": "How it Strikes a Contemporary",
+      "resolvedPath": "Burbank_notes/Contemporary_RB.htm",
+      "pageId": "burbank-notes-contemporary-rb"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Contemporary_RB.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Contemporary_RB.htm",
+      "pageId": "burbank-notes-contemporary-rb"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "Burbank",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/thisorsu_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "waste-notes-sosostri-n",
+  "slug": "sosostri",
+  "type": "annotation",
+  "title": "Sosostris",
+  "sourceFile": "Waste_notes/Sosostri_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> </font><b>Sosostris</b><hr noshade=\"\"/>\n<p>A mock Egyptian name (suggested to Eliot by\n        \"Sesostris, the Sorceress of Ecbatana,\" the\n        name assumed by a character in Aldous Huxley's novel\n        Crome Yellow who dresses up as a gypsy to tell fortunes\n        at a fair). (NA) </p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><font>link one</font></td>\n<td><a href=\"publication_data.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td>link two</td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Sosostris A mock Egyptian name (suggested to Eliot by \"Sesostris, the Sorceress of Ecbatana,\" the name assumed by a character in Aldous Huxley's novel Crome Yellow who dresses up as a gypsy to tell fortunes at a fair). (NA) reference topics link one link two back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/publication_data.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/publication_data.htm",
+      "pageId": "burbank-notes-publication-data"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/Sosostri_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

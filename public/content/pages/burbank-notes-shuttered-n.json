@@ -1,0 +1,103 @@
+{
+  "id": "burbank-notes-shuttered-n",
+  "slug": "shuttered",
+  "type": "annotation",
+  "title": "shuttered barge",
+  "sourceFile": "Burbank_notes/shuttered_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table bordercolor=\"#000080\">\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>Her\n        shuttered barge...</strong></font><hr noshade=\"\"/>\n<p><font>Cf. Enobarbus in Shakespeare, <em>Antony\n        and Cleopatra</em>: \"The barge she sat in, like a\n        burnished throne / Burned on the water.\" (2.2.201-2)</font>.\n        Shuttered, which has an erotic connotation, refers to a\n        gondola, which is the 'barge' used in Venice.</p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td>\"Burbank\" and the Rialto</td>\n<td><a href=\"Stones_JR.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td>Bleistein and Shylock</td>\n<td><a href=\"Stonesi_JR.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td>Volupine and \"Cleopatra\"</td>\n<td><a href=\"Stonesi_JR.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td>Dramatic Rethoric in Burbank</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td>Structural analysis</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\"</font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Her shuttered barge... Cf. Enobarbus in Shakespeare, Antony and Cleopatra : \"The barge she sat in, like a burnished throne / Burned on the water.\" (2.2.201-2) . Shuttered, which has an erotic connotation, refers to a gondola, which is the 'barge' used in Venice. reference topics \"Burbank\" and the Rialto Bleistein and Shylock Volupine and \"Cleopatra\" Dramatic Rethoric in Burbank Structural analysis back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stones_JR.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Stones_JR.htm",
+      "pageId": "burbank-notes-stones-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stonesi_JR.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Stonesi_JR.htm",
+      "pageId": "burbank-notes-stonesi-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stonesi_JR.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Stonesi_JR.htm",
+      "pageId": "burbank-notes-stonesi-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/shuttered_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

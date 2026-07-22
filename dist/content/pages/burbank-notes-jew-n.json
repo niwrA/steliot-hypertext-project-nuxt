@@ -1,0 +1,49 @@
+{
+  "id": "burbank-notes-jew-n",
+  "slug": "jew",
+  "type": "annotation",
+  "title": "Jew",
+  "sourceFile": "Burbank_notes/Jew_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>Jew</strong></font><hr noshade=\"\"/>\n<p><font>This line has caused a lot of\n        controversy in the criticism. Bleistein here reminds\n        Burbank of The Merchant of Venice, the speech in which\n        Shylock in turn reminds Antonio of his racist insults.\n        The insults have been paraphrased, like the rest of\n        Bleistein's section, into contemporary language. </font></p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Jew This line has caused a lot of controversy in the criticism. Bleistein here reminds Burbank of The Merchant of Venice, the speech in which Shylock in turn reminds Antonio of his racist insults. The insults have been paraphrased, like the rest of Bleistein's section, into contemporary language. reference topics back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/Jew_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

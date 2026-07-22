@@ -1,0 +1,19 @@
+{
+  "id": "helen-frame",
+  "slug": "helen",
+  "type": "reading-page",
+  "title": "Aunt Helen",
+  "sourceFile": "Helen_FRAME.htm",
+  "encoding": "windows-1252",
+  "html": "\n<p><a name=\"Title\"></a></p>\n<div><center>\n<table>\n<tr>\n<td><p><font><strong>Aunt\n        Helen</strong></font><strong> </strong></p>\n<p><font><strong>1917</strong></font></p>\n</td>\n</tr>\n</table>\n</center></div>\n<p><a name=\"Body\"></a></p>\n<div><center>\n<table>\n<tr>\n<td>Miss Helen Slingsby was my maiden aunt,<br/>\n        And lived in a small house near a fashionable square<br/>\n        Cared for by servants to the number of four.<br/>\n        Now when she died there was a silence in heaven<br/>\n        And silence at her end of the street.<br/>\n        The shutters were drawn and teh undertaker wiped his feet\n        -<br/>\n        He was aware that this sort of thing had occurred before.<br/>\n        The dogs were handsomely provided for,<br/>\n        But shortly afterwards the parrot died too.<br/>\n        The Dresden clock continued ticking on the mantelpiece,<br/>\n        And the footman sat upon the dining-table<br/>\n        Holding the second housemaid on his knees -<br/>\n        Who had always been so careful while her mistress lived.</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Aunt Helen 1917 Miss Helen Slingsby was my maiden aunt, And lived in a small house near a fashionable square Cared for by servants to the number of four. Now when she died there was a silence in heaven And silence at her end of the street. The shutters were drawn and teh undertaker wiped his feet - He was aware that this sort of thing had occurred before. The dogs were handsomely provided for, But shortly afterwards the parrot died too. The Dresden clock continued ticking on the mantelpiece, And the footman sat upon the dining-table Holding the second housemaid on his knees - Who had always been so careful while her mistress lived.",
+  "links": [],
+  "images": [],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Helen_FRAME.htm"
+  },
+  "backlinks": [
+    "prufrock-and-other-observations"
+  ]
+}

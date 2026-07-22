@@ -1,0 +1,85 @@
+{
+  "id": "burbank-notes-protozoic-n",
+  "slug": "protozoic",
+  "type": "annotation",
+  "title": "protozoic slime",
+  "sourceFile": "Burbank_notes/protozoic_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table bordercolor=\"#000080\">\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>protozoic\n        slime</strong></font><hr noshade=\"\"/>\n<p><font>PROTOZOIC</font><font> =\n        \"containing the earliest traces of living beings</font>.\"\n        Hence the lustreless eye stares from the dawn of living\n        time, in continuance of the evolutionist version of\n        contemporary anti-Semitism. The slime of the Nile was\n        long thought to contain the seeds of all animal and\n        vegetable life, especially in Egypt, and presumably\n        Bleistein has an overview of Jewish persecution from the\n        exodus to present day Venice.</p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td>What Burbank learned</td>\n<td><a href=\"Stones_JR.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Education_HA.htm\">Adams' <em>Education</em></a></td>\n<td><a href=\"Education_HA.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\"</font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "protozoic slime PROTOZOIC = \"containing the earliest traces of living beings .\" Hence the lustreless eye stares from the dawn of living time, in continuance of the evolutionist version of contemporary anti-Semitism. The slime of the Nile was long thought to contain the seeds of all animal and vegetable life, especially in Egypt, and presumably Bleistein has an overview of Jewish persecution from the exodus to present day Venice. reference topics What Burbank learned Adams' Education back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stones_JR.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Stones_JR.htm",
+      "pageId": "burbank-notes-stones-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Education_HA.htm",
+      "fragment": null,
+      "label": "Adams' Education",
+      "resolvedPath": "Burbank_notes/Education_HA.htm",
+      "pageId": "burbank-notes-education-ha"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Education_HA.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Education_HA.htm",
+      "pageId": "burbank-notes-education-ha"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/protozoic_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

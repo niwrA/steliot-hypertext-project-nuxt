@@ -1,0 +1,21 @@
+{
+  "name": "ts-eliot-hypertext-nuxt",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "npm run content:routes && nuxt build",
+    "generate": "npm run content:routes && nuxt generate",
+    "preview": "npx serve .output/public",
+    "typecheck": "nuxt typecheck",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "content:audit": "python3 tools/content_quality.py",
+    "content:enrich": "python3 tools/content_quality.py --apply",
+    "content:routes": "node tools/build-content.mjs",
+    "validate": "npm run content:audit && npm run typecheck && npm test && npm run generate && node tools/validate-output.mjs"
+  },
+  "dependencies": { "nuxt": "4.5.0", "vue": "^3.5.39", "vue-router": "^5.2.0" },
+  "devDependencies": { "@nuxt/eslint": "^1.9.0", "@types/node": "^24.0.0", "eslint": "^10.0.0", "typescript": "5.9.3", "vitest": "^3.2.4", "vue-tsc": "^3.3.7" }
+}

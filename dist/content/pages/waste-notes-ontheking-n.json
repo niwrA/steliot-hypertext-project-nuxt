@@ -1,0 +1,71 @@
+{
+  "id": "waste-notes-ontheking-n",
+  "slug": "ontheking",
+  "type": "annotation",
+  "title": "on the king",
+  "sourceFile": "Waste_notes/ontheking_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> </font><b>And on\n        the King ... </b><hr noshade=\"\"/>\n<p>Cf. <i>The Tempest</i>, I, ii. [Eliot's note] This is\n        one of many references to Shakespeare's play. Again it is\n        implied that Ferdinand is speaking these lines, and here\n        refers to his relatives that he thinks have drowned. </p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"tempest_2.1_N.htm\">Shakespeare<i>, The Tempest</i></a></td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "And on the King ... Cf. The Tempest , I, ii. [Eliot's note] This is one of many references to Shakespeare's play. Again it is implied that Ferdinand is speaking these lines, and here refers to his relatives that he thinks have drowned. reference topics Shakespeare , The Tempest back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/tempest_2.1_N.htm",
+      "fragment": null,
+      "label": "Shakespeare , The Tempest",
+      "resolvedPath": "Waste_notes/tempest_2.1_N.htm",
+      "pageId": "waste-notes-tempest-2-1-n"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/ontheking_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

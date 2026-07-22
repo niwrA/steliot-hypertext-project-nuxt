@@ -1,0 +1,218 @@
+var e=`essays-swintro`,t=`swintro`,n=`source-page`,r=`Eliot, T. S. 1920. The Sacred Wood: Introduction.`,i=`Essays/swintro.htm`,a=`windows-1252`,o=`
+<p><font><b>The Sacred Wood</b></font></p>
+<p><font>Introduction</font><font> </font></p>
+<div><center>
+<table>
+<tr>
+<td rowspan="2">T<font>O</font> anyone who is at
+        all capable of experiencing the pleasures of justice, it
+        is gratifying to be able to make amends to a writer whom
+        one has vaguely depreciated for some years. The faults
+        and foibles of Matthew Arnold are no less evident to me
+        now than twelve years ago, after my first admiration for
+        him; but I hope that now, on re-reading some of his prose
+        with more care, I can better appreciate his position. And
+        what makes Arnold seem all the more remarkable is, that
+        if he were our exact contemporary, he would find all his
+        labour to perform again. A moderate number of persons
+        have engaged in what is called "critical"
+        writing, but no conclusion is any more solidly
+        established than it was in 1865. In the first essay in
+        the first <i>Essays in Criticism</i> we read that <blockquote>
+<p>it has long seemed to me that the burst of
+            creative activity in our literature, through the
+            first quarter of this century, had about it in fact
+            something premature; and that from this cause its
+            productions are doomed, most of them, in spite of the
+            sanguine hopes which accompanied and do still
+            accompany them, to prove hardly more lasting than the
+            productions of far less splendid epochs. And this
+            prematureness comes from its having proceeded without
+            having its proper data, without sufficient material
+            to work with. In other words, the English poetry of
+            the first quarter of this century, with plenty of
+            energy, plenty of creative force, did not know
+            enough. This makes Byron so empty of matter, Shelley
+            so incoherent, Wordsworth even, profound as he is,
+            yet so wanting in completeness and variety.</p>
+</blockquote>
+<p>This judgment of the Romantic Generation has not, so
+        far as I know, ever been successfully controverted; and
+        it has not, so far as I know, ever made very much
+        impression on popular opinion. Once a poet is accepted,
+        his reputation is seldom disturbed, for better or worse.
+        So little impression has Arnold's opinion made, that his
+        statement will probably be as true of the first quarter
+        of the twentieth century as it was of the nineteenth. A
+        few sentences later, Arnold articulates the nature of the
+        malady: </p>
+<blockquote>
+<p>\xA0\xA0In the Greece of Pindar and Sophocles,
+            in the England of Shakespeare, the poet lived in a
+            current of ideas in the highest degree animating and
+            nourishing to the creative power; society was, in the
+            fullest measure, permeated by fresh thought,
+            intelligent and alive; and this state of things is
+            the true basis for the creative power's exercise, in
+            this it finds its data, its materials, truly ready
+            for its hand; all the books and reading in the world
+            are only valuable as they are helps to this.</p>
+</blockquote>
+<p>At this point Arnold is indicating the centre of
+        interest and activity of the critical intelligence; and
+        it is at this perception, we may almost say, that
+        Arnold's critical activity stopped. In a society in which
+        the arts were seriously studied, in which the art of
+        writing was respected, Arnold might have become a critic.
+        How astonishing it would be, if a man like Arnold had
+        concerned himself with the art of the novel, had compared
+        Thackeray with Flaubert, had analysed the work of
+        Dickens, had shown his contemporaries exactly why the
+        author of <i>Amos Barton</i> is a more <i>serious</i>
+        writer than Dickens, and why the author of <i>La
+        Chartreuse de Parme</i> is more serious than either? In <i>Culture
+        and Anarchy,</i> in <i>Literature and Dogma,</i> Arnold
+        was not occupied so much in establishing a criticism as
+        in attacking the uncritical. The difference is that while
+        in constructive work something can be done, destructive
+        work must incessantly be repeated; and furthermore
+        Arnold, in his destruction, went for game outside of the
+        literary preserve altogether, much of it political game
+        untouched and inviolable by ideas. This activity of
+        Arnold's we must regret; it might perhaps have been
+        carried on as effectively, if not quite so neatly, by
+        some disciple (had there been one) in an editorial
+        position on a newspaper. Arnold is not to be blamed: he
+        wasted his strength, as men of superior ability sometimes
+        do, because he saw something to be done and no one else
+        to do it. The temptation, to any man who is interested in
+        ideas and primarily in literature, to put literature into
+        the corner until he cleaned up the whole country first,
+        is almost irresistible. Some persons, like Mr. Wells and
+        Mr. Chesterton, have succeeded so well in this latter
+        profession of setting the house in order, and have
+        attracted so much more attention than Arnold, that we
+        must conclude that it is indeed their proper rôle, and
+        that they have done well for themselves in laying
+        literature aside.</p>
+<p>Not only is the critic tempted outside of criticism.
+        The criticism proper betrays such poverty of ideas and
+        such atrophy of sensibility that men who ought to
+        preserve their critical ability for the improvement of
+        their own creative work are tempted into criticism. I do
+        not intend from this the usually silly inference that the
+        "Creative" gift is "higher" than the
+        critical. When one creative mind is better than another,
+        the reason often is that the better is the more critical.
+        But the great bulk of the work of criticism could be done
+        by minds of the second order, and it is just these minds
+        of the second order that are difficult to find. They are
+        necessary for the rapid circulation of ideas. The
+        periodical press—the ideal literary
+        periodical—is an instrument of transport; and the
+        literary periodical press is dependent upon the existence
+        of a sufficient number of second-order (I do not say
+        "second-rate," the word is too derogatory)
+        minds to supply its material. These minds are necessary
+        for that "current of ideas," that "society
+        permeated by fresh thought," of which Arnold speaks.</p>
+<p>\xA0\xA0It is a perpetual heresy of English
+        culture to believe that only the first-order mind, the
+        Genius, the Great Man, matters; that he is solitary, and
+        produced best in the least favourable environment,
+        perhaps the Public School; and that it is most likely a
+        sign of inferiority that Paris can show so many minds of
+        the second order. If too much bad verse is published in
+        London, it does not occur to us to raise our standards,
+        to do anything to educate the poetasters; the remedy is,
+        Kill them off. I quote from Mr. Edmund <a name="txt1">Gosse</a>:
+        <a href="#note1">1</a> </p>
+<blockquote>
+<p>\xA0\xA0Unless something is done to stem this
+            flood of poetastry the art of verse will become not
+            merely superfluous, but ridiculous. Poetry is not a
+            formula which a thousand flappers and hobbledehoys
+            ought to be able to master in a week without any
+            training, and the mere fact that it seems to be now
+            practised with such universal ease is enough to prove
+            that something has gone amiss with our standards....
+            This is all wrong, and will lead us down into the
+            abyss like so many Gadarene swine unless we resist
+            it.</p>
+</blockquote>
+<p>We quite agree that poetry is not a formula. But what
+        does Mr. Gosse propose to do about it? If Mr. Gosse had
+        found himself in the flood of poetastry in the reign of
+        Elizabeth, what would he have done about it? would he
+        have stemmed it? What exactly is this abyss? and if
+        something "has gone amiss with our standards,"
+        is it wholly the fault of the younger generation that it
+        is aware of no authority that it must respect? It is part
+        of the business of the critic to preserve
+        tradition—where a good tradition exists. It is part
+        of his business to see literature steadily and to see it
+        whole; and this is eminently to see it <i>not</i> as
+        consecrated by time, but to see it beyond time; to see
+        the best work of our time and the best work of
+        twenty-five hundred years ago with the same <a name="txt2">eyes</a>. <a href="#note2">2</a> It is part
+        of his business to help the poetaster to understand his
+        own limitations. The poetaster who understands his own
+        limitations will be one of our useful second-order minds;
+        a good minor poet (something which is very rare) or
+        another good critic. As for the first-order minds, when
+        they happen, they will be none the worse off for a
+        "current of ideas"; the solitude with which
+        they will always and everywhere be invested is a very
+        different thing from isolation, or a monarchy of death. </p>
+<blockquote>
+<p>\xA0\xA0N<font>OTE</font>.—I may
+            commend as a model to critics who desire to correct
+            some of the poetical vagaries of the present age, the
+            following passage from a writer who cannot be accused
+            of flaccid leniency, and the justice of whose
+            criticism must be acknowledged even by those who feel
+            a strong partiality toward the school of poets
+            criticized:— </p>
+<p>\xA0\xA0"Yet great labour, directed by
+            great abilities, is never wholly lost; if they
+            frequently threw away their wit upon false conceits,
+            they likewise sometimes struck out unexpected truth:
+            if their conceits were far-fetched, they were often
+            worth the carriage. To write on their plan, it was at
+            least necessary to read and think. No man could be
+            born a metaphysical poet, nor assume the dignity of a
+            writer, by descriptions copied from descriptions, by
+            imitations borrowed from imitations, by traditional
+            imagery, and hereditary similes, by readiness of
+            rhyme, and volubility of syllables. </p>
+<p>\xA0\xA0"In perusing the works of this
+            race of authors, the mind is exercised either by
+            recollection or inquiry: something already learned is
+            to be retrieved, or something new is to be examined.
+            If their greatness seldom elevates, their acuteness
+            often surprises; if the imagination is not always
+            gratified, at least the powers of reflection and
+            comparison are employed; and in the mass of materials
+            which ingenious absurdity has thrown together,
+            genuine wit and useful knowledge may be sometimes
+            found buried perhaps in grossness of expression, but
+            useful to those who know their value; and such as,
+            when they are expanded to perspicuity, and polished
+            to elegance, may give lustre to works which have more
+            propriety though less copiousness of
+            sentiment."—J<font>OHNSON</font>, <i>Life
+            of Cowley.</i></p>
+</blockquote>
+</td>
+</tr>
+</table>
+</center></div>
+<dl>
+<dt><a name="note1"><b>Note 1</b></a> </dt>
+<dd><i>Sunday Times,</i> May 30, 1920.</dd>
+<dt><a name="note2"><b>Note 2</b></a> </dt>
+<dd>Arnold, it must be admitted, gives us often the
+        impression of seeing the masters, whom he quotes, as
+        canonical literature, rather than as masters.</dd>
+</dl>
+`,s=`The Sacred Wood Introduction T O anyone who is at all capable of experiencing the pleasures of justice, it is gratifying to be able to make amends to a writer whom one has vaguely depreciated for some years. The faults and foibles of Matthew Arnold are no less evident to me now than twelve years ago, after my first admiration for him; but I hope that now, on re-reading some of his prose with more care, I can better appreciate his position. And what makes Arnold seem all the more remarkable is, that if he were our exact contemporary, he would find all his labour to perform again. A moderate number of persons have engaged in what is called "critical" writing, but no conclusion is any more solidly established than it was in 1865. In the first essay in the first Essays in Criticism we read that it has long seemed to me that the burst of creative activity in our literature, through the first quarter of this century, had about it in fact something premature; and that from this cause its productions are doomed, most of them, in spite of the sanguine hopes which accompanied and do still accompany them, to prove hardly more lasting than the productions of far less splendid epochs. And this prematureness comes from its having proceeded without having its proper data, without sufficient material to work with. In other words, the English poetry of the first quarter of this century, with plenty of energy, plenty of creative force, did not know enough. This makes Byron so empty of matter, Shelley so incoherent, Wordsworth even, profound as he is, yet so wanting in completeness and variety. This judgment of the Romantic Generation has not, so far as I know, ever been successfully controverted; and it has not, so far as I know, ever made very much impression on popular opinion. Once a poet is accepted, his reputation is seldom disturbed, for better or worse. So little impression has Arnold's opinion made, that his statement will probably be as true of the first quarter of the twentieth century as it was of the nineteenth. A few sentences later, Arnold articulates the nature of the malady: In the Greece of Pindar and Sophocles, in the England of Shakespeare, the poet lived in a current of ideas in the highest degree animating and nourishing to the creative power; society was, in the fullest measure, permeated by fresh thought, intelligent and alive; and this state of things is the true basis for the creative power's exercise, in this it finds its data, its materials, truly ready for its hand; all the books and reading in the world are only valuable as they are helps to this. At this point Arnold is indicating the centre of interest and activity of the critical intelligence; and it is at this perception, we may almost say, that Arnold's critical activity stopped. In a society in which the arts were seriously studied, in which the art of writing was respected, Arnold might have become a critic. How astonishing it would be, if a man like Arnold had concerned himself with the art of the novel, had compared Thackeray with Flaubert, had analysed the work of Dickens, had shown his contemporaries exactly why the author of Amos Barton is a more serious writer than Dickens, and why the author of La Chartreuse de Parme is more serious than either? In Culture and Anarchy, in Literature and Dogma, Arnold was not occupied so much in establishing a criticism as in attacking the uncritical. The difference is that while in constructive work something can be done, destructive work must incessantly be repeated; and furthermore Arnold, in his destruction, went for game outside of the literary preserve altogether, much of it political game untouched and inviolable by ideas. This activity of Arnold's we must regret; it might perhaps have been carried on as effectively, if not quite so neatly, by some disciple (had there been one) in an editorial position on a newspaper. Arnold is not to be blamed: he wasted his strength, as men of superior ability sometimes do, because he saw something to be done and no one else to do it. The temptation, to any man who is interested in ideas and primarily in literature, to put literature into the corner until he cleaned up the whole country first, is almost irresistible. Some persons, like Mr. Wells and Mr. Chesterton, have succeeded so well in this latter profession of setting the house in order, and have attracted so much more attention than Arnold, that we must conclude that it is indeed their proper rôle, and that they have done well for themselves in laying literature aside. Not only is the critic tempted outside of criticism. The criticism proper betrays such poverty of ideas and such atrophy of sensibility that men who ought to preserve their critical ability for the improvement of their own creative work are tempted into criticism. I do not intend from this the usually silly inference that the "Creative" gift is "higher" than the critical. When one creative mind is better than another, the reason often is that the better is the more critical. But the great bulk of the work of criticism could be done by minds of the second order, and it is just these minds of the second order that are difficult to find. They are necessary for the rapid circulation of ideas. The periodical press—the ideal literary periodical—is an instrument of transport; and the literary periodical press is dependent upon the existence of a sufficient number of second-order (I do not say "second-rate," the word is too derogatory) minds to supply its material. These minds are necessary for that "current of ideas," that "society permeated by fresh thought," of which Arnold speaks. It is a perpetual heresy of English culture to believe that only the first-order mind, the Genius, the Great Man, matters; that he is solitary, and produced best in the least favourable environment, perhaps the Public School; and that it is most likely a sign of inferiority that Paris can show so many minds of the second order. If too much bad verse is published in London, it does not occur to us to raise our standards, to do anything to educate the poetasters; the remedy is, Kill them off. I quote from Mr. Edmund Gosse : 1 Unless something is done to stem this flood of poetastry the art of verse will become not merely superfluous, but ridiculous. Poetry is not a formula which a thousand flappers and hobbledehoys ought to be able to master in a week without any training, and the mere fact that it seems to be now practised with such universal ease is enough to prove that something has gone amiss with our standards.... This is all wrong, and will lead us down into the abyss like so many Gadarene swine unless we resist it. We quite agree that poetry is not a formula. But what does Mr. Gosse propose to do about it? If Mr. Gosse had found himself in the flood of poetastry in the reign of Elizabeth, what would he have done about it? would he have stemmed it? What exactly is this abyss? and if something "has gone amiss with our standards," is it wholly the fault of the younger generation that it is aware of no authority that it must respect? It is part of the business of the critic to preserve tradition—where a good tradition exists. It is part of his business to see literature steadily and to see it whole; and this is eminently to see it not as consecrated by time, but to see it beyond time; to see the best work of our time and the best work of twenty-five hundred years ago with the same eyes . 2 It is part of his business to help the poetaster to understand his own limitations. The poetaster who understands his own limitations will be one of our useful second-order minds; a good minor poet (something which is very rare) or another good critic. As for the first-order minds, when they happen, they will be none the worse off for a "current of ideas"; the solitude with which they will always and everywhere be invested is a very different thing from isolation, or a monarchy of death. N OTE .—I may commend as a model to critics who desire to correct some of the poetical vagaries of the present age, the following passage from a writer who cannot be accused of flaccid leniency, and the justice of whose criticism must be acknowledged even by those who feel a strong partiality toward the school of poets criticized:— "Yet great labour, directed by great abilities, is never wholly lost; if they frequently threw away their wit upon false conceits, they likewise sometimes struck out unexpected truth: if their conceits were far-fetched, they were often worth the carriage. To write on their plan, it was at least necessary to read and think. No man could be born a metaphysical poet, nor assume the dignity of a writer, by descriptions copied from descriptions, by imitations borrowed from imitations, by traditional imagery, and hereditary similes, by readiness of rhyme, and volubility of syllables. "In perusing the works of this race of authors, the mind is exercised either by recollection or inquiry: something already learned is to be retrieved, or something new is to be examined. If their greatness seldom elevates, their acuteness often surprises; if the imagination is not always gratified, at least the powers of reflection and comparison are employed; and in the mass of materials which ingenious absurdity has thrown together, genuine wit and useful knowledge may be sometimes found buried perhaps in grossness of expression, but useful to those who know their value; and such as, when they are expanded to perspicuity, and polished to elegance, may give lustre to works which have more propriety though less copiousness of sentiment."—J OHNSON , Life of Cowley. Note 1 Sunday Times, May 30, 1920. Note 2 Arnold, it must be admitted, gives us often the impression of seeing the masters, whom he quotes, as canonical literature, rather than as masters.`,c=[],l=[],u={edition:`preserved`,sourceFile:`Essays/swintro.htm`},d=[`thesacredwood`],f={id:e,slug:t,type:n,title:r,sourceFile:i,encoding:a,html:o,text:s,links:c,images:l,provenance:u,backlinks:d};export{d as backlinks,f as default,a as encoding,o as html,e as id,l as images,c as links,u as provenance,t as slug,i as sourceFile,s as text,r as title,n as type};

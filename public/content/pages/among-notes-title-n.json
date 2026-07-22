@@ -1,0 +1,95 @@
+{
+  "id": "among-notes-title-n",
+  "slug": "title",
+  "type": "annotation",
+  "title": "Sweeney Among ...",
+  "sourceFile": "Among_notes/title_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>Sweeney\n        Among ...</strong></font><hr noshade=\"\"/>\n<p><font>Full title: \"Sweeney Among the\n        Nightingales\" </font></p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><font>full publication history</font></td>\n<td><a href=\"publication_data.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><font>the title</font></td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td>Sweeney</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td><a href=\"Among_M.htm\">Discussion\n                of the metre</a></td>\n<td><a href=\"Burbank_M.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Sweeney Am.\"</font></a></td>\n<td><a href=\"Among_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n<td> </td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Sweeney Among ... Full title: \"Sweeney Among the Nightingales\" reference topics full publication history the title Sweeney Discussion of the metre back to \"Sweeney Am.\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Among_notes/publication_data.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/publication_data.htm",
+      "pageId": "burbank-notes-publication-data"
+    },
+    {
+      "kind": "internal",
+      "path": "Among_notes/Among_M.htm",
+      "fragment": null,
+      "label": "Discussion of the metre",
+      "resolvedPath": "Among_notes/Among_M.htm",
+      "pageId": "among-notes-among-m"
+    },
+    {
+      "kind": "internal",
+      "path": "Among_notes/Burbank_M.htm",
+      "fragment": null,
+      "label": ""
+    },
+    {
+      "kind": "internal",
+      "path": "Among_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Sweeney Am.\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Among_notes/Among_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Among_notes/Among_A.htm",
+      "pageId": "among-notes-among-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Among_notes/title_N.htm"
+  },
+  "backlinks": [
+    "among-fr"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "waste-notes-thekey-n",
+  "slug": "thekey",
+  "type": "annotation",
+  "title": "I have heard",
+  "sourceFile": "Waste_notes/thekey_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> </font><b>I have\n        heard ...</b><hr noshade=\"\"/>\n<p>Cf. Inferno, XXXIII, 46: \"ed io senti chiavar\n        l'uscio di sotto / all'orribile torre.\" <a href=\"ediosent_T.htm\"><font><img alt=\"Click here for translation\" src=\"../images/T.gif\"/></font></a></p>\n<p>Also F.H. Bradley, Appearance and Reality, p. 306:\n        \"My external sensations are no less private to my\n        self than are my thoughts or my feelings. In either case\n        my experience falls within my own circle, a circle closed\n        on the outside; and, with all its elements alike, every\n        sphere is opaque to the others which surround it.... In\n        brief, regarded as an existence which appears in a soul,\n        the whole world for each is particular and private to\n        that soul.\" [Eliot's note] </p>\n<table>\n<tr>\n<td><a href=\"BradleyandtheKey.htm\">Eliot, Bradley and the Tower</a></td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "I have heard ... Cf. Inferno, XXXIII, 46: \"ed io senti chiavar l'uscio di sotto / all'orribile torre.\" Also F.H. Bradley, Appearance and Reality, p. 306: \"My external sensations are no less private to my self than are my thoughts or my feelings. In either case my experience falls within my own circle, a circle closed on the outside; and, with all its elements alike, every sphere is opaque to the others which surround it.... In brief, regarded as an existence which appears in a soul, the whole world for each is particular and private to that soul.\" [Eliot's note] Eliot, Bradley and the Tower back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/ediosent_T.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Waste_notes/ediosent_T.htm",
+      "pageId": "waste-notes-ediosent-t"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/BradleyandtheKey.htm",
+      "fragment": null,
+      "label": "Eliot, Bradley and the Tower",
+      "resolvedPath": "Waste_notes/BradleyandtheKey.htm",
+      "pageId": "waste-notes-bradleyandthekey"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/T.gif",
+      "fragment": null,
+      "alt": "Click here for translation"
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/thekey_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

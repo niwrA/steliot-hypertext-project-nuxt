@@ -1,0 +1,77 @@
+{
+  "id": "waste-notes-thereisshad-n",
+  "slug": "thereisshad",
+  "type": "annotation",
+  "title": "Thereisshadow",
+  "sourceFile": "Waste_notes/Thereisshad_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> </font><b>There\n        is shadow ...</b><hr noshade=\"\"/>\n<p>The rock and the importance of its shadow is a theme\n        that reoccurs throughout the whole Bible. In the hot\n        desert lands of the Middle-East a rock that provides\n        shade is very valuable: not only could you find shade\n        from the hot sun, but you could even find water there. A\n        typical example can be found in Isaiah 32.3: the\n        \"righteous king ... shall be...as rivers of water in\n        a dry place, as the shadow of a great rock in a weary\n        land.\"</p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td>Son of Man</td>\n<td><a href=\"publication_data.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td>The Rock</td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "There is shadow ... The rock and the importance of its shadow is a theme that reoccurs throughout the whole Bible. In the hot desert lands of the Middle-East a rock that provides shade is very valuable: not only could you find shade from the hot sun, but you could even find water there. A typical example can be found in Isaiah 32.3: the \"righteous king ... shall be...as rivers of water in a dry place, as the shadow of a great rock in a weary land.\" reference topics Son of Man The Rock back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/publication_data.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/publication_data.htm",
+      "pageId": "burbank-notes-publication-data"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/Thereisshad_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

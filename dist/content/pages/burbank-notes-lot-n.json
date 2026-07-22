@@ -1,0 +1,49 @@
+{
+  "id": "burbank-notes-lot-n",
+  "slug": "lot",
+  "type": "annotation",
+  "title": "ew...lot",
+  "sourceFile": "Burbank_notes/lot_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> J<strong>ew...lot</strong></font><hr noshade=\"\"/>\n<p><font>ie. the Jew is even lower than the rat\n        - Jews were at times believed to poison people and cause\n        the destruction of cities and nations. Pile also refers\n        to the hair of an animal, for instance the wool of sheep.\n        Again the joke has been made contemporary, and in\n        preparation of \"Money in furs.\" Lot in the Old\n        Testament is also the brother of Abraham, and was warned\n        by angels to leave Sodom, which was about to be\n        destroyed. The connotation is perhaps that of rats\n        leaving a sinking ship.</font></p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "J ew...lot ie. the Jew is even lower than the rat - Jews were at times believed to poison people and cause the destruction of cities and nations. Pile also refers to the hair of an animal, for instance the wool of sheep. Again the joke has been made contemporary, and in preparation of \"Money in furs.\" Lot in the Old Testament is also the brother of Abraham, and was warned by angels to leave Sodom, which was about to be destroyed. The connotation is perhaps that of rats leaving a sinking ship. reference topics back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/lot_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

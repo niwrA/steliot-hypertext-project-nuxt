@@ -1,0 +1,105 @@
+{
+  "id": "burbank-notes-chicago-n",
+  "slug": "chicago",
+  "type": "annotation",
+  "title": "Chicago",
+  "sourceFile": "Burbank_notes/chicago_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>Chicago</strong></font><hr noshade=\"\"/>\n<p><font>Bleistein is from Chicago, and thus,\n        like Burbank, an American. Chicago at the beginning of\n        the century was a prosperous trade-city and Americans\n        were in fact a minority group - in 1903 the city's\n        population consisted of several racial groups, the\n        largest of which were the Germans, with 600.000,\n        therewith topping the Americans, who had 350.000\n        residents.</font></p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td>Chicago in Baedeker</td>\n<td><a href=\"Purgatory_I_DA.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td>The City and the Stranger</td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td>Bleistein and Misrepresentation</td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td>Burbank and Bleistein</td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Chicago Bleistein is from Chicago, and thus, like Burbank, an American. Chicago at the beginning of the century was a prosperous trade-city and Americans were in fact a minority group - in 1903 the city's population consisted of several racial groups, the largest of which were the Germans, with 600.000, therewith topping the Americans, who had 350.000 residents. reference topics Chicago in Baedeker The City and the Stranger Bleistein and Misrepresentation Burbank and Bleistein back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Purgatory_I_DA.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Purgatory_I_DA.htm",
+      "pageId": "burbank-notes-purgatory-i-da"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/chicago_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "search",
+  "slug": "search",
+  "type": "source-page",
+  "title": "Index Server Search Form",
+  "sourceFile": "search.htm",
+  "encoding": "windows-1252",
+  "html": "\n<form action=\"ixtourqy.idq\" method=\"POST\"> \nSearch for: \n<input maxlength=\"100\" name=\"CiRestriction\" type=\"TEXT\" value=\"\"/>\n<input type=\"SUBMIT\" value=\"Execute Query\"/>\n<input type=\"RESET\" value=\"Clear\"/>\n</form>\n",
+  "text": "Search for:",
+  "links": [],
+  "images": [],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "search.htm"
+  },
+  "backlinks": [
+    "eliot-search"
+  ]
+}

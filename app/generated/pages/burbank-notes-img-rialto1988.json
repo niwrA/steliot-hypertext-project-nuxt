@@ -1,0 +1,30 @@
+{
+  "id": "burbank-notes-img-rialto1988",
+  "slug": "img-rialto1988",
+  "type": "image-wrapper",
+  "title": "Rialto bridge, Venice 1988",
+  "sourceFile": "Burbank_notes/IMG_Rialto1988.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><br/>\n<img alt=\"Rialto bridge, Venice 1988\" src=\"../images/Rialto1988.jpg\"/></td>\n</tr>\n<tr>\n<td><font><em>The\n        Rialto bridge, <br/>\n</em>Venice, 1988</font></td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "The Rialto bridge, Venice, 1988",
+  "links": [],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/Rialto1988.jpg",
+      "fragment": null,
+      "alt": "Rialto bridge, Venice 1988"
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/IMG_Rialto1988.htm"
+  },
+  "backlinks": [
+    "burbank-notes-clipped-n",
+    "burbank-notes-flead-n",
+    "burbank-notes-lions-n",
+    "burbank-notes-rialto-n",
+    "burbank-notes-times-n"
+  ]
+}

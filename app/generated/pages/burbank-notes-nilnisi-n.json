@@ -1,0 +1,115 @@
+{
+  "id": "burbank-notes-nilnisi-n",
+  "slug": "nilnisi",
+  "type": "annotation",
+  "title": "Nil nisi Note",
+  "sourceFile": "Burbank_notes/nilnisi_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table bordercolor=\"#000080\">\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>Nil\n        nisi...</strong></font><hr noshade=\"\"/>\n<p><font><em>Nothing if not the divine is\n        certain; all else [is like] smoke.</em> Inscription on a\n        painting by Andrea Mantegna, the \"St\n        Sebastian.\"</font></p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"StSebastian.htm\"><font>St Sebastian,\n                Andrea Mantegna</font></a></td>\n<td><a href=\"StSebastian.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"StSebasStory.htm\"><font>The Story of\n                St Sebastian</font></a></td>\n<td><a href=\"StSebasStory.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Bleistein_StSeb.htm\"><font>Bleistein and\n                St Sebastian</font><font> </font></a></td>\n<td><a href=\"Bleistein_StSeb.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to\n                \"Burbank\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Nil nisi... Nothing if not the divine is certain; all else [is like] smoke. Inscription on a painting by Andrea Mantegna, the \"St Sebastian.\" reference topics St Sebastian, Andrea Mantegna The Story of St Sebastian Bleistein and St Sebastian back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/StSebastian.htm",
+      "fragment": null,
+      "label": "St Sebastian, Andrea Mantegna",
+      "resolvedPath": "Burbank_notes/StSebastian.htm",
+      "pageId": "burbank-notes-stsebastian"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/StSebastian.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/StSebastian.htm",
+      "pageId": "burbank-notes-stsebastian"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/StSebasStory.htm",
+      "fragment": null,
+      "label": "The Story of St Sebastian",
+      "resolvedPath": "Burbank_notes/StSebasStory.htm",
+      "pageId": "burbank-notes-stsebasstory"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/StSebasStory.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/StSebasStory.htm",
+      "pageId": "burbank-notes-stsebasstory"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Bleistein_StSeb.htm",
+      "fragment": null,
+      "label": "Bleistein and St Sebastian",
+      "resolvedPath": "Burbank_notes/Bleistein_StSeb.htm",
+      "pageId": "burbank-notes-bleistein-stseb"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Bleistein_StSeb.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Bleistein_StSeb.htm",
+      "pageId": "burbank-notes-bleistein-stseb"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/nilnisi_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

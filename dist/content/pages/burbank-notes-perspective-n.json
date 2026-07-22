@@ -1,0 +1,113 @@
+{
+  "id": "burbank-notes-perspective-n",
+  "slug": "perspective",
+  "type": "annotation",
+  "title": "perspective of Canaletto",
+  "sourceFile": "Burbank_notes/perspective_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table bordercolor=\"#000080\">\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>perspective\n        of Canaletto</strong></font><hr noshade=\"\"/>\n<p><font>Giovanni Antonio Canal (1697-1768).\n        Venetian painter whose name is almost synonymous with\n        Venice; cf. Gautier, Le Carnaval de Venise, where he\n        calls Venice: \"</font>La ville de Canaletto!\"\n        Hence Bleistein has a perspective of the history of time\n        from the exodus to Venice, where he is now.</p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td>What Burbank learned</td>\n<td><a href=\"Stones_JR.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Education_HA.htm\">Adams' <em>Education</em></a></td>\n<td><a href=\"Education_HA.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"IMG_Rialto.htm\"><img src=\"../images/pic.gif\"/> Canaletto's\n                Rialto bridge</a></td>\n<td> </td>\n</tr>\n<tr>\n<td><a href=\"IMG_Venice1_GC.htm\"><img src=\"../images/pic.gif\"/> Canaletto's\n                Grand Canal</a></td>\n<td> </td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\"</font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "perspective of Canaletto Giovanni Antonio Canal (1697-1768). Venetian painter whose name is almost synonymous with Venice; cf. Gautier, Le Carnaval de Venise, where he calls Venice: \" La ville de Canaletto!\" Hence Bleistein has a perspective of the history of time from the exodus to Venice, where he is now. reference topics What Burbank learned Adams' Education Canaletto's Rialto bridge Canaletto's Grand Canal back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stones_JR.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Stones_JR.htm",
+      "pageId": "burbank-notes-stones-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Education_HA.htm",
+      "fragment": null,
+      "label": "Adams' Education",
+      "resolvedPath": "Burbank_notes/Education_HA.htm",
+      "pageId": "burbank-notes-education-ha"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Education_HA.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Education_HA.htm",
+      "pageId": "burbank-notes-education-ha"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/IMG_Rialto.htm",
+      "fragment": null,
+      "label": "Canaletto's Rialto bridge",
+      "resolvedPath": "Burbank_notes/IMG_Rialto.htm",
+      "pageId": "burbank-notes-img-rialto"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/IMG_Venice1_GC.htm",
+      "fragment": null,
+      "label": "Canaletto's Grand Canal",
+      "resolvedPath": "Burbank_notes/IMG_Venice1_GC.htm",
+      "pageId": "burbank-notes-img-venice1-gc"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/pic.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/pic.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/perspective_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "eliot-search",
+  "slug": "eliot-search",
+  "type": "source-page",
+  "title": "Search Greg Foster's TSE Base",
+  "sourceFile": "Eliot_search.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div>\n<table>\n<tr>\n<td><a href=\"www.altavista.digital.com\"><em><img hspace=\"0\" src=\"../avmini.gif\"/></em></a><font><strong>Search</strong></font><hr noshade=\"\"/>\n<p><a href=\"search.htm\">Search\n        this site</a></p>\n<p>Search Eliot's poems for specific words\n        with Greg Fosters TSE database:</p>\n<blockquote>\n<p><a href=\"http://web.missouri.edu/~tselist/cgi/tsebase.cgi\"><font>http://web.missouri.edu/~tselist/cgi/tsebase.cgi</font></a>\n</p>\n</blockquote>\n<p>Search the T.S. Eliot discussion\n        list-archives, Missouri:</p>\n<blockquote>\n<p><a href=\"http://web.missouri.edu/~tselist/tsearch.html\">http://web.missouri.edu/~tselist/tsearch.html</a></p>\n</blockquote>\n<p>Search for discussions of specific words\n        and items in Arwin's mini-T.S. Eliot encyclopedia:</p>\n<blockquote>\n<p>MINI-TSE Companion</p>\n</blockquote>\n<blockquote>\n<p><em>Arwin van Arum</em></p>\n</blockquote>\n</td>\n</tr>\n</table>\n</div>\n",
+  "text": "Search Search this site Search Eliot's poems for specific words with Greg Fosters TSE database: http://web.missouri.edu/~tselist/cgi/tsebase.cgi Search the T.S. Eliot discussion list-archives, Missouri: http://web.missouri.edu/~tselist/tsearch.html Search for discussions of specific words and items in Arwin's mini-T.S. Eliot encyclopedia: MINI-TSE Companion Arwin van Arum",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "www.altavista.digital.com",
+      "fragment": null,
+      "label": ""
+    },
+    {
+      "kind": "internal",
+      "path": "search.htm",
+      "fragment": null,
+      "label": "Search this site",
+      "resolvedPath": "search.htm",
+      "pageId": "search"
+    },
+    {
+      "kind": "external",
+      "href": "http://web.missouri.edu/~tselist/cgi/tsebase.cgi",
+      "label": "http://web.missouri.edu/~tselist/cgi/tsebase.cgi"
+    },
+    {
+      "kind": "external",
+      "href": "http://web.missouri.edu/~tselist/tsearch.html",
+      "label": "http://web.missouri.edu/~tselist/tsearch.html"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "avmini.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Eliot_search.htm"
+  },
+  "backlinks": [
+    "contents"
+  ]
+}

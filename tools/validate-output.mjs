@@ -1,0 +1,5 @@
+import { existsSync,readFileSync } from 'node:fs';import { resolve } from 'node:path';
+const root=resolve(import.meta.dirname,'..'),out=resolve(root,'.output/public'),routes=JSON.parse(readFileSync(resolve(root,'public/content/routes.json'),'utf8'));const failures=[]
+for(const route of routes){const file=route==='/'?resolve(out,'index.html'):resolve(out,route.slice(1),'index.html');if(!existsSync(file)){failures.push(`Missing output: ${route}`);continue}const html=readFileSync(file,'utf8');if(route!=='/search/'&&route!=='/'&&html.replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').length<150)failures.push(`Thin HTML: ${route}`);if(/href=["'][^"']*#\/read\//.test(html))failures.push(`Stale hash link: ${route}`)}
+for(const route of ['/about/','/read/burbank-notes-burbank-a/','/annotation/burbank-notes-title-a/','/image/books-img-akroyd/','/search/'])if(!routes.includes(route)&&route!=='/about/'&&route!=='/search/')failures.push(`Representative route absent: ${route}`)
+if(failures.length){console.error(failures.join('\n'));process.exit(1)}console.log(`Validated ${routes.length} generated HTML routes.`)

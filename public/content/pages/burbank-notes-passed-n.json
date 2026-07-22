@@ -1,0 +1,99 @@
+{
+  "id": "burbank-notes-passed-n",
+  "slug": "passed",
+  "type": "annotation",
+  "title": "passed seaward...",
+  "sourceFile": "Burbank_notes/passed_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>passed\n        seaward...</strong></font><hr noshade=\"\"/>\n<p><font>presumably from Rostand, <em>Cyrano</em>:\n        \" Not Venus' self can mount her conch blown seaward,\n        / As she can step into her chaise a porteurs.\" The\n        first draft read \"passed slowly like the passing\n        bell.\" </font></p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><em>Cyrano </em>and \"Burbank\"</td>\n<td><a href=\"Portrait175_JJ.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td>\"Burbank's\" first draft</td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td>Princess Volupine</td>\n<td> </td>\n</tr>\n<tr>\n<td><a href=\"Burbank.htm\">discussion\n                of Burbank</a></td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "passed seaward... presumably from Rostand, Cyrano : \" Not Venus' self can mount her conch blown seaward, / As she can step into her chaise a porteurs.\" The first draft read \"passed slowly like the passing bell.\" reference topics Cyrano and \"Burbank\" \"Burbank's\" first draft Princess Volupine discussion of Burbank back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Portrait175_JJ.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Portrait175_JJ.htm",
+      "pageId": "burbank-notes-portrait175-jj"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "discussion of Burbank",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/passed_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

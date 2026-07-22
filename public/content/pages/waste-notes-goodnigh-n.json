@@ -1,0 +1,63 @@
+{
+  "id": "waste-notes-goodnigh-n",
+  "slug": "goodnigh",
+  "type": "annotation",
+  "title": "Good night",
+  "sourceFile": "Waste_notes/goodnigh_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> </font><b>Good\n        night...</b><hr noshade=\"\"/>\n<p>Cf. the mad Ophelia's departing words in Shakespeare's\n        <em>Hamlet</em>: </p>\n<p>OPHELIA I hope all will be well. We must be patient;\n        but I cannot <br/>\n        choose but weep to think they would lay him i' th' cold\n        ground. <br/>\n        My brother shall know of it; and so I thank you for your\n        good <br/>\n        counsel. Come, my coach! Good night, ladies. Good night,\n        sweet <br/>\n        ladies. Good night, good night. <br/>\n        (<em>Hamlet</em> 4.5.72). </p>\n<p>Ophelia, too, met \"death by water.\" (NA) </p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td> </td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Good night... Cf. the mad Ophelia's departing words in Shakespeare's Hamlet : OPHELIA I hope all will be well. We must be patient; but I cannot choose but weep to think they would lay him i' th' cold ground. My brother shall know of it; and so I thank you for your good counsel. Come, my coach! Good night, ladies. Good night, sweet ladies. Good night, good night. ( Hamlet 4.5.72). Ophelia, too, met \"death by water.\" (NA) reference topics back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/goodnigh_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

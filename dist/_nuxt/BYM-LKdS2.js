@@ -1,0 +1,444 @@
+var e=`essays-secollins`,t=`secollins`,n=`source-page`,r=`Selected Essays: Wilkie Collins and Dickens`,i=`Essays/secollins.htm`,a=`windows-1252`,o=`
+<div><center>
+<table>
+<tr>
+<td><p><font><strong>WILKIE
+        COLLINS AND DICKENS </strong></font></p>
+<p><font>It is to
+        be hoped that some scholarly and philosophic critic of
+        the present generation may be inspired to write a book on
+        the history and aesthetic of melodrama. The golden age of
+        melodrama passed, it is true, before any person living
+        was aware of its existence: in the very middle of the
+        last century. But there are many living who are not too
+        young to remember the melodramatic stage before the
+        cinema replaced it; who have sat entranced, in the front
+        stalls of local or provincial theatres, before some
+        representation of <i>East Lynne, </i>or <i>The White
+        Slave, </i>or <i>No Mother to Guide Her; </i>and who are
+        not too old to have observed with curious interest the
+        replacement of dramatic melodrama by cinematographic
+        melodrama, and the dissociation of the elements of the
+        old three-volume melodramatic novel into the various
+        types of the modern 300-page novel. Those who have lived
+        before such terms as 'high-brow fiction', 'thrillers' and
+        'detective fiction' were invented realize that melodrama
+        is perennial and that the craving for it is perennial and
+        must be satisfied. If we cannot get this satisfaction out
+        of what the publishers present as 'literature', then we
+        will read-with less and less pretence of concealment-what
+        we call 'thrillers'. But in the golden age of
+        melodramatic fiction there was no such distinction. The
+        best novels <i>were </i>thrilling; the distinction of
+        genre between such-and-such a profound 'psychological'
+        novel of to-day and such-and-such a masterly 'detective'
+        novel of to-day is greater than the distinction of genre
+        between <i>Wuthering Heights, </i>or even <i>The Mill on
+        the Floss, </i>and <i>East Lynne, </i>the </font></p>
+<p><font>422 </font></p>
+<p><font>last of
+        which 'achieved an enormous and instantaneous success,
+        and was translated into every known language, including
+        Parsec and Hindustani'. We believe that several
+        contemporary novels have been 'translated into every
+        known language'; but we are sure that they have less in
+        common with <i>The Golden Bowl, </i>or <i>Ulysses, </i>or
+        even <i>Beauchamp's Career, </i>than <i>East Lynne </i>has
+        in common with <i>Bleak House.</i> </font></p>
+<p><font>In order
+        to enjoy and to appreciate the work of Wilkie Collins, we
+        ought to be able to reassemble the elements which have
+        been dissociated in the modern novel. Collins is the
+        contemporary of Dickens, Thackeray, George Eliot; of
+        Charles Reade and almost of Captain Marryat. He has
+        something in common with all of these novelists; but
+        particularly and significantldy with Dickens. Collins was
+        the friend and sometimes the collaborator of Dickens; and
+        the work of the two men ought to be studied side by side.
+        There is, unhappily for the literary critic, no full
+        biography of Wilkie Collins; and Forster's <i>Life of
+        Dickens is, </i>from this point of view, most
+        unsatisfactory. Forster was a notable biographer; but as
+        a critic of the work of Dickens his view was a very
+        narrow view. To anyone who knows the bare facts of
+        Dickens's acquaintance with Collins, and who has studied
+        the work of the two men. their relationship and their
+        influence upon one another is an important subject of
+        study. And a comparative study of their novels can do
+        much to illuminate the question of the difference between
+        the dramatic and the melodramatic in fiction. </font></p>
+<p><font>Dickens's
+        'best novel' is probably <i>Bleak House; </i>that is Mr.
+        Chesterton's opinion, and there is no better critic of
+        Dickens living than Mr. Chesterton. Collins's best
+        novelor, at any rate, the only one of Collins's novels
+        which everyone knows- is <i>The Woman in White. Now Bleak
+        House is </i>the novel in which Dickens most closely
+        approaches Collins (and after <i>Bleak House, Little
+        Dorrit </i>and parts of <i>Martin Chuzzlewit); </i>and <i>The
+        Woman in White is </i>the novel in which Collins most
+        closely approaches Dickens. Dickens </font></p>
+<p><font>423 </font></p>
+<p><font>excelled
+        in character; in the creation of characters of greater
+        intensity than human beings. Collins was not usually
+        strong in the creation of character; but he was a master
+        of plot and situation, of those elements of drama which
+        are most essential to melodrama. <i>Bleak House is </i>Dickens's
+        finest piece of construction; and <i>The </i>Woman in
+        White contains Collins's most real characterization.
+        Everyone knows Count Fosco and Marion Halcombe
+        intimately; only the most perfect Collins reader can
+        remember even half a dozen of his other characters by
+        name. </font></p>
+<p><font>Count
+        Fosco and Marion are indeed real personages to us; as
+        'real' as much greater characters are, as real as Becky
+        Sharp or Emma Bovary. In comparison with the characters
+        of Dickens they lack only that kind of reality which is
+        almost supernatural, which hardly seems to belong to the
+        character by natural right, but seems rather to descend
+        upon him by a kind of inspiration or grace. Collins's
+        best characters are fabricated, with consummate skill,
+        before our eyes; in Dickens's greatest figures we see no
+        process or calculation. Dickens's figures belong to
+        poetry, like figures of Dante or Shakespeare, in that a
+        single phrase, either by them or about them, may be
+        enough to set them wholly before us. Collins has no
+        phrases. Dickens can with a phrase make a character as
+        real as flesh and blood- What a <i>life </i>young <i>Bailey's
+        </i>was!'-like Farinata </font></p>
+<p><font><em>Chi
+        fur gli maggior tui? </em></font></p>
+<p><font>or like
+        Cleopatra,</font></p>
+<p><font><em>I saw </em><i>her
+        once <br/>
+        Hop forty </i>paces <i>through the public street. </i></font></p>
+<p><font>Dickens's
+        characters are real because there is no one like them;
+        Collins's because they are so painstakingly coherent and
+        lifelike. Whereas Dickens often introduces a great
+        character carelessly, so that we do not realize, until
+        the story is far advanced, with what a powerful personage
+        we have to do. Collins, at least in these two figures in <i>The
+        </i>Woman in White, employs every advantage of dramatic
+        effect. Much </font></p>
+<p><font><i>424</i>
+</font></p>
+<p><font>of our
+        impression of Marion is due to the words in which she is
+        first presented:</font></p>
+<p><font>'The
+        instant my eyes rested on her I was struck by the rare
+        beauty of her form, and by the unaffected grace of her
+        attitude. Her figure was tall, yet not too tall; comely
+        and well developed, yet not fat; her head set on her
+        shoulders with an easy, pliant firmness; her waist,
+        perfection in the eyes of a man, for it occupied its
+        natural place, it filled out its natural circle, it was
+        visibly and delightfully undeformed by stays. She had not
+        heard my entrance into the room, and I allowed myself the
+        luxury of admiring her for a few moments before I moved
+        one of the chairs near me as the least embarrassing means
+        of attracting her attention. She turned towards me
+        immediately. The easy elegance of every movement of her
+        limbs and body, as soon as she began to advance from the
+        far end of the room, set me in a flutter of expectation
+        to see her face clearly. She left the window-and I said
+        to myself, The lady is dark. She moved forward a few
+        steps-and I said to myself, The lady is young. She
+        approached nearer, and I said to myself (with a sense of
+        surprise which words fail me to express), The lady is
+        ugly!' </font></p>
+<p><font>The
+        introduction of Count Fosco-too long to quote in full-
+        requires many more small strokes; but we should observe,
+        Marion Halcombe being already given, that our impression
+        of the Count is made very much stronger by being given to
+        us as Marion's impression of him: </font></p>
+<p><font>'There are
+        peculiarities in his personal appearance, his habits, and
+        his amusements, which I should blame in the boldest
+        terms, or ridicule in the most merciless manner, if I had
+        seen them in another man. What is it that makes me unable
+        to blame them, or to ridicule them in him ?' </font></p>
+<p><font>After this
+        who can forget the white mice or the canaries, or the way
+        in which Count Fosco treated Sir Percival's sulky
+        bloodhound? If <i>The </i>Woman in <i>White is </i>the
+        greatest of </font></p>
+<p><font><i>425</i>
+</font></p>
+<p><font>Collins's
+        novels, it is so because of these two characters. If we
+        examine the book apart from Marion and Fosco, we must
+        admit that it is not Collins's finest work of
+        construction, and that certain of his peculiar
+        melodramatic gifts are better displayed in other books.
+        The book is dramatic because of two characters; it is
+        dramatic in the way in which the dramatic differs from
+        the melodramatic. Sir Percival Glyde is a figure of
+        pasteboard, and the mystery and the plot of which he is
+        the centre are almost grotesque. The one of Collins's
+        books which is the most perfect piece of construction,
+        and the best balanced between plot and character, <i>is
+        The Moonstone; </i>the one which reaches the greatest
+        melodramatic intensity is <i>Armadale.</i> </font></p>
+<p><font><i>The
+        Moonstone is </i>the first and greatest of English
+        detective novels. We say <i>English </i>detective novels,
+        because there is also the work of Poe, which has a <i>pure
+        </i>detective interest.. The detective story, as created
+        by Poe, is something as specialized and as intellectual
+        as a chess problem; whereas the best English detective
+        fiction has relied less on the beauty of the mathematical
+        problem and much more on the intangible human element. In
+        detective fiction England probably excels other countries
+        ; but in a genre invented by Collins and not by Poe. In <i>The
+        Moonstone </i>the mystery is finally solved, not
+        altogether by human ingenuity, but largely by accident.
+        Since Collins, the best heroes of English detective
+        fiction have been, like Sergeant Cuff, fallible; they
+        play their part, but never the sole part, in the
+        unravelling. Sherlock Holmes, not altogether a typical
+        English sleuth, is a partial exception; but even Holmes
+        exists, not solely because of his prowess, but largely
+        because he is, in the Jonsonian sense, a humorous
+        character, with his needle, his boxing, and his violin.
+        But Sergeant Cuff, far more than Holmes, is the ancestor
+        of the healthy generation of amiable, efficient,
+        professional but fallible inspectors of fiction among
+        whom we live to-day. And <i>The Moonstone, </i>a book
+        twice the length of the 'thrillers' that our contemporary
+        masters write, maintains its interest </font></p>
+<p><font>426 </font></p>
+<p><font>and
+        suspense at every moment. It does this by devices of a
+        Dickensian type; for Collins, in addition to his
+        particular merits, was a Dickens without genius. The book
+        is a comedy of humours. The eccentricities of Mr.
+        Franklin Blake, the satire on false philanthropy in the
+        character of Mr. Godfrey Ablewhite (to say nothing of the
+        Life, Letters and Labours of Miss Jane Ann Stamper),
+        Betteridge with his <i>Robinson Crusoe, </i>and his
+        daughter Penclope, support the narrative. In other of
+        Collins's novels, the trick of passing the narration from
+        one hand to another, and employing every device of
+        letters and diaries, becomes tedious and even implausible
+        (for instance. in <i>Armadale, </i>the terrific villain,
+        Miss Gwilt, commits herself to paper far too often and
+        far too frankly); but in <i>The Moonstone </i>these
+        devices succeed, every time, in stimulating our interest
+        afresh just at the moment when it was about to flag. </font></p>
+<p><font>And in <i>The
+        Moonstone </i>Collins succeeds in bringing into play
+        those aids of 'atmosphere' in which Dickens (and the
+        Brontës) exhibited such genius, and in which Collins has
+        everything except their genius. For his purpose, he does
+        not come off badly. Compare the description of the
+        discovery of Rosanna's death in the Shivering Sands-and
+        notice how carefully, beforehand, the <i>mise-en-scene </i>of
+        the Shivering Sands is prepared for us-with the shipwreck
+        of Steerforth in <i>David Copperfield. </i>We may say
+        'There is no comparison!' but there is a comparison; and
+        however unfavourable to Collins, it must increase our
+        estimation of his skill. </font></p>
+<p><font>There is
+        another characteristic of Wilkie Collins which also
+        brings him closer to Dickens, and it is a characteristic
+        which has very great melodramatic value: compare the work
+        of Collins with the work of Mrs. Henry Wood, already
+        mentioned, and one sees how important for melodrama is
+        the presence or absence of this. Forster, in his Life <i>of
+        Dickens, </i>observes: </font></p>
+<p><font>On the
+        coincidences, resemblances and surprises of life Dickens
+        liked especially to dwell, and few things moved </font></p>
+<p><font>427 </font></p>
+<p><font>his fancy
+        so pleasantly. The world, he would say, was so much
+        smaller than we thought it; we were all so connected by
+        fate without knowing it; people supposed to be far apart
+        were so constantly elbowing each other; and tomorrow bore
+        so close a resemblance to nothing half so much as to
+        yesterday.' </font></p>
+<p><font>Forster
+        mentions this peculiarity early in the life of Dickens,
+        long before Dickens became acquainted with Collins. We
+        may take it that this feeling was common to Dickens and
+        Collins, and that it may have been one of the causes of
+        their being drawn so sympathetically together, once they
+        had become acquainted. The two men had obviously in
+        common a passionate feeling for the drama. Each had
+        qualities which the other lacked, and they had certain
+        qualities in common. It is perfectly reasonable to
+        believe that the relations of the two men-of which
+        Forster gives us only the barest and most unsatisfactory
+        hints-affected profoundly the later work of each. We seem
+        to find traces of it in <i>Little Dorrit </i>and <i>The
+        Tale of Two Cities. </i>Collins could never have invented
+        Durdles and Deputy; but Durdles and Deputy were obviously
+        to play their part in a whole, <i>bien charpenté </i>as
+        Collins's work is, and as the work of Dickens prior to <i>Bleak
+        House is </i>not. </font></p>
+<p><font>One of the
+        minor works of Collins which illustrates especially this
+        insistence upon the 'coincidences, resemblances and
+        surprises of life' is <i>The Frozen Deep. </i>The story,
+        as we read it, was patched up from the melodrama which
+        Collins wrote first; which was privately performed with
+        great -success on several occasions, and in which Dickens
+        took the leading part. Collins was the cleverer at
+        writing stage pieces; but we may imagine that Dickens was
+        the cleverer at acting them; and Dickens may have given
+        to the role of Richard Wardour, in acting it, an
+        individuality which it certainly lacks in the story. This
+        story, we may add for the benefit of those who have not
+        read it, depends upon coincidence with a remarkably long
+        arm; for the two men </font></p>
+<p><font><i>428</i>
+</font></p>
+<p><font>who ought
+        not to meet-the accepted and the rejected lover-do meet,
+        and under the most unlikely conditions they join, without
+        knowing each other's identity, the same Polar Expedition.
+        </font></p>
+<p><font>In <i>The
+        Frozen Deep </i>Collins wrote a piece of pure melodrama.
+        That is to say, it is nothing but melodrama. We are asked
+        to accept an improbability, simply for the sake of seeing
+        the thrilling situation which arises in consequence. But
+        the frontier of drama and melodrama is vague; the
+        difference is largely a matter of emphasis; perhaps no
+        drama has ever been greatly and permanently successful
+        without a large melodramatic element. What is the
+        difference between <i>The Frozen Deep </i>and <i>Oedipus
+        the King? </i>It is the difference between coincidence,
+        set without shame or pretence, and fate-which merges into
+        character. It is not necessary, for high drama, that
+        accident should be eliminated; you cannot formulate the
+        proportion of accident that is permissible. But in great
+        drama character is always felt to benot more important
+        than plot-but somehow integral with plot. At least, one
+        is left with the conviction that if circumstances had not
+        arranged the events to fall out in such and such a way,
+        the personages were. after all, such that they would have
+        ended just as badly, or just as well, and more or less
+        similarly. And sometimes the melodramatic-the
+        accidental-becomes for Collins the dramatic-the fatal.
+        There is one short tale, not one of his best known, and
+        far from being his best-a tale with an extremely
+        improbable ghost - which nevertheless is almost dramatic.
+        It is called <i>The Haunted Hotel; </i>what makes it
+        better than a mere readable second-rate ghost story is
+        the fact that fatality in this story is no longer merely
+        a wire jerking the figures. The principal character, the
+        fatal woman, is herself obsessed by the idea of fatality;
+        her motives are melodramatic; she therefore compels the
+        coincidences to occur, feeling that she is compelled to
+        compel them. In this Story, as the chief character is
+        internally melodramatic, the story itself ceases to be
+        merely melodramatic, and partakes of true drama. </font></p>
+<p><font><i>429 </i></font></p>
+<p><font>There is
+        another characteristic of certain tales of Collins's,
+        which may be said to belong to melodrama, or to the
+        melodramatic part of drama. It consists in delaying,
+        longer than one would conceive it possible to delay, a
+        conclusion which is inevitable and wholly foreseen. A
+        story like <i>The New Magdalen is </i>from a certain
+        moment merely a study in stage suspense; the <i>denouement
+        is </i>postponed, again and again, by every possible
+        ingenuity; the situations are in the most effective sense
+        theatrical, without being in the profounder sense
+        dramatic. They are seldom, as in <i>The Woman in White, </i>situations
+        of conflict between significant personalities; they are
+        more often conflicts between chessmen which merely occupy
+        hostile positions on the board. Such, for instance, is
+        the prolonged battle between Captain Wragge and Mrs.
+        Lecomte at Aldburgh, in <i>No Name.</i> </font></p>
+<p><font>The one of
+        Collins's novels which we should choose as the most
+        typical, or as the best of the more typical, and which we
+        should recommend as a specimen of the melodramatic
+        fiction of the epoch, is <i>Armadale. </i>It has no merit
+        beyond melodrama, and it has every merit that melodrama
+        can have. If Miss Gwilt did not have to bear such a large
+        part of the burden of revealing her own villainy, the
+        construction would be almost perfect. Like most of
+        Collins's novels, it has the immense-and nowadays more
+        and more rare-merit of being never dull. It has, to a
+        very high degree, the peculiar Collins merit above
+        mentioned, which we might call the air of spurious
+        fatality. The machinery of the book is operated by the
+        Dream. The mind of the reader is very carefully prepared
+        for acceptance of the Dream; first by the elaborately
+        staged coincidence of the two cousins getting marooned on
+        the wreck of the ship on which the father of the one had
+        long before entrapped the father of the other; secondly
+        by the way in which the Dream is explained away by the
+        doctor. The doctor's explanation is so reasonable that
+        the reader immediately reacts in favour of the Dream.
+        Then, the character of the dreamer himself is made
+        plausibly intuitive; and the stages </font></p>
+<p><font><i>430 </i></font></p>
+<p><font>by which
+        the various parts of the Dream are realized are perfectly
+        managed. Particularly is this true of the scene in'
+        which. after some excellent comedy of humours on the
+        boating party, Miss Gwilt arrives at sunset on the
+        desolate shore of the Norfolk Broads. By means of the
+        Dream, we are kept in a state of tension which makes it
+        possible to believe in characters which otherwise we
+        should find preposterous. </font></p>
+<p><font>The
+        greatest novels have something in them which will ensure
+        their being read, at least by a small number of people,
+        even if the novel, as a literary form, ceases to be
+        written. It is not pretended that the novels of Wilkie
+        Collins have this permanence. They are interesting only
+        if we enjoy 'reading novels'. But novels are still being
+        written; and there is no contemporary novelist who could
+        not learn something from Collins in the art of
+        interesting and exciting the reader. So long as novels
+        are written, the possibilities of melodrama must from
+        time to time be re-explored. The contemporary 'thriller'
+        is in danger of becoming stereotyped; the conventional
+        murder is discovered in the first chapter by the
+        conventional butler, and the murderer is discovered in
+        the last chapter by the conventional inspector-after
+        having been already discovered by the reader. The
+        resources of Wilkie Collins are, in comparison,
+        inexhaustible. </font></p>
+<p><font>And even
+        if we refused to take Collins very seriously by himself,
+        we can hardly fail to treat him with seriousness if we
+        recognize that the art of which he was a master was an
+        art which neither Charles Reade nor Dickens despised. You
+        cannot define Drama and Melodrama so that they shall be
+        reciprocally exclusive; great drama has something
+        melodramatic in it, and the best melodrama partakes of
+        the greatness of drama. <i>The Moonstone is </i>very near
+        to <i>Bleak House. </i>The theft of a diamond has some of
+        the same blighting effect on the lives about it as the
+        suit in Chancery; Rosanna Spearman is destroyed by the
+        diamond as Miss Flite is destroyed by Chancery. Collins's
+        novels suggest </font></p>
+<p><font><i>431</i>
+</font></p>
+<p><font>questions
+        which no student of 'the art of fiction' can afford to
+        neglect. It is possible that the artist can be too
+        conscious of his 'art'. Perhaps Henry James-who in his
+        own practice could be not only 'interesting', but had a
+        very cunning mastery of the finer melodrama-may have had
+        as a critic a bad influence. We cannot afford to forget
+        that the firstand not one of the least
+        difficult-requirements of either prose or verse is that
+        it should be interesting. </font></p>
+</td>
+</tr>
+</table>
+</center></div>
+`,s=`WILKIE COLLINS AND DICKENS It is to be hoped that some scholarly and philosophic critic of the present generation may be inspired to write a book on the history and aesthetic of melodrama. The golden age of melodrama passed, it is true, before any person living was aware of its existence: in the very middle of the last century. But there are many living who are not too young to remember the melodramatic stage before the cinema replaced it; who have sat entranced, in the front stalls of local or provincial theatres, before some representation of East Lynne, or The White Slave, or No Mother to Guide Her; and who are not too old to have observed with curious interest the replacement of dramatic melodrama by cinematographic melodrama, and the dissociation of the elements of the old three-volume melodramatic novel into the various types of the modern 300-page novel. Those who have lived before such terms as 'high-brow fiction', 'thrillers' and 'detective fiction' were invented realize that melodrama is perennial and that the craving for it is perennial and must be satisfied. If we cannot get this satisfaction out of what the publishers present as 'literature', then we will read-with less and less pretence of concealment-what we call 'thrillers'. But in the golden age of melodramatic fiction there was no such distinction. The best novels were thrilling; the distinction of genre between such-and-such a profound 'psychological' novel of to-day and such-and-such a masterly 'detective' novel of to-day is greater than the distinction of genre between Wuthering Heights, or even The Mill on the Floss, and East Lynne, the 422 last of which 'achieved an enormous and instantaneous success, and was translated into every known language, including Parsec and Hindustani'. We believe that several contemporary novels have been 'translated into every known language'; but we are sure that they have less in common with The Golden Bowl, or Ulysses, or even Beauchamp's Career, than East Lynne has in common with Bleak House. In order to enjoy and to appreciate the work of Wilkie Collins, we ought to be able to reassemble the elements which have been dissociated in the modern novel. Collins is the contemporary of Dickens, Thackeray, George Eliot; of Charles Reade and almost of Captain Marryat. He has something in common with all of these novelists; but particularly and significantldy with Dickens. Collins was the friend and sometimes the collaborator of Dickens; and the work of the two men ought to be studied side by side. There is, unhappily for the literary critic, no full biography of Wilkie Collins; and Forster's Life of Dickens is, from this point of view, most unsatisfactory. Forster was a notable biographer; but as a critic of the work of Dickens his view was a very narrow view. To anyone who knows the bare facts of Dickens's acquaintance with Collins, and who has studied the work of the two men. their relationship and their influence upon one another is an important subject of study. And a comparative study of their novels can do much to illuminate the question of the difference between the dramatic and the melodramatic in fiction. Dickens's 'best novel' is probably Bleak House; that is Mr. Chesterton's opinion, and there is no better critic of Dickens living than Mr. Chesterton. Collins's best novelor, at any rate, the only one of Collins's novels which everyone knows- is The Woman in White. Now Bleak House is the novel in which Dickens most closely approaches Collins (and after Bleak House, Little Dorrit and parts of Martin Chuzzlewit); and The Woman in White is the novel in which Collins most closely approaches Dickens. Dickens 423 excelled in character; in the creation of characters of greater intensity than human beings. Collins was not usually strong in the creation of character; but he was a master of plot and situation, of those elements of drama which are most essential to melodrama. Bleak House is Dickens's finest piece of construction; and The Woman in White contains Collins's most real characterization. Everyone knows Count Fosco and Marion Halcombe intimately; only the most perfect Collins reader can remember even half a dozen of his other characters by name. Count Fosco and Marion are indeed real personages to us; as 'real' as much greater characters are, as real as Becky Sharp or Emma Bovary. In comparison with the characters of Dickens they lack only that kind of reality which is almost supernatural, which hardly seems to belong to the character by natural right, but seems rather to descend upon him by a kind of inspiration or grace. Collins's best characters are fabricated, with consummate skill, before our eyes; in Dickens's greatest figures we see no process or calculation. Dickens's figures belong to poetry, like figures of Dante or Shakespeare, in that a single phrase, either by them or about them, may be enough to set them wholly before us. Collins has no phrases. Dickens can with a phrase make a character as real as flesh and blood- What a life young Bailey's was!'-like Farinata Chi fur gli maggior tui? or like Cleopatra, I saw her once Hop forty paces through the public street. Dickens's characters are real because there is no one like them; Collins's because they are so painstakingly coherent and lifelike. Whereas Dickens often introduces a great character carelessly, so that we do not realize, until the story is far advanced, with what a powerful personage we have to do. Collins, at least in these two figures in The Woman in White, employs every advantage of dramatic effect. Much 424 of our impression of Marion is due to the words in which she is first presented: 'The instant my eyes rested on her I was struck by the rare beauty of her form, and by the unaffected grace of her attitude. Her figure was tall, yet not too tall; comely and well developed, yet not fat; her head set on her shoulders with an easy, pliant firmness; her waist, perfection in the eyes of a man, for it occupied its natural place, it filled out its natural circle, it was visibly and delightfully undeformed by stays. She had not heard my entrance into the room, and I allowed myself the luxury of admiring her for a few moments before I moved one of the chairs near me as the least embarrassing means of attracting her attention. She turned towards me immediately. The easy elegance of every movement of her limbs and body, as soon as she began to advance from the far end of the room, set me in a flutter of expectation to see her face clearly. She left the window-and I said to myself, The lady is dark. She moved forward a few steps-and I said to myself, The lady is young. She approached nearer, and I said to myself (with a sense of surprise which words fail me to express), The lady is ugly!' The introduction of Count Fosco-too long to quote in full- requires many more small strokes; but we should observe, Marion Halcombe being already given, that our impression of the Count is made very much stronger by being given to us as Marion's impression of him: 'There are peculiarities in his personal appearance, his habits, and his amusements, which I should blame in the boldest terms, or ridicule in the most merciless manner, if I had seen them in another man. What is it that makes me unable to blame them, or to ridicule them in him ?' After this who can forget the white mice or the canaries, or the way in which Count Fosco treated Sir Percival's sulky bloodhound? If The Woman in White is the greatest of 425 Collins's novels, it is so because of these two characters. If we examine the book apart from Marion and Fosco, we must admit that it is not Collins's finest work of construction, and that certain of his peculiar melodramatic gifts are better displayed in other books. The book is dramatic because of two characters; it is dramatic in the way in which the dramatic differs from the melodramatic. Sir Percival Glyde is a figure of pasteboard, and the mystery and the plot of which he is the centre are almost grotesque. The one of Collins's books which is the most perfect piece of construction, and the best balanced between plot and character, is The Moonstone; the one which reaches the greatest melodramatic intensity is Armadale. The Moonstone is the first and greatest of English detective novels. We say English detective novels, because there is also the work of Poe, which has a pure detective interest.. The detective story, as created by Poe, is something as specialized and as intellectual as a chess problem; whereas the best English detective fiction has relied less on the beauty of the mathematical problem and much more on the intangible human element. In detective fiction England probably excels other countries ; but in a genre invented by Collins and not by Poe. In The Moonstone the mystery is finally solved, not altogether by human ingenuity, but largely by accident. Since Collins, the best heroes of English detective fiction have been, like Sergeant Cuff, fallible; they play their part, but never the sole part, in the unravelling. Sherlock Holmes, not altogether a typical English sleuth, is a partial exception; but even Holmes exists, not solely because of his prowess, but largely because he is, in the Jonsonian sense, a humorous character, with his needle, his boxing, and his violin. But Sergeant Cuff, far more than Holmes, is the ancestor of the healthy generation of amiable, efficient, professional but fallible inspectors of fiction among whom we live to-day. And The Moonstone, a book twice the length of the 'thrillers' that our contemporary masters write, maintains its interest 426 and suspense at every moment. It does this by devices of a Dickensian type; for Collins, in addition to his particular merits, was a Dickens without genius. The book is a comedy of humours. The eccentricities of Mr. Franklin Blake, the satire on false philanthropy in the character of Mr. Godfrey Ablewhite (to say nothing of the Life, Letters and Labours of Miss Jane Ann Stamper), Betteridge with his Robinson Crusoe, and his daughter Penclope, support the narrative. In other of Collins's novels, the trick of passing the narration from one hand to another, and employing every device of letters and diaries, becomes tedious and even implausible (for instance. in Armadale, the terrific villain, Miss Gwilt, commits herself to paper far too often and far too frankly); but in The Moonstone these devices succeed, every time, in stimulating our interest afresh just at the moment when it was about to flag. And in The Moonstone Collins succeeds in bringing into play those aids of 'atmosphere' in which Dickens (and the Brontës) exhibited such genius, and in which Collins has everything except their genius. For his purpose, he does not come off badly. Compare the description of the discovery of Rosanna's death in the Shivering Sands-and notice how carefully, beforehand, the mise-en-scene of the Shivering Sands is prepared for us-with the shipwreck of Steerforth in David Copperfield. We may say 'There is no comparison!' but there is a comparison; and however unfavourable to Collins, it must increase our estimation of his skill. There is another characteristic of Wilkie Collins which also brings him closer to Dickens, and it is a characteristic which has very great melodramatic value: compare the work of Collins with the work of Mrs. Henry Wood, already mentioned, and one sees how important for melodrama is the presence or absence of this. Forster, in his Life of Dickens, observes: On the coincidences, resemblances and surprises of life Dickens liked especially to dwell, and few things moved 427 his fancy so pleasantly. The world, he would say, was so much smaller than we thought it; we were all so connected by fate without knowing it; people supposed to be far apart were so constantly elbowing each other; and tomorrow bore so close a resemblance to nothing half so much as to yesterday.' Forster mentions this peculiarity early in the life of Dickens, long before Dickens became acquainted with Collins. We may take it that this feeling was common to Dickens and Collins, and that it may have been one of the causes of their being drawn so sympathetically together, once they had become acquainted. The two men had obviously in common a passionate feeling for the drama. Each had qualities which the other lacked, and they had certain qualities in common. It is perfectly reasonable to believe that the relations of the two men-of which Forster gives us only the barest and most unsatisfactory hints-affected profoundly the later work of each. We seem to find traces of it in Little Dorrit and The Tale of Two Cities. Collins could never have invented Durdles and Deputy; but Durdles and Deputy were obviously to play their part in a whole, bien charpenté as Collins's work is, and as the work of Dickens prior to Bleak House is not. One of the minor works of Collins which illustrates especially this insistence upon the 'coincidences, resemblances and surprises of life' is The Frozen Deep. The story, as we read it, was patched up from the melodrama which Collins wrote first; which was privately performed with great -success on several occasions, and in which Dickens took the leading part. Collins was the cleverer at writing stage pieces; but we may imagine that Dickens was the cleverer at acting them; and Dickens may have given to the role of Richard Wardour, in acting it, an individuality which it certainly lacks in the story. This story, we may add for the benefit of those who have not read it, depends upon coincidence with a remarkably long arm; for the two men 428 who ought not to meet-the accepted and the rejected lover-do meet, and under the most unlikely conditions they join, without knowing each other's identity, the same Polar Expedition. In The Frozen Deep Collins wrote a piece of pure melodrama. That is to say, it is nothing but melodrama. We are asked to accept an improbability, simply for the sake of seeing the thrilling situation which arises in consequence. But the frontier of drama and melodrama is vague; the difference is largely a matter of emphasis; perhaps no drama has ever been greatly and permanently successful without a large melodramatic element. What is the difference between The Frozen Deep and Oedipus the King? It is the difference between coincidence, set without shame or pretence, and fate-which merges into character. It is not necessary, for high drama, that accident should be eliminated; you cannot formulate the proportion of accident that is permissible. But in great drama character is always felt to benot more important than plot-but somehow integral with plot. At least, one is left with the conviction that if circumstances had not arranged the events to fall out in such and such a way, the personages were. after all, such that they would have ended just as badly, or just as well, and more or less similarly. And sometimes the melodramatic-the accidental-becomes for Collins the dramatic-the fatal. There is one short tale, not one of his best known, and far from being his best-a tale with an extremely improbable ghost - which nevertheless is almost dramatic. It is called The Haunted Hotel; what makes it better than a mere readable second-rate ghost story is the fact that fatality in this story is no longer merely a wire jerking the figures. The principal character, the fatal woman, is herself obsessed by the idea of fatality; her motives are melodramatic; she therefore compels the coincidences to occur, feeling that she is compelled to compel them. In this Story, as the chief character is internally melodramatic, the story itself ceases to be merely melodramatic, and partakes of true drama. 429 There is another characteristic of certain tales of Collins's, which may be said to belong to melodrama, or to the melodramatic part of drama. It consists in delaying, longer than one would conceive it possible to delay, a conclusion which is inevitable and wholly foreseen. A story like The New Magdalen is from a certain moment merely a study in stage suspense; the denouement is postponed, again and again, by every possible ingenuity; the situations are in the most effective sense theatrical, without being in the profounder sense dramatic. They are seldom, as in The Woman in White, situations of conflict between significant personalities; they are more often conflicts between chessmen which merely occupy hostile positions on the board. Such, for instance, is the prolonged battle between Captain Wragge and Mrs. Lecomte at Aldburgh, in No Name. The one of Collins's novels which we should choose as the most typical, or as the best of the more typical, and which we should recommend as a specimen of the melodramatic fiction of the epoch, is Armadale. It has no merit beyond melodrama, and it has every merit that melodrama can have. If Miss Gwilt did not have to bear such a large part of the burden of revealing her own villainy, the construction would be almost perfect. Like most of Collins's novels, it has the immense-and nowadays more and more rare-merit of being never dull. It has, to a very high degree, the peculiar Collins merit above mentioned, which we might call the air of spurious fatality. The machinery of the book is operated by the Dream. The mind of the reader is very carefully prepared for acceptance of the Dream; first by the elaborately staged coincidence of the two cousins getting marooned on the wreck of the ship on which the father of the one had long before entrapped the father of the other; secondly by the way in which the Dream is explained away by the doctor. The doctor's explanation is so reasonable that the reader immediately reacts in favour of the Dream. Then, the character of the dreamer himself is made plausibly intuitive; and the stages 430 by which the various parts of the Dream are realized are perfectly managed. Particularly is this true of the scene in' which. after some excellent comedy of humours on the boating party, Miss Gwilt arrives at sunset on the desolate shore of the Norfolk Broads. By means of the Dream, we are kept in a state of tension which makes it possible to believe in characters which otherwise we should find preposterous. The greatest novels have something in them which will ensure their being read, at least by a small number of people, even if the novel, as a literary form, ceases to be written. It is not pretended that the novels of Wilkie Collins have this permanence. They are interesting only if we enjoy 'reading novels'. But novels are still being written; and there is no contemporary novelist who could not learn something from Collins in the art of interesting and exciting the reader. So long as novels are written, the possibilities of melodrama must from time to time be re-explored. The contemporary 'thriller' is in danger of becoming stereotyped; the conventional murder is discovered in the first chapter by the conventional butler, and the murderer is discovered in the last chapter by the conventional inspector-after having been already discovered by the reader. The resources of Wilkie Collins are, in comparison, inexhaustible. And even if we refused to take Collins very seriously by himself, we can hardly fail to treat him with seriousness if we recognize that the art of which he was a master was an art which neither Charles Reade nor Dickens despised. You cannot define Drama and Melodrama so that they shall be reciprocally exclusive; great drama has something melodramatic in it, and the best melodrama partakes of the greatness of drama. The Moonstone is very near to Bleak House. The theft of a diamond has some of the same blighting effect on the lives about it as the suit in Chancery; Rosanna Spearman is destroyed by the diamond as Miss Flite is destroyed by Chancery. Collins's novels suggest 431 questions which no student of 'the art of fiction' can afford to neglect. It is possible that the artist can be too conscious of his 'art'. Perhaps Henry James-who in his own practice could be not only 'interesting', but had a very cunning mastery of the finer melodrama-may have had as a critic a bad influence. We cannot afford to forget that the firstand not one of the least difficult-requirements of either prose or verse is that it should be interesting.`,c=[],l=[],u={edition:`preserved`,sourceFile:`Essays/secollins.htm`},d=[`thesacredwood`],f={id:e,slug:t,type:n,title:r,sourceFile:i,encoding:a,html:o,text:s,links:c,images:l,provenance:u,backlinks:d};export{d as backlinks,f as default,a as encoding,o as html,e as id,l as images,c as links,u as provenance,t as slug,i as sourceFile,s as text,r as title,n as type};

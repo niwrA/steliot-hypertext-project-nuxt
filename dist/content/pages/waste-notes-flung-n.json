@@ -1,0 +1,100 @@
+{
+  "id": "waste-notes-flung-n",
+  "slug": "flung",
+  "type": "annotation",
+  "title": "Flung their smoke",
+  "sourceFile": "Waste_notes/flung_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>Flung\n        their smoke ...</strong></font><hr noshade=\"\"/>\n<p>Laquearia. V. <i>Aeneid</i>, I, 726: <br/>\n        dependent lychni laqueribus auries <br/>\n        incensi, et noctem flammis funalia vincunt <a href=\"blazing_T.htm\"><img src=\"../images/T.gif\"/></a>\n        [Eliot's note] <br/>\n        Eliot refers to lines from a passage which describe how\n        Dido entertains her royal guests (Aeneas and train).\n        Eliot makes good use of the similarities between\n        Shakespeare's play and Virgil's epic by mixing elements\n        of descriptions from both in this opening paragraph of\n        \"A Game of Chess\" (see detailed discussion\n        below).</p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"aGameofChess.htm\">A Game of Chess</a></td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td>Aeneid I, 7xx-7xx</td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Flung their smoke ... Laquearia. V. Aeneid , I, 726: dependent lychni laqueribus auries incensi, et noctem flammis funalia vincunt [Eliot's note] Eliot refers to lines from a passage which describe how Dido entertains her royal guests (Aeneas and train). Eliot makes good use of the similarities between Shakespeare's play and Virgil's epic by mixing elements of descriptions from both in this opening paragraph of \"A Game of Chess\" (see detailed discussion below). reference topics A Game of Chess Aeneid I, 7xx-7xx back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/blazing_T.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Waste_notes/blazing_T.htm",
+      "pageId": "waste-notes-blazing-t"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/aGameofChess.htm",
+      "fragment": null,
+      "label": "A Game of Chess",
+      "resolvedPath": "Waste_notes/aGameofChess.htm",
+      "pageId": "waste-notes-agameofchess"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/T.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/flung_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-blazing-t",
+    "waste-notes-waste-a"
+  ]
+}

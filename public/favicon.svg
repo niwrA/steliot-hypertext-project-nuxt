@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="T. S. Eliot Hypertext Project">
+  <rect width="64" height="64" rx="10" fill="#f5f1e8"/>
+  <rect x="4" y="4" width="56" height="56" rx="7" fill="none" stroke="#762f24" stroke-width="2"/>
+  <path d="M18 18h28M32 18v28M22 46h20" fill="none" stroke="#211e19" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="47" cy="47" r="4" fill="#762f24"/>
+</svg>

@@ -1,0 +1,55 @@
+{
+  "id": "burbank-notes-protrusive-n",
+  "slug": "protrusive",
+  "type": "annotation",
+  "title": "protrusive",
+  "sourceFile": "Burbank_notes/protrusive_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table bordercolor=\"#000080\">\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>protrusive</strong></font><hr noshade=\"\"/>\n<p>If Bleistein is thinking of racism back home in\n        America, he might be thinking of Walt Witman's racistic <em>Salut\n        au Monde </em>(12): \" You Austral negro, naked, red,\n        sooty, with protrusive lip, groveling, seeking your food!\n        / You Caffre, Berber, Soudanese! / You haggard, uncouth,\n        untutor'd Bedowee! / You plague-swarms in Madras, Nankin,\n        Kaubul, Cairo!\" In \"Dirge,\" Eliot refers\n        also to Graves' disease, of which protrusive eyes was a\n        symptom.</p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td>Structural analysis</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\"</font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "protrusive If Bleistein is thinking of racism back home in America, he might be thinking of Walt Witman's racistic Salut au Monde (12): \" You Austral negro, naked, red, sooty, with protrusive lip, groveling, seeking your food! / You Caffre, Berber, Soudanese! / You haggard, uncouth, untutor'd Bedowee! / You plague-swarms in Madras, Nankin, Kaubul, Cairo!\" In \"Dirge,\" Eliot refers also to Graves' disease, of which protrusive eyes was a symptom. reference topics Structural analysis back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/protrusive_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

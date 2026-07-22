@@ -1,0 +1,26 @@
+{
+  "id": "burbank-notes-img-venice1-gc",
+  "slug": "img-venice1-gc",
+  "type": "image-wrapper",
+  "title": "view from",
+  "sourceFile": "Burbank_notes/IMG_Venice1_GC.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><br/>\n<img src=\"../images/Venice1_GC.jpg\"/></td>\n</tr>\n<tr>\n<td><font><em>view\n        from </em>Grand Canal, <em>Venice<br/>\n</em>Canaletto, ca. 1740.</font></td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "view from Grand Canal, Venice Canaletto, ca. 1740.",
+  "links": [],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/Venice1_GC.jpg",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/IMG_Venice1_GC.htm"
+  },
+  "backlinks": [
+    "burbank-notes-perspective-n"
+  ]
+}

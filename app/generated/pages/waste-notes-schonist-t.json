@@ -1,0 +1,63 @@
+{
+  "id": "waste-notes-schonist-t",
+  "slug": "schonist-t",
+  "type": "source-page",
+  "title": "Schon ist",
+  "sourceFile": "Waste_notes/schonist_T.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div>\n<table>\n<tr>\n<td><font><img alt=\"Translation\" src=\"../images/T.gif\"/>\n<strong>German</strong></font><hr noshade=\"\"/>\n<p>Already half of Europe, already at least half of\n        Eastern Europe, on the way to Chaos, drives drunk in\n        sacred infatuation along the edge of the precipe, sings\n        drunkenly, as though hymn singing, as Dmitri Karamazov\n        [in Dostoyevski's <em>Brothers Karamazov</em>] sang. The\n        offended bourgious laughs at the songs; the saint and the\n        seer hear them with tears.\" </p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td> </td>\n<td><a href=\"publication_data.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</div>\n",
+  "text": "German Already half of Europe, already at least half of Eastern Europe, on the way to Chaos, drives drunk in sacred infatuation along the edge of the precipe, sings drunkenly, as though hymn singing, as Dmitri Karamazov [in Dostoyevski's Brothers Karamazov ] sang. The offended bourgious laughs at the songs; the saint and the seer hear them with tears.\" reference topics back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/publication_data.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/publication_data.htm",
+      "pageId": "burbank-notes-publication-data"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/T.gif",
+      "fragment": null,
+      "alt": "Translation"
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/schonist_T.htm"
+  },
+  "backlinks": [
+    "waste-notes-whatisthatsound-n"
+  ]
+}

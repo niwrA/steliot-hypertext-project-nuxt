@@ -1,0 +1,19 @@
+{
+  "id": "boston-frame",
+  "slug": "boston",
+  "type": "reading-page",
+  "title": "The Boston Evening Transcript",
+  "sourceFile": "Boston_FRAME.htm",
+  "encoding": "windows-1252",
+  "html": "\n<p><a name=\"Title\"></a></p>\n<div><center>\n<table>\n<tr>\n<td><p><font><strong>The\n        Boston Evening Transcript</strong></font><strong> </strong></p>\n<p><font><strong>1917</strong></font></p>\n</td>\n</tr>\n</table>\n</center></div>\n<p><a name=\"Body\"></a></p>\n<div><center>\n<table>\n<tr>\n<td>The readers of the <i>Boston Evening\n        Transcript<br/>\n</i>Sway in the wind like a field of ripe corn.<br/>\n<br/>\n        When evening quickens faintly in the street,<br/>\n        Wakening the appetites of life in some<br/>\n        And to others bringing the <i>Boston Evening Transcript,<br/>\n</i>I mount the steps and ring the bell, turning<br/>\n        Wearily, as one would turn to nod good-bye to La\n        Rochefoucauld,<br/>\n        If the street were time and he at the end of the street,<br/>\n        And I say, 'Cousin Harriet, here is the <i>Boston Evening\n        Transcript.'</i></td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "The Boston Evening Transcript 1917 The readers of the Boston Evening Transcript Sway in the wind like a field of ripe corn. When evening quickens faintly in the street, Wakening the appetites of life in some And to others bringing the Boston Evening Transcript, I mount the steps and ring the bell, turning Wearily, as one would turn to nod good-bye to La Rochefoucauld, If the street were time and he at the end of the street, And I say, 'Cousin Harriet, here is the Boston Evening Transcript.'",
+  "links": [],
+  "images": [],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Boston_FRAME.htm"
+  },
+  "backlinks": [
+    "prufrock-and-other-observations"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "waste-notes-whatisthatsound-n",
+  "slug": "whatisthatsound",
+  "type": "annotation",
+  "title": "what is that sound",
+  "sourceFile": "Waste_notes/whatisthatsound_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> </font><b>what is\n        that sound ...</b><hr noshade=\"\"/>\n<p>Cf. Herman Hesse, <i>Blick ins Chaos</i>: 'Schon ist\n        halb Europa, schon ist zumindest der halbe Osten Europas\n        auf dem Wege zum Chaos, fährt betrunken im heiligen Wahn\n        am Abgrund entlang und singt dazu, singt betrunken und\n        hymnisch wie Dmitri Karamasoff sang. Ueber diese Lieder\n        lacht der Bürger beleidigt, der Heilige und Seher hört\n        sie mit Tränen.' <a href=\"schonist_T.htm\"><font><img alt=\"Translation\" src=\"../images/T.gif\"/></font></a><font> </font>[Eliot's note] </p>\n<table>\n<tr>\n<td> </td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "what is that sound ... Cf. Herman Hesse, Blick ins Chaos : 'Schon ist halb Europa, schon ist zumindest der halbe Osten Europas auf dem Wege zum Chaos, fährt betrunken im heiligen Wahn am Abgrund entlang und singt dazu, singt betrunken und hymnisch wie Dmitri Karamasoff sang. Ueber diese Lieder lacht der Bürger beleidigt, der Heilige und Seher hört sie mit Tränen.' [Eliot's note] back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/schonist_T.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Waste_notes/schonist_T.htm",
+      "pageId": "waste-notes-schonist-t"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/T.gif",
+      "fragment": null,
+      "alt": "Translation"
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/whatisthatsound_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

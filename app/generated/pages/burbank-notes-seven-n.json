@@ -1,0 +1,111 @@
+{
+  "id": "burbank-notes-seven-n",
+  "slug": "seven",
+  "type": "annotation",
+  "title": "the seven laws",
+  "sourceFile": "Burbank_notes/seven_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table bordercolor=\"#000080\">\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>the seven\n        laws</strong></font><hr noshade=\"\"/>\n<p><font>In <em>The Stones of Venice</em>, in\n        the chapter on the St. Mark, John Ruskin explains his\n        seven laws of architecture. At the conclusion, comparing\n        Venice to the tall buildings of the North, he wrote:\n        \"</font>we have here low walls spread before us like\n        the pages of a book, and shafts whose capitals we may\n        touch with our hand.\"</p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"Stones_JR.htm\">The\n                Stones of Venice</a></td>\n<td><a href=\"Stones_JR.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><img src=\"../images/arrowhr.gif\"/><a href=\"Stones2iv_JR.htm\">\n                \"St. Mark\"</a></td>\n<td><a href=\"Stonesi_JR.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td>\"Burbank\" and John Ruskin</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td>Structural analysis</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\"</font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "the seven laws In The Stones of Venice , in the chapter on the St. Mark, John Ruskin explains his seven laws of architecture. At the conclusion, comparing Venice to the tall buildings of the North, he wrote: \" we have here low walls spread before us like the pages of a book, and shafts whose capitals we may touch with our hand.\" reference topics The Stones of Venice \"St. Mark\" \"Burbank\" and John Ruskin Structural analysis back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stones_JR.htm",
+      "fragment": null,
+      "label": "The Stones of Venice",
+      "resolvedPath": "Burbank_notes/Stones_JR.htm",
+      "pageId": "burbank-notes-stones-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stones_JR.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Stones_JR.htm",
+      "pageId": "burbank-notes-stones-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stones2iv_JR.htm",
+      "fragment": null,
+      "label": "\"St. Mark\"",
+      "resolvedPath": "Burbank_notes/Stones2iv_JR.htm",
+      "pageId": "burbank-notes-stones2iv-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stonesi_JR.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Stonesi_JR.htm",
+      "pageId": "burbank-notes-stonesi-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowhr.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/seven_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

@@ -1,0 +1,2401 @@
+{
+  "summary": {
+    "pages": 297,
+    "proposedOrAppliedTitleChanges": 0,
+    "proposedOrAppliedTypeChanges": 0,
+    "remainingWeakTitles": 7,
+    "missingImageReferences": 21,
+    "emptyInternalLinkLabels": 520,
+    "brokenLinksReportedByImporter": 13,
+    "duplicateTitles": 16
+  },
+  "titleChanges": [],
+  "typeChanges": [],
+  "annotatedWorks": [
+    {
+      "id": "among-notes-among-a",
+      "title": "Sweeney Among the Nightingales"
+    },
+    {
+      "id": "burbank-notes-burbank-a",
+      "title": "Burbank with a Baedeker: Bleistein with a Cigar"
+    },
+    {
+      "id": "waste-notes-waste-a",
+      "title": "The Waste Land - T.S. Eliot"
+    }
+  ],
+  "remainingWeakTitles": [
+    {
+      "id": "burbank-notes-introduction",
+      "title": "introduction",
+      "suggestion": "sources",
+      "source": "b",
+      "score": 100
+    },
+    {
+      "id": "waste-notes-enl218",
+      "title": "218_EN",
+      "suggestion": "sources",
+      "source": "strong",
+      "score": 110
+    },
+    {
+      "id": "waste-notes-fourmill-t",
+      "title": "Fourmillante_T",
+      "suggestion": "French",
+      "source": "b",
+      "score": 100
+    },
+    {
+      "id": "waste-notes-philomela",
+      "title": "Philomela",
+      "suggestion": "sources",
+      "source": "strong",
+      "score": 110
+    },
+    {
+      "id": "waste-notes-sonofman",
+      "title": "SonofMan",
+      "suggestion": "sources",
+      "source": "strong",
+      "score": 110
+    },
+    {
+      "id": "waste-notes-stag-om",
+      "title": "Stag_OM",
+      "suggestion": null,
+      "source": null,
+      "score": -999
+    },
+    {
+      "id": "waste-notes-sybil-t",
+      "title": "Sybil_N",
+      "suggestion": "Latin (with quotations in Greek)",
+      "source": "strong",
+      "score": 110
+    }
+  ],
+  "missingImageReferences": [
+    {
+      "pageId": "among-notes-among-m",
+      "path": "images/stressed.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "among-notes-among-m",
+      "path": "images/uslong.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "among-notes-among-m",
+      "path": "images/ghdot.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "among-notes-among-m",
+      "path": "images/ghslur.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "among-notes-among-m",
+      "path": "images/usshort.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "burbank-notes-img-rialto",
+      "path": "images/RialtoCs.jpg",
+      "alt": "Detail from Giovanni Antonio Canal's \"Bridge at Rialto\""
+    },
+    {
+      "pageId": "burbank-notes-img-rialto1988",
+      "path": "images/Rialto1988.jpg",
+      "alt": "Rialto bridge, Venice 1988"
+    },
+    {
+      "pageId": "burbank-notes-img-sebastian",
+      "path": "images/SebastianCs.jpg",
+      "alt": ""
+    },
+    {
+      "pageId": "burbank-notes-img-venice1-gc",
+      "path": "images/Venice1_GC.jpg",
+      "alt": ""
+    },
+    {
+      "pageId": "corlady",
+      "path": "images/correg5s.jpg",
+      "alt": "Correggio's Protrait of a Lady"
+    },
+    {
+      "pageId": "eliot-search",
+      "path": "avmini.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "essays-sweuripides",
+      "path": "Essays/greek3.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "essays-sweuripides",
+      "path": "Essays/greek4.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "essays-sweuripides",
+      "path": "Essays/greek5.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "essays-sweuripides",
+      "path": "Essays/greek6.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "essays-swpoeticdr",
+      "path": "Essays/greek2.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "essays-swtradition",
+      "path": "Essays/greek1.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "portrait-frame",
+      "path": "R.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "portrait-note",
+      "path": "r.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "portrait-note",
+      "path": "sep.gif",
+      "alt": ""
+    },
+    {
+      "pageId": "rhapsody-frame",
+      "path": "R.gif",
+      "alt": ""
+    }
+  ],
+  "emptyInternalLinkLabels": [
+    {
+      "pageId": "among-notes-title-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "among-notes-title-n",
+      "target": "Among_notes/Burbank_M.htm"
+    },
+    {
+      "pageId": "among-notes-title-n",
+      "target": "among-notes-among-a"
+    },
+    {
+      "pageId": "burbank-notes-alltheda-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-alltheda-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-antony-n",
+      "target": "burbank-notes-hercules-h"
+    },
+    {
+      "pageId": "burbank-notes-antony-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-aspern-n",
+      "target": "Burbank_notes/Carnaval_EG.htm"
+    },
+    {
+      "pageId": "burbank-notes-aspern-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-axletree-n",
+      "target": "burbank-notes-axletree"
+    },
+    {
+      "pageId": "burbank-notes-axletree-n",
+      "target": "burbank-notes-istria-h"
+    },
+    {
+      "pageId": "burbank-notes-axletree-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-axletree-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-beatup-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-beatup-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-beatup-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-bentknee-n",
+      "target": "burbank-notes-purgatory-i-da"
+    },
+    {
+      "pageId": "burbank-notes-bentknee-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-bentknee-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-bentknee-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-bentknee-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-bleistein-stseb",
+      "target": "burbank-notes-img-sebastian"
+    },
+    {
+      "pageId": "burbank-notes-bluenailed-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-bridge-n",
+      "target": "burbank-notes-portrait175-jj"
+    },
+    {
+      "pageId": "burbank-notes-bridge-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-bridge-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-bridge-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-burbank-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-burbank-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-burbank-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-burbank-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-burbank-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-chicago-n",
+      "target": "burbank-notes-purgatory-i-da"
+    },
+    {
+      "pageId": "burbank-notes-chicago-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-chicago-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-chicago-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-chicago-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-clipped-n",
+      "target": "burbank-notes-stones-jr"
+    },
+    {
+      "pageId": "burbank-notes-clipped-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-clipped-n",
+      "target": "burbank-notes-img-rialto1988"
+    },
+    {
+      "pageId": "burbank-notes-clipped-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-descend-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-descend-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-descend-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-descend-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-entertainment-n",
+      "target": "burbank-notes-enter-jm"
+    },
+    {
+      "pageId": "burbank-notes-entertainment-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-entertains-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-entertains-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-evenfeet-n",
+      "target": "burbank-notes-life-xvi-ed"
+    },
+    {
+      "pageId": "burbank-notes-evenfeet-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-evenfeet-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-eye-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-ferdinand-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-ferdinand-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-flead-n",
+      "target": "burbank-notes-stones-jr"
+    },
+    {
+      "pageId": "burbank-notes-flead-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-flead-n",
+      "target": "burbank-notes-img-rialto1988"
+    },
+    {
+      "pageId": "burbank-notes-flead-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-horses-n",
+      "target": "burbank-notes-portrait175-jj"
+    },
+    {
+      "pageId": "burbank-notes-horses-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-horses-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-horses-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-istria-n",
+      "target": "burbank-notes-portrait175-jj"
+    },
+    {
+      "pageId": "burbank-notes-istria-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-istria-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-istria-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-jew-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-lights-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-lights-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-lions-n",
+      "target": "burbank-notes-stones-jr"
+    },
+    {
+      "pageId": "burbank-notes-lions-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-lions-n",
+      "target": "burbank-notes-img-rialto1988"
+    },
+    {
+      "pageId": "burbank-notes-lions-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-lot-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-loved-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-loved-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-loved-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-loved-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-loved-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-lustreless-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-money-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-nilnisi-n",
+      "target": "burbank-notes-stsebastian"
+    },
+    {
+      "pageId": "burbank-notes-nilnisi-n",
+      "target": "burbank-notes-stsebasstory"
+    },
+    {
+      "pageId": "burbank-notes-nilnisi-n",
+      "target": "burbank-notes-bleistein-stseb"
+    },
+    {
+      "pageId": "burbank-notes-nilnisi-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-othello-n",
+      "target": "Burbank_notes/Carnaval_EG.htm"
+    },
+    {
+      "pageId": "burbank-notes-othello-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-palms-n",
+      "target": "burbank-notes-gulistan-ss"
+    },
+    {
+      "pageId": "burbank-notes-palms-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-palms-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-palms-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-palms-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-pared-n",
+      "target": "burbank-notes-portrait299-jj"
+    },
+    {
+      "pageId": "burbank-notes-pared-n",
+      "target": "burbank-notes-portrait299-jj"
+    },
+    {
+      "pageId": "burbank-notes-pared-n",
+      "target": "burbank-notes-portrait299-jj"
+    },
+    {
+      "pageId": "burbank-notes-pared-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-passed-n",
+      "target": "burbank-notes-portrait175-jj"
+    },
+    {
+      "pageId": "burbank-notes-passed-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-passed-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-passed-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-passing-n",
+      "target": "burbank-notes-stones-jr"
+    },
+    {
+      "pageId": "burbank-notes-passing-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-passing-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-perspective-n",
+      "target": "burbank-notes-stones-jr"
+    },
+    {
+      "pageId": "burbank-notes-perspective-n",
+      "target": "burbank-notes-education-ha"
+    },
+    {
+      "pageId": "burbank-notes-perspective-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-phoenix-n",
+      "target": "burbank-notes-phoenix-ws"
+    },
+    {
+      "pageId": "burbank-notes-phoenix-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-phthisic-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-piles-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-princess-n",
+      "target": "burbank-notes-portrait175-jj"
+    },
+    {
+      "pageId": "burbank-notes-princess-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-princess-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-princess-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-protozoic-n",
+      "target": "burbank-notes-stones-jr"
+    },
+    {
+      "pageId": "burbank-notes-protozoic-n",
+      "target": "burbank-notes-education-ha"
+    },
+    {
+      "pageId": "burbank-notes-protozoic-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-protrusive-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-rialto-n",
+      "target": "burbank-notes-stones-jr"
+    },
+    {
+      "pageId": "burbank-notes-rialto-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-rialto-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-semite-n",
+      "target": "burbank-notes-purgatory-i-da"
+    },
+    {
+      "pageId": "burbank-notes-semite-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-semite-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-semite-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-semite-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-seven-n",
+      "target": "burbank-notes-stones-jr"
+    },
+    {
+      "pageId": "burbank-notes-seven-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-seven-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-shuttered-n",
+      "target": "burbank-notes-stones-jr"
+    },
+    {
+      "pageId": "burbank-notes-shuttered-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-shuttered-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-shuttered-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-sisters-n",
+      "target": "burbank-notes-sisters-at"
+    },
+    {
+      "pageId": "burbank-notes-sisters-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-slowly-n",
+      "target": "burbank-notes-portrait175-jj"
+    },
+    {
+      "pageId": "burbank-notes-slowly-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-slowly-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-slowly-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-smoky-n",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-smoky-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-stones-jr",
+      "target": "burbank-notes-stonesi-jr"
+    },
+    {
+      "pageId": "burbank-notes-thisorsu-n",
+      "target": "burbank-notes-contemporary-rb"
+    },
+    {
+      "pageId": "burbank-notes-thisorsu-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-thisorsu-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-thisorsu-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-thisorsu-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-times-n",
+      "target": "burbank-notes-stones-jr"
+    },
+    {
+      "pageId": "burbank-notes-times-n",
+      "target": "burbank-notes-education-ha"
+    },
+    {
+      "pageId": "burbank-notes-times-n",
+      "target": "burbank-notes-img-rialto1988"
+    },
+    {
+      "pageId": "burbank-notes-times-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-title-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "burbank-notes-title-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "burbank-notes-title-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "burbank-notes-title-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "burbank-notes-title-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-toccata-n",
+      "target": "burbank-notes-galuppi-rb"
+    },
+    {
+      "pageId": "burbank-notes-toccata-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-trala-n",
+      "target": "GautierProject/Carnaval_TG.htm"
+    },
+    {
+      "pageId": "burbank-notes-trala-n",
+      "target": "Burbank_notes/Carnaval_TG - EN.htm"
+    },
+    {
+      "pageId": "burbank-notes-trala-n",
+      "target": "GautierProject/Carnaval_TG - EN.htm"
+    },
+    {
+      "pageId": "burbank-notes-trala-n",
+      "target": "burbank-notes-carnaval"
+    },
+    {
+      "pageId": "burbank-notes-trala-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-under-n",
+      "target": "burbank-notes-hercules-h"
+    },
+    {
+      "pageId": "burbank-notes-under-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "burbank-notes-viennese-n",
+      "target": "burbank-notes-purgatory-i-da"
+    },
+    {
+      "pageId": "burbank-notes-viennese-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-viennese-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-viennese-n",
+      "target": "burbank-notes-burbank"
+    },
+    {
+      "pageId": "burbank-notes-viennese-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "eliot-books",
+      "target": "books-img-akroyd"
+    },
+    {
+      "pageId": "eliot-books",
+      "target": "books-img-akroyd"
+    },
+    {
+      "pageId": "eliot-search",
+      "target": "www.altavista.digital.com"
+    },
+    {
+      "pageId": "portrait-frame",
+      "target": "portrait-note"
+    },
+    {
+      "pageId": "portrait-frame",
+      "target": "portrait-note"
+    },
+    {
+      "pageId": "rhapsody-frame",
+      "target": "Rhapsody_NOTE.htm"
+    },
+    {
+      "pageId": "waste-notes-agameof-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-agameof-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-alatour-t",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-alatour-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-belladonna-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-belladonna-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-belladonna-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-benefice-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-benefice-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-blazing-t",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-blazing-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-bradford-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-bradford-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-brings-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-brings-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-brings-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-burial-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-burning-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-burning-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-burning-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-butatmy-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-butatmy-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-butatmyb-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-butatmyb-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-bythewaters-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-bythewaters-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-cannon-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-cannon-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-carbuncu-w",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-carbuncu-w",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-chair-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-chair-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-chair-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-cicada-w",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-cicada-w",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-cif-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-cif-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-cocorico-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-cocorico-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-coirolan-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-coirolan-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-datta-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-datta-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-deadsoun-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-deadsoun-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-deadtree-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-deadtree-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-deadtree-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-deathby-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-deathby-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-demobbed-w",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-demobbed-w",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-demotic-w",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-demotic-w",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-ediosent-t",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-ediosent-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-elizabeth-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-elizabeth-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-emptychapel-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-emptychapel-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-etoces-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-etoces-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-etoces-t",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-etoces-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-fabbro-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-fabbro-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-fabbro-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-fabbro-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-fireserm-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-fireserm-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-fireserm-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-fishing-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-fishing-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-flung-n",
+      "target": "waste-notes-blazing-t"
+    },
+    {
+      "pageId": "waste-notes-flung-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-flung-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-flung-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-fourmill-t",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-fourmill-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-gammon-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-gammon-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-goodnigh-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-goodnigh-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-greenwic-w",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-greenwic-w",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-hanged-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-hanged-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-hewhowas-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-hewhowas-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-highbury-n",
+      "target": "waste-notes-ricordit-t"
+    },
+    {
+      "pageId": "waste-notes-highbury-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-highbury-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-hofgarten-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-hurryup-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-hurryup-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-hypocrit-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-ichbin-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-ihadnot-n",
+      "target": "waste-notes-fourmill-t"
+    },
+    {
+      "pageId": "waste-notes-ihadnot-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-ihadnot-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-jugjug-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-jugjug-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-keepthedog-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-keepthedog-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-ladyofro-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-ladyofro-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-ladyofro-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-latourab-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-latourab-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-leman-w",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-leman-w",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-londonbridge-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-londonbridge-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-magnus-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-magnus-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-margate-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-margate-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-moorgate-w",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-moorgate-w",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-mountains-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-mountains-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-mylae-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-mylae-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-olordthou-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-olordthou-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-oneeye-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-oneeye-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-ontheking-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-ontheking-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-packof-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-packof-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-packof-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-pearls-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-pearls-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-philomel-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-philomel-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-phoenici-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-phoenici-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-phoenici-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-poisasco-t",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-poisasco-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-poisascose-n",
+      "target": "waste-notes-poisasco-t"
+    },
+    {
+      "pageId": "waste-notes-poisascose-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-poisascose-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-pound-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-pound-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-pound-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-quandofi-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-quandofi-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-quandofi-t",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-quandofi-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-quivi-t",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-quivi-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-ratsalle-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-ratsalle-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-ricordit-t",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-ricordit-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-riversweats-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-riversweats-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-rudely-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-rudely-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-rudely-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-rudely-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-saintmar-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-saintmar-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-schonist-t",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-schonist-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-shakespehe-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-shakespehe-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-shalliat-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-shalliat-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-shantih-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-shantih-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-sighs-n",
+      "target": "waste-notes-quivi-t"
+    },
+    {
+      "pageId": "waste-notes-sighs-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-sighs-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-smyrna-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-smyrna-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-sonofman-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-sonofman-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-sonofman-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-sosostri-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-sosostri-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-sosostri-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-soundof-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-soundof-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-stanbergersee-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-summer-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-summer-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-swallow-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-swallow-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-sweetthames-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-sweetthames-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-sybil-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-sybil-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-sybil-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-sybil-t",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-sybil-t",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-sybil-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-sylvan-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-sylvan-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-tempest1-2-487-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-tempest1-2-487-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-tempest1-2-487-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-tereu-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-tereu-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-tereu-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-thatcorp-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-thatcorp-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-thekey-n",
+      "target": "waste-notes-ediosent-t"
+    },
+    {
+      "pageId": "waste-notes-thekey-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-thekey-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-thereisshad-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-thereisshad-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-thereisshad-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-thesefragments-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-thesefragments-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-theywash-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-theywash-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-thismusic-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-thismusic-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-threestaves-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-threestaves-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-tiresias-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-tiresias-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-title-n",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-title-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-title-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-title-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-tobring-w",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-tobring-w",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-tocarthage-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-tocarthage-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-unreal-n",
+      "target": "waste-notes-fourmill-t"
+    },
+    {
+      "pageId": "waste-notes-unreal-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-unreal-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-wagner-3",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-wagner-3",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-wagner-3",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-wagner3-24-t",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-wagner3-24-t",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-wagner3-24-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-wagner5-8-t",
+      "target": "burbank-notes-publication-data"
+    },
+    {
+      "pageId": "waste-notes-wagner5-8-t",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-wagner5-8-t",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-sybil-t"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-sybil-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-summer-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-ichbin-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-mountains-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-deadtree-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-thereisshad-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-wagner5-8-t"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-wagner-3"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-wagner3-24-t"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-wagner-3"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-tempest1-2-487-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-unreal-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-ihadnot-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-sighs-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-keepthedog-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-hypocrit-t"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-youhypocrite-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-chair-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-flung-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-sylvan-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-philomel-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-rudely-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-jugjug-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-ratsalle-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-windunde-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-pearls-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-shakespehe-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-weshallplay-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-hurryup-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-goodnigh-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-fireserm-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-sweetthames-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-bythewaters-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-butatmyb-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-ontheking-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-butatmy-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-soundof-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-theywash-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-etoces-t"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-etoces-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-cif-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-tiresias-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-brings-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-brings-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-whenlovely-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-thismusic-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-magnus-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-riversweats-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-elizabeth-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-highbury-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-tocarthage-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-burning-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-olordthou-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-deathby-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-whatthethunder-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-hewhowas-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-whenthehermit-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-whoisthethird-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-whatisthatsound-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-emptychapel-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-cocorico-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-datta-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-benefice-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-thekey-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-fishing-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-shalliat-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-londonbridge-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-poisasco-t"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-poisascose-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-quandofi-t"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-quandofi-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-alatour-t"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-latourab-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-thesefragments-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-whythen-n"
+    },
+    {
+      "pageId": "waste-notes-waste-a",
+      "target": "waste-notes-shantih-n"
+    },
+    {
+      "pageId": "waste-notes-weshallplay-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-weshallplay-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-whatisthatsound-n",
+      "target": "waste-notes-schonist-t"
+    },
+    {
+      "pageId": "waste-notes-whatisthatsound-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-whatisthatsound-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-whatthethunder-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-whatthethunder-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-wheel-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-wheel-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-whenlovely-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-whenlovely-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-whenthehermit-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-whenthehermit-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-whoisthethird-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-whoisthethird-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-whythen-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-whythen-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-windunde-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-windunde-n",
+      "target": "burbank-notes-burbank-a"
+    },
+    {
+      "pageId": "waste-notes-youhypocrite-n",
+      "target": "burbank-notes-title-a"
+    },
+    {
+      "pageId": "waste-notes-youhypocrite-n",
+      "target": "burbank-notes-burbank-a"
+    }
+  ],
+  "brokenLinks": [
+    {
+      "from": "Among_notes/Among_A.htm",
+      "to": "Among_notes/Among_notes/title_N.htm",
+      "label": "Sweeney Among the Nightingales"
+    },
+    {
+      "from": "Among_notes/title_N.htm",
+      "to": "Among_notes/Burbank_M.htm",
+      "label": ""
+    },
+    {
+      "from": "Burbank_notes/Aspern_N.htm",
+      "to": "Burbank_notes/Carnaval_EG.htm",
+      "label": ""
+    },
+    {
+      "from": "Burbank_notes/Carnaval.htm",
+      "to": "Burbank_notes/Carnaval_notes/IMG_wedding.htm",
+      "label": "Detail from \"Marriage at Cana\", Paolo Veronese"
+    },
+    {
+      "from": "Burbank_notes/Othello_N.htm",
+      "to": "Burbank_notes/Carnaval_EG.htm",
+      "label": ""
+    },
+    {
+      "from": "Burbank_notes/trala_N.htm",
+      "to": "GautierProject/Carnaval_TG.htm",
+      "label": "\"Carnaval de Venise\""
+    },
+    {
+      "from": "Burbank_notes/trala_N.htm",
+      "to": "GautierProject/Carnaval_TG.htm",
+      "label": ""
+    },
+    {
+      "from": "Burbank_notes/trala_N.htm",
+      "to": "GautierProject/Carnaval_TGEN.htm",
+      "label": "\"Carnaval de Venise\""
+    },
+    {
+      "from": "Burbank_notes/trala_N.htm",
+      "to": "Burbank_notes/Carnaval_TG - EN.htm",
+      "label": ""
+    },
+    {
+      "from": "Burbank_notes/trala_N.htm",
+      "to": "GautierProject/Carnaval_TG - EN.htm",
+      "label": ""
+    },
+    {
+      "from": "Poems_1920.htm",
+      "to": "Gerontion_FRAME.htm",
+      "label": "Gerontion"
+    },
+    {
+      "from": "Poems_1920.htm",
+      "to": "Erect_FRAME.htm",
+      "label": "Sweeney Erect"
+    },
+    {
+      "from": "Rhapsody_FRAME.htm",
+      "to": "Rhapsody_NOTE.htm",
+      "label": ""
+    }
+  ],
+  "duplicateTitles": [
+    {
+      "title": "tra la,",
+      "count": 9
+    },
+    {
+      "title": "Chicago",
+      "count": 4
+    },
+    {
+      "title": "Sweeney Among the Nightingales",
+      "count": 3
+    },
+    {
+      "title": "Stones of Venice",
+      "count": 3
+    },
+    {
+      "title": "The Cumaean Sibyl",
+      "count": 3
+    },
+    {
+      "title": "translation",
+      "count": 3
+    },
+    {
+      "title": "Burbank with a Baedeker: Bleistein with a Cigar",
+      "count": 2
+    },
+    {
+      "title": "BurbankBurbank is one of the principal characters in Eliot'",
+      "count": 2
+    },
+    {
+      "title": "How it Strikes a Contemporary, Robert Browning.",
+      "count": 2
+    },
+    {
+      "title": "History of Herodotus",
+      "count": 2
+    },
+    {
+      "title": "On the Rialto",
+      "count": 2
+    },
+    {
+      "title": "Portrait of the Artist as a Young Man",
+      "count": 2
+    },
+    {
+      "title": "Poems,",
+      "count": 2
+    },
+    {
+      "title": "The Waste Land - T.S. Eliot",
+      "count": 2
+    },
+    {
+      "title": "A Game of Chess",
+      "count": 2
+    },
+    {
+      "title": "Quandofiam",
+      "count": 2
+    }
+  ]
+}

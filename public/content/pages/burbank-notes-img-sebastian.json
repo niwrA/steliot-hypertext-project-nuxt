@@ -1,0 +1,27 @@
+{
+  "id": "burbank-notes-img-sebastian",
+  "slug": "img-sebastian",
+  "type": "image-wrapper",
+  "title": "St Sebastian",
+  "sourceFile": "Burbank_notes/IMG_sebastian.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><br/>\n<img src=\"../images/SebastianCs.jpg\"/></td>\n</tr>\n<tr>\n<td><font><em>St\n        Sebastian<br/>\n</em>by Mantegna (1431-1506)</font></td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "St Sebastian by Mantegna (1431-1506)",
+  "links": [],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/SebastianCs.jpg",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/IMG_sebastian.htm"
+  },
+  "backlinks": [
+    "burbank-notes-bleistein-stseb",
+    "burbank-notes-stsebastian"
+  ]
+}

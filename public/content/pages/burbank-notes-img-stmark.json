@@ -1,0 +1,30 @@
+{
+  "id": "burbank-notes-img-stmark",
+  "slug": "img-stmark",
+  "type": "image-wrapper",
+  "title": "St Mark and the Winged Lion, 1988.",
+  "sourceFile": "Burbank_notes/IMG_StMark.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><br/>\n<img alt=\"St Mark and the Winged Lion, 1988.\" src=\"../images/StMarks.jpg\"/></td>\n</tr>\n<tr>\n<td><font><em>St\n        Mark and the Winged Lion,<br/>\n</em>Venice 1988</font></td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "St Mark and the Winged Lion, Venice 1988",
+  "links": [],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/StMarks.jpg",
+      "fragment": null,
+      "alt": "St Mark and the Winged Lion, 1988."
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/IMG_StMark.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a",
+    "burbank-notes-clipped-n",
+    "burbank-notes-flead-n",
+    "burbank-notes-lions-n",
+    "burbank-notes-times-n"
+  ]
+}

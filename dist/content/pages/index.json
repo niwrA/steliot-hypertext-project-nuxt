@@ -1,0 +1,17 @@
+{
+  "id": "index",
+  "slug": "index",
+  "type": "frameset",
+  "title": "T.S.Eliot Hypertext Project",
+  "sourceFile": "index.html",
+  "encoding": "windows-1252",
+  "html": "HTML PUBLIC \"-//W3C//DTD HTML 3.2//EN\"<html>\n<head>\n<meta content=\"This site contains annotated and non-annotated versions of T.S. Eliot's poetry upto 1925, a bibliography, links, background articles, etc.\" name=\"description\"/>\n<meta content=\"T.S. Eliot, T.S. Eliot Hypertext, Arwin, The Waste Land, Thomas Stearns Eliot, Eliot, Burbank, Bleistein, Prufrock, T.S. Eliot, Eliot's Poetry, T.S. Eliot's poetry, T.S. Eliot, Arwin van Arum, Arwin, van Arum, Eliot Biography, T.S. Eliot Biography\" name=\"keywords\"/>\n<title>T.S.Eliot Hypertext Project</title>\n</head>\n<frameset frameborder=\"0\" framespacing=\"0\" rows=\"25,*\">\n<frame frameborder=\"0\" framespacing=\"0\" marginheight=\"0\" marginwidth=\"0\" name=\"NavFrame\" noresize=\"\" scrolling=\"no\" src=\"contents.htm\"/>\n<frameset cols=\"295,*\" frameborder=\"0\" framespacing=\"0\">\n<frame frameborder=\"0\" framespacing=\"0\" marginheight=\"0\" marginwidth=\"0\" name=\"EliotNoteFrame\" noresize=\"\" scrolling=\"auto\" src=\"IMG_eliotin1910.htm\"/>\n<frame frameborder=\"0\" framespacing=\"0\" marginheight=\"0\" marginwidth=\"0\" name=\"EliotFrame\" noresize=\"\" scrolling=\"auto\" src=\"Eliot_introduction.htm\"/>\n</frameset>\n</frameset>\n</html>\n",
+  "text": "T.S.Eliot Hypertext Project",
+  "links": [],
+  "images": [],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "index.html"
+  },
+  "backlinks": []
+}

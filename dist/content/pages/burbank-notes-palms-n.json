@@ -1,0 +1,113 @@
+{
+  "id": "burbank-notes-palms-n",
+  "slug": "palms",
+  "type": "annotation",
+  "title": "and elbows, with...",
+  "sourceFile": "Burbank_notes/palms_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>and\n        elbows, with...</strong></font><hr noshade=\"\"/>\n<p><font>Cf. Sadi, <em>Gulistan</em>: \" O\n        thou who showest virtues on the palms of the hand / But\n        concealest thy errors under the armpit / What wilt thou\n        purchase, O vain-glorious fool, / On the day of distress\n        with counterfeit silver?\"</font></p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"gulistan_SS.htm\"><em>Gulistan</em>,\n                6.</a></td>\n<td><a href=\"gulistan_SS.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td><em>Gulistan</em> and Bleistein</td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td>Bleistein and Misrepresentation</td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td>Burbank and Bleistein</td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "and elbows, with... Cf. Sadi, Gulistan : \" O thou who showest virtues on the palms of the hand / But concealest thy errors under the armpit / What wilt thou purchase, O vain-glorious fool, / On the day of distress with counterfeit silver?\" reference topics Gulistan , 6. Gulistan and Bleistein Bleistein and Misrepresentation Burbank and Bleistein back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/gulistan_SS.htm",
+      "fragment": null,
+      "label": "Gulistan , 6.",
+      "resolvedPath": "Burbank_notes/gulistan_SS.htm",
+      "pageId": "burbank-notes-gulistan-ss"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/gulistan_SS.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/gulistan_SS.htm",
+      "pageId": "burbank-notes-gulistan-ss"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/palms_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

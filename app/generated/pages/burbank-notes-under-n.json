@@ -1,0 +1,89 @@
+{
+  "id": "burbank-notes-under-n",
+  "slug": "under",
+  "type": "annotation",
+  "title": "under sea",
+  "sourceFile": "Burbank_notes/under_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table bordercolor=\"#000080\">\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>under sea</strong></font><hr noshade=\"\"/>\n<p><font>From William Shakespeare's Antony and\n        Cleopatra. The music that signifies Hercules' departure\n        (see God Hercules), \"i' the air\" and\n        \"Under the earth\" (4.3.14-5), passes\n        \"under sea\" in Eliot's poem, thus made suitable\n        for Venice.</font></p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td>Antony &amp; Cleopatra</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td><a href=\"Hercules_H.htm\">Hercules\n                in Herod's History</a></td>\n<td><a href=\"Hercules_H.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><font>\"Antony\" and\n                \"Burbank\"</font></td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td>Structural analysis</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\"</font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "under sea From William Shakespeare's Antony and Cleopatra. The music that signifies Hercules' departure (see God Hercules), \"i' the air\" and \"Under the earth\" (4.3.14-5), passes \"under sea\" in Eliot's poem, thus made suitable for Venice. reference topics Antony & Cleopatra Hercules in Herod's History \"Antony\" and \"Burbank\" Structural analysis back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Hercules_H.htm",
+      "fragment": null,
+      "label": "Hercules in Herod's History",
+      "resolvedPath": "Burbank_notes/Hercules_H.htm",
+      "pageId": "burbank-notes-hercules-h"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Hercules_H.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Hercules_H.htm",
+      "pageId": "burbank-notes-hercules-h"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/under_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

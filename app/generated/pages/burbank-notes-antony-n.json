@@ -1,0 +1,89 @@
+{
+  "id": "burbank-notes-antony-n",
+  "slug": "antony",
+  "type": "annotation",
+  "title": "The God Hercules...",
+  "sourceFile": "Burbank_notes/Antony_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table bordercolor=\"#000080\">\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>The God\n        Hercules...</strong></font><hr noshade=\"\"/>\n<p><font>From William Shakespeare's Antony and\n        Cleopatra: \"'Tis the god Hercules, whom Antony lov'd\n        / Now leaves him</font>.\" (4.3.30-1). Notice the\n        difference in capitalisation between Shakespeare and\n        Eliot, which is a kind of clarification on Eliot's part:\n        he makes clear that he refers, presumably like\n        Shakespeare, to \"Hercules the God of sexual\n        virility,\" as he indicated on the Thayer copy. </p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td>Antony and Cleopatra</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td><a href=\"Hercules_H.htm\">Hercules\n                in Herod's History</a></td>\n<td><a href=\"Hercules_H.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><font>\"Antony\" and\n                \"Burbank\"</font></td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td>Structural analysis</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "The God Hercules... From William Shakespeare's Antony and Cleopatra: \"'Tis the god Hercules, whom Antony lov'd / Now leaves him .\" (4.3.30-1). Notice the difference in capitalisation between Shakespeare and Eliot, which is a kind of clarification on Eliot's part: he makes clear that he refers, presumably like Shakespeare, to \"Hercules the God of sexual virility,\" as he indicated on the Thayer copy. reference topics Antony and Cleopatra Hercules in Herod's History \"Antony\" and \"Burbank\" Structural analysis back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Hercules_H.htm",
+      "fragment": null,
+      "label": "Hercules in Herod's History",
+      "resolvedPath": "Burbank_notes/Hercules_H.htm",
+      "pageId": "burbank-notes-hercules-h"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Hercules_H.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Hercules_H.htm",
+      "pageId": "burbank-notes-hercules-h"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/Antony_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

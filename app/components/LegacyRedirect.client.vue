@@ -1,0 +1,16 @@
+<script setup lang="ts">
+onMounted(async () => {
+  const hash = location.hash
+  if (!hash.startsWith('#/')) return
+  try {
+    const map = await $fetch<Record<string, string>>('/content/legacy-routes.json')
+    const key = (hash.slice(1).split('?')[0] ?? '').replace(/\/$/, '')
+    const target = map[key]
+    if (target && target !== location.pathname) location.replace(target)
+  } catch {
+    // Unknown legacy fragments are deliberately left untouched.
+  }
+})
+</script>
+
+<template><span hidden aria-hidden="true" /></template>

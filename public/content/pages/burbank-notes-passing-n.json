@@ -1,0 +1,111 @@
+{
+  "id": "burbank-notes-passing-n",
+  "slug": "passing",
+  "type": "annotation",
+  "title": "passing bell",
+  "sourceFile": "Burbank_notes/passing_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table bordercolor=\"#000080\">\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>passing\n        bell</strong></font><hr noshade=\"\"/>\n<p><font>Bell rung in moment of person's death.\n        Cf. John Ruskin, <em>The Stones of Venice</em>, who\n        wished to record \"</font>the warning which seems to\n        me to be uttered by every one of the fast gaining waves,\n        that beat, Eke passing bells, against the Stones of\n        Venice.\" (§ i).</p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"Stones_JR.htm\">The\n                Stones of Venice</a></td>\n<td><a href=\"Stones_JR.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><img src=\"../images/arrowhr.gif\"/><a href=\"Stonesi_JR.htm\">\n                \"The Quarry\"</a></td>\n<td><a href=\"Stonesi_JR.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td>\"Burbank\" and John Ruskin</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td>Structural analysis</td>\n<td><img src=\"../images/arrowry.gif\"/></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\"</font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "passing bell Bell rung in moment of person's death. Cf. John Ruskin, The Stones of Venice , who wished to record \" the warning which seems to me to be uttered by every one of the fast gaining waves, that beat, Eke passing bells, against the Stones of Venice.\" (§ i). reference topics The Stones of Venice \"The Quarry\" \"Burbank\" and John Ruskin Structural analysis back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stones_JR.htm",
+      "fragment": null,
+      "label": "The Stones of Venice",
+      "resolvedPath": "Burbank_notes/Stones_JR.htm",
+      "pageId": "burbank-notes-stones-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stones_JR.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Stones_JR.htm",
+      "pageId": "burbank-notes-stones-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stonesi_JR.htm",
+      "fragment": null,
+      "label": "\"The Quarry\"",
+      "resolvedPath": "Burbank_notes/Stonesi_JR.htm",
+      "pageId": "burbank-notes-stonesi-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Stonesi_JR.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Stonesi_JR.htm",
+      "pageId": "burbank-notes-stonesi-jr"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowhr.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/passing_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}

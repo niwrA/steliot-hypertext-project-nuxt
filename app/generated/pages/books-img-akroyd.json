@@ -1,0 +1,26 @@
+{
+  "id": "books-img-akroyd",
+  "slug": "img-akroyd",
+  "type": "bibliography-image",
+  "title": "Cover of T.S. Eliot, by Peter Akroyd",
+  "sourceFile": "Books/IMG_Akroyd.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><br/>\n<img alt=\"Akroyd, Peter.  T.S. Eliot. Penguin Books: London, 1984\" src=\"../images/akroyd.jpg\"/></td>\n</tr>\n<tr>\n<td><font>Akroyd,\n        Peter<em>. T.S. Eliot<br/>\n</em>Cover Art: <em>T.S. Eliot,</em><br/>\n        by Wyndham Lewis</font></td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Akroyd, Peter . T.S. Eliot Cover Art: T.S. Eliot, by Wyndham Lewis",
+  "links": [],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/akroyd.jpg",
+      "fragment": null,
+      "alt": "Akroyd, Peter. T.S. Eliot. Penguin Books: London, 1984"
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Books/IMG_Akroyd.htm"
+  },
+  "backlinks": [
+    "eliot-books"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "waste-notes-poisascose-n",
+  "slug": "poisascose",
+  "type": "annotation",
+  "title": "Poi s'ascose nel ...",
+  "sourceFile": "Waste_notes/poisascose_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>Poi\n        s'ascose nel </strong></font><b>...</b><hr noshade=\"\"/>\n<p>V. <i>Purgatorio</i>, XXVI, 148. </p>\n<p>\"Ara vos prec per aquella valor <br/>\n        que vos guida al som de l'esalina, <br/>\n        sovenha vos a temps de ma dolor. <br/>\n        Poi s'ascose nel foco che li affina.\" <a href=\"poisasco_T.htm\"><font><img alt=\"Click here for translation of the Italian\" src=\"../images/T.gif\"/></font></a><font> </font>[Eliot's note] The purgatorial vision of\n        refining fire - as distinct from the fires of lust -\n        represents one of the hopeful fragments shored up by the\n        seeker for regeneration and order. (NA) Eliot used the\n        first three words (Ara Vos Prec) as a title for the\n        English version of the American <em>Poems 1920</em>.<br/>\n          </p>\n<table>\n<tr>\n<td> </td>\n<td><a href=\"title_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n<tr>\n<td><a href=\"Waste_A.htm\"><font>back to \"The Waste Land\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><img src=\"../images/arrowry.gif\"/></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "Poi s'ascose nel ... V. Purgatorio , XXVI, 148. \"Ara vos prec per aquella valor que vos guida al som de l'esalina, sovenha vos a temps de ma dolor. Poi s'ascose nel foco che li affina.\" [Eliot's note] The purgatorial vision of refining fire - as distinct from the fires of lust - represents one of the hopeful fragments shored up by the seeker for regeneration and order. (NA) Eliot used the first three words (Ara Vos Prec) as a title for the English version of the American Poems 1920 . back to \"The Waste Land\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Waste_notes/poisasco_T.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Waste_notes/poisasco_T.htm",
+      "pageId": "waste-notes-poisasco-t"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/title_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/title_A.htm",
+      "pageId": "burbank-notes-title-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Waste_A.htm",
+      "fragment": null,
+      "label": "back to \"The Waste Land\"",
+      "resolvedPath": "Waste_notes/Waste_A.htm",
+      "pageId": "waste-notes-waste-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Waste_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/T.gif",
+      "fragment": null,
+      "alt": "Click here for translation of the Italian"
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Waste_notes/poisascose_N.htm"
+  },
+  "backlinks": [
+    "waste-notes-waste-a"
+  ]
+}

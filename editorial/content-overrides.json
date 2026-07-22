@@ -1,0 +1,11 @@
+{
+  "burbank-notes-img-rialto": {
+    "title": "The Rialto Bridge by Canaletto",
+    "note": "Corrects a recovered image-wrapper title that incorrectly identified the image as Eliot in 1910."
+  },
+  "burbank-notes-title-a": {
+    "type": "annotation",
+    "title": "Title of “Burbank with a Baedeker: Bleistein with a Cigar”",
+    "note": "This is an annotation about the poem title, not a primary annotated work."
+  }
+}

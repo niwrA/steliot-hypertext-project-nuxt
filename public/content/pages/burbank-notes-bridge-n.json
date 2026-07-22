@@ -1,0 +1,107 @@
+{
+  "id": "burbank-notes-bridge-n",
+  "slug": "bridge",
+  "type": "annotation",
+  "title": "little bridge...",
+  "sourceFile": "Burbank_notes/bridge_N.htm",
+  "encoding": "windows-1252",
+  "html": "\n<div><center>\n<table>\n<tr>\n<td><font><img src=\"../images/R.gif\"/> <strong>little\n        bridge...</strong></font><hr noshade=\"\"/>\n<p><font>A little bridge in Venice is very\n        common, of course, but a bridge is also a conventional\n        symbol for making a decision, and this one is presumably\n        taken from <em>Portrait of the Artist as a Young Man</em>,\n        where Stephen Daedalus, rather than taking orders,\n        chooses to gain his own wisdom by dwelling among the\n        \"snares of sin.\" (p. 175) The most famous\n        little bridge in Venice is the Bridge of Sighs.</font></p>\n<p><font><em>reference topics</em></font></p>\n<table>\n<tr>\n<td><a href=\"Portrait175_JJ.htm\">Portrait of the Artist</a></td>\n<td><a href=\"Portrait175_JJ.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td>\"Portait\" and \"Burbank\"</td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td><a href=\"Burbank.htm\">discussion\n                of Burbank</a></td>\n<td><a href=\"Burbank.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n<tr>\n<td><a href=\"Burbank_A.htm\"><font>back to \"Burbank\" </font></a></td>\n<td><a href=\"Burbank_A.htm\"><font><img src=\"../images/arrowry.gif\"/></font></a></td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</center></div>\n",
+  "text": "little bridge... A little bridge in Venice is very common, of course, but a bridge is also a conventional symbol for making a decision, and this one is presumably taken from Portrait of the Artist as a Young Man , where Stephen Daedalus, rather than taking orders, chooses to gain his own wisdom by dwelling among the \"snares of sin.\" (p. 175) The most famous little bridge in Venice is the Bridge of Sighs. reference topics Portrait of the Artist \"Portait\" and \"Burbank\" discussion of Burbank back to \"Burbank\"",
+  "links": [
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Portrait175_JJ.htm",
+      "fragment": null,
+      "label": "Portrait of the Artist",
+      "resolvedPath": "Burbank_notes/Portrait175_JJ.htm",
+      "pageId": "burbank-notes-portrait175-jj"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Portrait175_JJ.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Portrait175_JJ.htm",
+      "pageId": "burbank-notes-portrait175-jj"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "discussion of Burbank",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank.htm",
+      "pageId": "burbank-notes-burbank"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "back to \"Burbank\"",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    },
+    {
+      "kind": "internal",
+      "path": "Burbank_notes/Burbank_A.htm",
+      "fragment": null,
+      "label": "",
+      "resolvedPath": "Burbank_notes/Burbank_A.htm",
+      "pageId": "burbank-notes-burbank-a"
+    }
+  ],
+  "images": [
+    {
+      "kind": "internal",
+      "path": "images/R.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    },
+    {
+      "kind": "internal",
+      "path": "images/arrowry.gif",
+      "fragment": null,
+      "alt": ""
+    }
+  ],
+  "provenance": {
+    "edition": "preserved",
+    "sourceFile": "Burbank_notes/bridge_N.htm"
+  },
+  "backlinks": [
+    "burbank-notes-burbank-a"
+  ]
+}
