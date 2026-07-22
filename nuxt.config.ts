@@ -1,10 +1,9 @@
 import { readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
-import { canonicalPath, type Manifest } from './shared/content'
 
-const manifest:Manifest=JSON.parse(readFileSync(resolve('public/content/manifest.json'),'utf8'))
-const scholarlyRoutes=manifest.pages.map(canonicalPath).sort()
-const routes=['/','/about/','/search/',...scholarlyRoutes]
+const routes: string[] = JSON.parse(
+  readFileSync(resolve('public/content/routes.json'), 'utf8')
+)
 
 export default defineNuxtConfig({
   compatibilityDate:'2026-07-22',
