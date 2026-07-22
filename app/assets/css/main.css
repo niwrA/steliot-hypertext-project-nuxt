@@ -39,3 +39,15 @@
 a[data-page-type="annotation"]:hover>.annotation-tooltip,a[data-page-type="annotation"]:focus>.annotation-tooltip,a[data-page-type="annotation"]:focus-visible>.annotation-tooltip{visibility:visible;opacity:1;transform:translate(-50%,0)}
 @media(max-width:700px),(hover:none){.annotation-tooltip{display:none}}
 @media(prefers-reduced-motion:reduce){.annotation-tooltip{transition:none}}
+
+.related li {
+  break-inside: avoid;
+}
+
+.related a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 48px;
+  padding: 0.35rem 0;
+  line-height: 1.35;
+}
