@@ -1,0 +1,50 @@
+{
+  "among_notes/among_a.htm::among_notes/among_notes/title_n.htm": {
+    "href": "/annotation/among-notes-title-n/",
+    "provenance": "Corrects a duplicated Among_notes path segment; the recovered title annotation is among-notes-title-n."
+  },
+  "among_notes/title_n.htm::among_notes/burbank_m.htm": {
+    "href": "/read/among-notes-among-m/",
+    "provenance": "The adjacent labelled link names the discussion of metre and points to Among_M.htm; the arrow's Burbank_M.htm target is a legacy copy-and-paste error."
+  },
+  "burbank_notes/aspern_n.htm::burbank_notes/carnaval_eg.htm": {
+    "renderAs": "text",
+    "provenance": "The missing target is attached only to an unlabeled navigation arrow; no recoverable destination exists."
+  },
+  "burbank_notes/carnaval.htm::burbank_notes/carnaval_notes/img_wedding.htm": {
+    "href": "https://collections.louvre.fr/en/ark:/53355/cl010064382",
+    "provenance": "Official Louvre collection record for Paolo Veronese's The Wedding Feast at Cana."
+  },
+  "burbank_notes/othello_n.htm::burbank_notes/carnaval_eg.htm": {
+    "renderAs": "text",
+    "provenance": "The missing target is attached only to an unlabeled navigation arrow; no recoverable destination exists."
+  },
+  "burbank_notes/trala_n.htm::gautierproject/carnaval_tg.htm": {
+    "href": "https://fr.wikisource.org/wiki/Variations_sur_le_Carnaval_de_Venise_(RDDM)",
+    "provenance": "Public-domain French text of Théophile Gautier's Variations sur le Carnaval de Venise at Wikisource."
+  },
+  "burbank_notes/trala_n.htm::gautierproject/carnaval_tgen.htm": {
+    "href": "https://www.gutenberg.org/cache/epub/29521/pg29521-images.html#VARIATIONS_ON_THE_CARNIVAL_OF_VENICE",
+    "provenance": "Public-domain English translation by Agnes Lee in Project Gutenberg ebook 29521."
+  },
+  "burbank_notes/trala_n.htm::burbank_notes/carnaval_tg - en.htm": {
+    "href": "https://www.gutenberg.org/cache/epub/29521/pg29521-images.html#VARIATIONS_ON_THE_CARNIVAL_OF_VENICE",
+    "provenance": "Public-domain English translation by Agnes Lee in Project Gutenberg ebook 29521."
+  },
+  "burbank_notes/trala_n.htm::gautierproject/carnaval_tg - en.htm": {
+    "href": "https://www.gutenberg.org/cache/epub/29521/pg29521-images.html#VARIATIONS_ON_THE_CARNIVAL_OF_VENICE",
+    "provenance": "Public-domain English translation by Agnes Lee in Project Gutenberg ebook 29521."
+  },
+  "poems_1920.htm::gerontion_frame.htm": {
+    "renderAs": "text",
+    "provenance": "The linked work page is absent from the recovered archive; retain its visible title without manufacturing a destination."
+  },
+  "poems_1920.htm::erect_frame.htm": {
+    "renderAs": "text",
+    "provenance": "The linked work page is absent from the recovered archive; retain its visible title without manufacturing a destination."
+  },
+  "rhapsody_frame.htm::rhapsody_note.htm": {
+    "renderAs": "text",
+    "provenance": "The missing target is attached only to an unlabeled reference icon; no recoverable annotation exists."
+  }
+}

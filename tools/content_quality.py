@@ -21,6 +21,7 @@ CONTENT = ROOT / "public" / "content"
 PAGES = CONTENT / "pages"
 OVERRIDES = ROOT / "editorial" / "content-overrides.json"
 ASSET_REPLACEMENTS = ROOT / "editorial" / "asset-replacements.json"
+LINK_REPLACEMENTS = ROOT / "editorial" / "link-replacements.json"
 REPORT_JSON = ROOT / "reports" / "content-quality.json"
 REPORT_MD = ROOT / "reports" / "content-quality.md"
 
@@ -34,6 +35,10 @@ def clean(value: str | None) -> str:
     value = html.unescape(value or "")
     value = SPACE.sub(" ", value).strip(" \t\r\n|-")
     return value
+
+
+def link_key(source: str, target: str) -> str:
+    return f"{source.replace(chr(92), '/').lower()}::{target.replace(chr(92), '/').lower()}"
 
 
 class Extractor(HTMLParser):
@@ -143,6 +148,7 @@ def main() -> int:
 
     overrides = load_json(OVERRIDES) if OVERRIDES.exists() else {}
     asset_replacements = load_json(ASSET_REPLACEMENTS) if ASSET_REPLACEMENTS.exists() else {}
+    link_replacements = load_json(LINK_REPLACEMENTS) if LINK_REPLACEMENTS.exists() else {}
     page_files = sorted(PAGES.glob("*.json"))
     pages = [load_json(p) for p in page_files]
     changes: list[dict[str, Any]] = []
@@ -218,6 +224,16 @@ def main() -> int:
         for title, count in Counter(clean(p.get("title")) for p in pages).most_common()
         if title and count > 1
     ]
+    importer_broken_links = load_json(CONTENT / "broken-links.json")
+    repaired_links = [
+        {**item, **link_replacements[link_key(item["from"], item["to"])]}
+        for item in importer_broken_links
+        if link_key(item["from"], item["to"]) in link_replacements
+    ]
+    unresolved_links = [
+        item for item in importer_broken_links
+        if link_key(item["from"], item["to"]) not in link_replacements
+    ]
     report = {
         "summary": {
             "pages": len(pages),
@@ -227,7 +243,8 @@ def main() -> int:
             "missingImageReferences": len(missing_images),
             "editorialImageReplacements": len(replaced_images),
             "emptyInternalLinkLabels": len(empty_labels),
-            "brokenLinksReportedByImporter": len(load_json(CONTENT / "broken-links.json")),
+            "brokenLinksReportedByImporter": len(unresolved_links),
+            "editorialLinkReplacements": len(repaired_links),
             "duplicateTitles": len(duplicate_titles),
         },
         "titleChanges": changes,
@@ -237,7 +254,8 @@ def main() -> int:
         "missingImageReferences": missing_images,
         "editorialImageReplacements": replaced_images,
         "emptyInternalLinkLabels": empty_labels,
-        "brokenLinks": load_json(CONTENT / "broken-links.json"),
+        "brokenLinks": unresolved_links,
+        "editorialLinkReplacements": repaired_links,
         "duplicateTitles": duplicate_titles,
     }
     REPORT_JSON.parent.mkdir(exist_ok=True)

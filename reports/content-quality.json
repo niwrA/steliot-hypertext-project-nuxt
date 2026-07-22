@@ -7,7 +7,8 @@
     "missingImageReferences": 5,
     "editorialImageReplacements": 16,
     "emptyInternalLinkLabels": 520,
-    "brokenLinksReportedByImporter": 13,
+    "brokenLinksReportedByImporter": 0,
+    "editorialLinkReplacements": 13,
     "duplicateTitles": 16
   },
   "titleChanges": [],
@@ -2250,71 +2251,98 @@
       "target": "burbank-notes-burbank-a"
     }
   ],
-  "brokenLinks": [
+  "brokenLinks": [],
+  "editorialLinkReplacements": [
     {
       "from": "Among_notes/Among_A.htm",
       "to": "Among_notes/Among_notes/title_N.htm",
-      "label": "Sweeney Among the Nightingales"
+      "label": "Sweeney Among the Nightingales",
+      "href": "/annotation/among-notes-title-n/",
+      "provenance": "Corrects a duplicated Among_notes path segment; the recovered title annotation is among-notes-title-n."
     },
     {
       "from": "Among_notes/title_N.htm",
       "to": "Among_notes/Burbank_M.htm",
-      "label": ""
+      "label": "",
+      "href": "/read/among-notes-among-m/",
+      "provenance": "The adjacent labelled link names the discussion of metre and points to Among_M.htm; the arrow's Burbank_M.htm target is a legacy copy-and-paste error."
     },
     {
       "from": "Burbank_notes/Aspern_N.htm",
       "to": "Burbank_notes/Carnaval_EG.htm",
-      "label": ""
+      "label": "",
+      "renderAs": "text",
+      "provenance": "The missing target is attached only to an unlabeled navigation arrow; no recoverable destination exists."
     },
     {
       "from": "Burbank_notes/Carnaval.htm",
       "to": "Burbank_notes/Carnaval_notes/IMG_wedding.htm",
-      "label": "Detail from \"Marriage at Cana\", Paolo Veronese"
+      "label": "Detail from \"Marriage at Cana\", Paolo Veronese",
+      "href": "https://collections.louvre.fr/en/ark:/53355/cl010064382",
+      "provenance": "Official Louvre collection record for Paolo Veronese's The Wedding Feast at Cana."
     },
     {
       "from": "Burbank_notes/Othello_N.htm",
       "to": "Burbank_notes/Carnaval_EG.htm",
-      "label": ""
+      "label": "",
+      "renderAs": "text",
+      "provenance": "The missing target is attached only to an unlabeled navigation arrow; no recoverable destination exists."
     },
     {
       "from": "Burbank_notes/trala_N.htm",
       "to": "GautierProject/Carnaval_TG.htm",
-      "label": "\"Carnaval de Venise\""
+      "label": "\"Carnaval de Venise\"",
+      "href": "https://fr.wikisource.org/wiki/Variations_sur_le_Carnaval_de_Venise_(RDDM)",
+      "provenance": "Public-domain French text of Théophile Gautier's Variations sur le Carnaval de Venise at Wikisource."
     },
     {
       "from": "Burbank_notes/trala_N.htm",
       "to": "GautierProject/Carnaval_TG.htm",
-      "label": ""
+      "label": "",
+      "href": "https://fr.wikisource.org/wiki/Variations_sur_le_Carnaval_de_Venise_(RDDM)",
+      "provenance": "Public-domain French text of Théophile Gautier's Variations sur le Carnaval de Venise at Wikisource."
     },
     {
       "from": "Burbank_notes/trala_N.htm",
       "to": "GautierProject/Carnaval_TGEN.htm",
-      "label": "\"Carnaval de Venise\""
+      "label": "\"Carnaval de Venise\"",
+      "href": "https://www.gutenberg.org/cache/epub/29521/pg29521-images.html#VARIATIONS_ON_THE_CARNIVAL_OF_VENICE",
+      "provenance": "Public-domain English translation by Agnes Lee in Project Gutenberg ebook 29521."
     },
     {
       "from": "Burbank_notes/trala_N.htm",
       "to": "Burbank_notes/Carnaval_TG - EN.htm",
-      "label": ""
+      "label": "",
+      "href": "https://www.gutenberg.org/cache/epub/29521/pg29521-images.html#VARIATIONS_ON_THE_CARNIVAL_OF_VENICE",
+      "provenance": "Public-domain English translation by Agnes Lee in Project Gutenberg ebook 29521."
     },
     {
       "from": "Burbank_notes/trala_N.htm",
       "to": "GautierProject/Carnaval_TG - EN.htm",
-      "label": ""
+      "label": "",
+      "href": "https://www.gutenberg.org/cache/epub/29521/pg29521-images.html#VARIATIONS_ON_THE_CARNIVAL_OF_VENICE",
+      "provenance": "Public-domain English translation by Agnes Lee in Project Gutenberg ebook 29521."
     },
     {
       "from": "Poems_1920.htm",
       "to": "Gerontion_FRAME.htm",
-      "label": "Gerontion"
+      "label": "Gerontion",
+      "renderAs": "text",
+      "provenance": "The linked work page is absent from the recovered archive; retain its visible title without manufacturing a destination."
     },
     {
       "from": "Poems_1920.htm",
       "to": "Erect_FRAME.htm",
-      "label": "Sweeney Erect"
+      "label": "Sweeney Erect",
+      "renderAs": "text",
+      "provenance": "The linked work page is absent from the recovered archive; retain its visible title without manufacturing a destination."
     },
     {
       "from": "Rhapsody_FRAME.htm",
       "to": "Rhapsody_NOTE.htm",
-      "label": ""
+      "label": "",
+      "renderAs": "text",
+      "provenance": "The missing target is attached only to an unlabeled reference icon; no recoverable annotation exists."
     }
   ],
   "duplicateTitles": [

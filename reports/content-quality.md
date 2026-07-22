@@ -11,7 +11,8 @@ Mode: **dry run**
 - **missingImageReferences**: 5
 - **editorialImageReplacements**: 16
 - **emptyInternalLinkLabels**: 520
-- **brokenLinksReportedByImporter**: 13
+- **brokenLinksReportedByImporter**: 0
+- **editorialLinkReplacements**: 13
 - **duplicateTitles**: 16
 
 ## Title changes
