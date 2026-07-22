@@ -22,11 +22,8 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 20.19.5
           cache: npm
-
-      - name: Pin stable npm
-        run: npm install --global npm@11.9.0
 
       - name: Show tool versions
         run: |
