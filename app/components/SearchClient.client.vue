@@ -1,7 +1,33 @@
 <script setup lang="ts">
 type Entry={id:string;title:string;type:string;text:string;url:string};type Meta={file:string}
 const route=useRoute(),router=useRouter();const query=ref(typeof route.query.q==='string'?route.query.q:'');const entries=useState<Entry[]>('search-index',()=>[]);const loading=ref(!entries.value.length)
-onMounted(async()=>{if(!entries.value.length){const meta=await $fetch<Meta>('/content/search-meta.json');entries.value=await $fetch<Entry[]>(`/content/${meta.file}`)}loading.value=false})
+onMounted(async () => {
+  if (!entries.value.length) {
+    const metaResponse = await fetch('/content/search-meta.json')
+    if (!metaResponse.ok) throw new Error(`Unable to load search metadata (${metaResponse.status})`)
+    const meta = await metaResponse.json() as Meta
+    const indexResponse = await fetch(`/content/${encodeURIComponent(meta.file)}`)
+    if (!indexResponse.ok) throw new Error(`Unable to load search index (${indexResponse.status})`)
+    entries.value = await indexResponse.json() as Entry[]
+  }
+  loading.value = false
+})
 watch(query,q=>{router.replace({path:'/search/',query:q?{q}: {}})});watch(()=>route.query.q,q=>{const v=typeof q==='string'?q:'';if(v!==query.value)query.value=v})
 const results=computed(()=>{const terms=query.value.toLocaleLowerCase().trim().split(/\s+/).filter(Boolean);if(!terms.length)return[];return entries.value.map(entry=>{const title=entry.title.toLowerCase(),text=entry.text.toLowerCase();let score=0;for(const t of terms){if(title===t)score+=20;else if(title.includes(t))score+=8;if(text.includes(t))score+=2}const at=Math.max(0,...terms.map(t=>text.indexOf(t)).filter(n=>n>=0));return{entry,score,snippet:`${at>70?'…':''}${entry.text.replace(/\s+/g,' ').slice(Math.max(0,at-70),at+180)}…`}}).filter(x=>x.score>=terms.length*2).sort((a,b)=>b.score-a.score).slice(0,60)})
-</script><template><div><label for="q">Search words or exact title</label><input id="q" v-model="query" type="search" maxlength="200" autocomplete="off" placeholder="Poem, person, place, phrase…"><p aria-live="polite">{{loading?'Loading search index…':query?`${results.length} results`:'Enter one or more words.'}}</p><ol class="search-results"><li v-for="r in results" :key="r.entry.id"><NuxtLink :to="r.entry.url"><span><strong>{{r.entry.title}}</strong><small>{{r.entry.type.replaceAll('-',' ')}}</small></span><p>{{r.snippet}}</p></NuxtLink></li></ol></div></template>
+</script>
+
+<template>
+  <div>
+    <label for="q">Search words or exact title</label>
+    <input id="q" v-model="query" type="search" maxlength="200" autocomplete="off" placeholder="Poem, person, place, phrase…">
+    <p aria-live="polite">{{ loading ? 'Loading search index…' : query ? `${results.length} results` : 'Enter one or more words.' }}</p>
+    <ol class="search-results">
+      <li v-for="result in results" :key="result.entry.id">
+        <NuxtLink :to="result.entry.url">
+          <span><strong>{{ result.entry.title }}</strong><small>{{ result.entry.type.replaceAll('-', ' ') }}</small></span>
+          <p>{{ result.snippet }}</p>
+        </NuxtLink>
+      </li>
+    </ol>
+  </div>
+</template>

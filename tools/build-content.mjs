@@ -18,6 +18,12 @@ if(errors.length){console.error(errors.join('\n'));process.exit(1)}
 const json=JSON.stringify(search),hash=createHash('sha256').update(json).digest('hex').slice(0,12),file=`search-index.${hash}.json`
 for(const old of readdirSync(content).filter(x=>/^search-index\.[a-f0-9]+\.json$/.test(x)&&x!==file)){/* old generated files are harmless locally but excluded by clean checkouts */}
 writeFileSync(resolve(content,file),json);writeFileSync(resolve(content,'search-meta.json'),JSON.stringify({file,count:search.length},null,2)+'\n')
+const annotationPreviews=Object.fromEntries(manifest.pages.filter(p=>p.type==='annotation').map((item)=>{
+  const page=JSON.parse(readFileSync(resolve(content,'pages',`${item.id}.json`),'utf8'))
+  const text=String(page.text||'').replace(/\s+/g,' ').trim()
+  return [item.id,{title:item.title,text:text.slice(0,260)}]
+}))
+writeFileSync(resolve(root,'app/generated/annotation-previews.json'),JSON.stringify(annotationPreviews,null,2)+'\n')
 const legacy=Object.fromEntries(manifest.pages.flatMap(p=>[[`/read/${p.id}`,url(p)],[`/read/${p.slug}`,url(p)]]));writeFileSync(resolve(content,'legacy-routes.json'),JSON.stringify(legacy,null,2)+'\n')
 const fixed=['/','/about/','/search/'];const all=[...fixed,...routes.keys()].sort();writeFileSync(resolve(content,'routes.json'),JSON.stringify(all,null,2)+'\n')
 const base=(process.env.NUXT_PUBLIC_SITE_URL||'').replace(/\/$/,'');writeFileSync(resolve(root,'public/sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${all.map(r=>`  <url><loc>${base?base+r:r}</loc></url>`).join('\n')}\n</urlset>\n`)

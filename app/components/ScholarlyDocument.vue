@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { canonicalPath, pageKindLabel, type ContentPage, type ManifestPage } from '../../shared/content'
+import { canonicalPath, pageKindLabel, type ContentPage, type ManifestPage } from '~~/shared/content'
 import { manifest, pageById, renderLegacy } from '../utils/content'
 const props=defineProps<{page:ContentPage}>();const html=computed(()=>renderLegacy(props.page));const related=computed(()=>props.page.backlinks.map(id=>pageById.get(id)).filter((p):p is ManifestPage=>!!p).slice(0,20));const primaryWorks=manifest.pages.filter(p=>p.type==='annotated-text');const rootId=`content-${props.page.id}`
 </script>
