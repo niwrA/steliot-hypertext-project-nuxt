@@ -1,0 +1,78 @@
+{
+  "avmini.gif": {
+    "renderAs": "omit",
+    "alt": "",
+    "provenance": "Obsolete third-party search-service badge omitted; adjacent archival text retains the link purpose."
+  },
+  "r.gif": {
+    "renderAs": "legacy-marker",
+    "alt": "reference",
+    "provenance": "Recovered reference icons are rendered as the existing accessible CSS marker."
+  },
+  "sep.gif": {
+    "url": "/editorial-assets/separator.svg",
+    "alt": "",
+    "provenance": "Neutral editorial reconstruction of a missing decorative separator."
+  },
+  "essays/greek1.gif": {
+    "renderAs": "text",
+    "text": "ὁ δὲ νοῦς ἴσως θειότερόν τι καὶ ἀπαθές ἐστιν",
+    "alt": "Greek quotation from Aristotle",
+    "provenance": "Transcribed from The Sacred Wood (Project Gutenberg ebook 57795), Tradition and the Individual Talent, section III."
+  },
+  "essays/greek2.gif": {
+    "renderAs": "text",
+    "text": "ὑλή",
+    "alt": "Greek: hylē",
+    "provenance": "Transcribed from The Sacred Wood (Project Gutenberg ebook 57795), The Possibility of a Poetic Drama."
+  },
+  "essays/greek3.gif": {
+    "renderAs": "text",
+    "text": "σκιάν",
+    "alt": "Greek: shadow",
+    "provenance": "Transcribed from The Sacred Wood (Project Gutenberg ebook 57795), Euripides and Professor Murray."
+  },
+  "essays/greek4.gif": {
+    "renderAs": "text",
+    "text": "ἑξῆλθον δόμων",
+    "alt": "Greek quotation from Euripides’ Medea",
+    "provenance": "Transcribed from The Sacred Wood (Project Gutenberg ebook 57795), Euripides and Professor Murray."
+  },
+  "essays/greek5.gif": {
+    "renderAs": "text",
+    "text": "ἐμοὶ δ’ ἄελπτον πρᾶγμα προσπεσὸν τόδε\nψυχὴν διέφθαρκ᾽· οἴχομαι δὲ καὶ βίου\nχάριν μεθεῖσα κατθανεῖν χρηῄζω, φίλαι.",
+    "alt": "Three lines in Greek from Euripides’ Medea",
+    "provenance": "Transcribed from The Sacred Wood (Project Gutenberg ebook 57795), Euripides and Professor Murray."
+  },
+  "essays/greek6.gif": {
+    "renderAs": "text",
+    "text": "οὐκ ἔστιν ἄλλη φρὴν μιαιφονωτέρα",
+    "alt": "Greek quotation from Euripides’ Medea",
+    "provenance": "Transcribed from The Sacred Wood (Project Gutenberg ebook 57795), Euripides and Professor Murray."
+  },
+  "images/stressed.gif": {
+    "url": "/editorial-assets/scansion/stressed.svg",
+    "alt": "stressed syllable",
+    "provenance": "Editorial reconstruction of a missing scansion glyph; dimensions and function follow Among_notes/Among_M.htm."
+  },
+  "images/uslong.gif": {
+    "url": "/editorial-assets/scansion/unstressed-long.svg",
+    "alt": "unstressed syllable",
+    "provenance": "Editorial reconstruction of a missing scansion glyph; dimensions and function follow Among_notes/Among_M.htm."
+  },
+  "images/usshort.gif": {
+    "url": "/editorial-assets/scansion/unstressed-short.svg",
+    "alt": "two short unstressed syllables",
+    "provenance": "Editorial reconstruction of a missing scansion glyph; dimensions and function follow Among_notes/Among_M.htm."
+  },
+  "images/ghdot.gif": {
+    "url": "/editorial-assets/scansion/pause-dot.svg",
+    "alt": "metrical pause",
+    "provenance": "Editorial reconstruction of a missing scansion glyph; dimensions and function follow Among_notes/Among_M.htm."
+  },
+  "images/ghslur.gif": {
+    "url": "/editorial-assets/scansion/slur.svg",
+    "alt": "syllables joined metrically",
+    "provenance": "Editorial reconstruction of a missing scansion glyph; dimensions and function follow Among_notes/Among_M.htm."
+  }
+}

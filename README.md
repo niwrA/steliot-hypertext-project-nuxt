@@ -4,16 +4,16 @@ This repository contains the modern, statically generated edition of the T. S. E
 
 ## Development and validation
 
-Requires Node.js 22 and Python 3.
+Requires Node.js 22, Corepack, and Python 3. The package scripts locate Python through `py -3` on Windows and `python3` on Linux/macOS, with compatible fallbacks.
 
 ```bash
-npm ci
-npm run dev
-npm run content:audit
-npm run typecheck
-npm test
-npm run build
-npm run generate
+corepack pnpm install --frozen-lockfile
+corepack pnpm dev
+corepack pnpm content:audit
+corepack pnpm typecheck
+corepack pnpm test
+corepack pnpm build
+corepack pnpm generate
 node tools/validate-output.mjs
 ```
 

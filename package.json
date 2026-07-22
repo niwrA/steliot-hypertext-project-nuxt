@@ -11,8 +11,8 @@
     "typecheck": "nuxt typecheck",
     "lint": "eslint .",
     "test": "vitest run",
-    "content:audit": "python3 tools/content_quality.py",
-    "content:enrich": "python3 tools/content_quality.py --apply",
+    "content:audit": "node tools/run-python.mjs tools/content_quality.py",
+    "content:enrich": "node tools/run-python.mjs tools/content_quality.py --apply",
     "content:routes": "node tools/build-content.mjs",
     "validate": "npm run content:audit && npm run typecheck && npm test && npm run generate && node tools/validate-output.mjs"
   },

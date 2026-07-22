@@ -1,10 +1,13 @@
 import manifestData from '../generated/manifest.json'
 import annotationPreviewData from '../generated/annotation-previews.json'
+import assetReplacementData from '../../editorial/asset-replacements.json'
 import { canonicalPath, type ContentPage, type Manifest, type ManifestPage } from '../../shared/content'
 
 export const manifest=manifestData as Manifest
 export const pageById=new Map(manifest.pages.map(p=>[p.id,p]))
 const annotationPreviews = annotationPreviewData as Record<string, { title: string; text: string }>
+type AssetReplacement = { url?: string; alt: string; renderAs?: 'legacy-marker' | 'omit' | 'text'; text?: string }
+const assetReplacements = assetReplacementData as Record<string, AssetReplacement>
 export const publicUrl=(id:string)=>{const p=pageById.get(id);return p?canonicalPath(p):undefined}
 const cleanPath = (value: string) => (decodeURIComponent(value)
   .replace(/\\/g, '/')
@@ -22,6 +25,8 @@ const resolveRelative=(sourceFile:string,href:string)=>{
 }
 export const assetUrl=(sourceFile:string,src:string)=>{
   const clean = decodeURIComponent(src).replace(/\\/g, '/').split(/[?#]/)[0] ?? ''
+  const replacement = assetReplacements[resolveRelative(sourceFile, clean)]
+  if(replacement?.url)return replacement.url
   const marker=clean.toLowerCase().lastIndexOf('/images/')
   if(marker>=0)return `/content/assets/${clean.slice(marker+1).split('/').map(encodeURIComponent).join('/')}`
   if(clean.toLowerCase().startsWith('images/'))return `/content/assets/${clean.split('/').map(encodeURIComponent).join('/')}`
@@ -36,7 +41,10 @@ export function renderLegacy(page:ContentPage){
   let html=page.html.replace(/<img\b([^>]*?)src=["']([^"']+)["']([^>]*)>/gi,(all,before,src,after)=>{
     const name=cleanPath(src).split('/').pop()||'';const icon=name==='r.gif'?'R':name==='a.gif'?'A':name==='t.gif'?'T':name.startsWith('arrowl')?'←':name.startsWith('arrow')?'→':''
     if(icon)return `<span class="legacy-marker" role="img" aria-label="${icon==='R'?'Reference':icon==='A'?'Annotation':icon==='T'?'Translation':'Navigation'}">${icon}</span>`
-    const alt=/\balt=["']([^"']*)/i.exec(`${before}${after}`)?.[1]||''
+    const replacement = assetReplacements[resolveRelative(page.sourceFile, src)]
+    if(replacement?.renderAs==='omit')return ''
+    if(replacement?.renderAs==='text'&&replacement.text)return `<span class="editorial-greek" lang="grc" aria-label="${esc(replacement.alt)}">${esc(replacement.text).replace(/\n/g,'<br>')}</span>`
+    const alt=/\balt=["']([^"']*)/i.exec(`${before}${after}`)?.[1]||replacement?.alt||''
     return `<img ${before}src="${assetUrl(page.sourceFile,src)}"${after} loading="lazy" tabindex="0" data-lightbox alt="${esc(alt||page.title)}">`
   })
   html=html.replace(/<a\b([^>]*?)href=["']([^"']+)["']([^>]*)>/gi,(all,before,href,after)=>{

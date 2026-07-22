@@ -42,3 +42,4 @@ a[data-page-type="annotation"]:hover>.annotation-tooltip,a[data-page-type="annot
 .related li{break-inside:avoid}
 .related a{display:inline-flex;align-items:center;min-height:48px;padding:.35rem 0;line-height:1.35}
 .search-results mark{padding:0 .08em;border-radius:.12em;background:#ead7ad;color:inherit}
+.editorial-greek{display:inline-block;font-family:"Noto Serif",Georgia,"Times New Roman",serif;font-size:1.08em;line-height:1.65;letter-spacing:.015em}

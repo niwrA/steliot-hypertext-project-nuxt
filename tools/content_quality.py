@@ -20,6 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CONTENT = ROOT / "public" / "content"
 PAGES = CONTENT / "pages"
 OVERRIDES = ROOT / "editorial" / "content-overrides.json"
+ASSET_REPLACEMENTS = ROOT / "editorial" / "asset-replacements.json"
 REPORT_JSON = ROOT / "reports" / "content-quality.json"
 REPORT_MD = ROOT / "reports" / "content-quality.md"
 
@@ -141,12 +142,14 @@ def main() -> int:
     args = ap.parse_args()
 
     overrides = load_json(OVERRIDES) if OVERRIDES.exists() else {}
+    asset_replacements = load_json(ASSET_REPLACEMENTS) if ASSET_REPLACEMENTS.exists() else {}
     page_files = sorted(PAGES.glob("*.json"))
     pages = [load_json(p) for p in page_files]
     changes: list[dict[str, Any]] = []
     type_changes: list[dict[str, Any]] = []
     weak: list[dict[str, Any]] = []
     missing_images_map: dict[tuple[str, str], dict[str, str]] = {}
+    replaced_images_map: dict[tuple[str, str], dict[str, str]] = {}
     empty_labels: list[dict[str, str]] = []
 
     for path, page in zip(page_files, pages):
@@ -174,7 +177,14 @@ def main() -> int:
         for image in page.get("images", []):
             image_path = image.get("path") or image.get("resolvedPath")
             if image.get("kind") == "internal" and image_path and not (CONTENT / "assets" / image_path).exists():
-                missing_images_map[(page["id"], image_path)] = {"pageId": page["id"], "path": image_path, "alt": clean(image.get("alt"))}
+                replacement = asset_replacements.get(image_path.lower())
+                replacement_path = ROOT / "public" / replacement.get("url", "").lstrip("/") if replacement and replacement.get("url") else None
+                record = {"pageId": page["id"], "path": image_path, "alt": clean(image.get("alt"))}
+                replacement_is_rendered = replacement and replacement.get("renderAs") in {"legacy-marker", "omit", "text"}
+                if replacement and ((replacement_path and replacement_path.exists()) or replacement_is_rendered):
+                    replaced_images_map[(page["id"], image_path)] = {**record, "replacement": replacement.get("url") or replacement.get("renderAs"), "provenance": replacement.get("provenance", "")}
+                else:
+                    missing_images_map[(page["id"], image_path)] = record
         for link in page.get("links", []):
             if link.get("kind") == "internal" and not clean(link.get("label")):
                 empty_labels.append({"pageId": page["id"], "target": link.get("pageId") or link.get("path", "")})
@@ -202,6 +212,7 @@ def main() -> int:
         dump_json(CONTENT / "search-index.json", search, compact=True)
 
     missing_images = list(missing_images_map.values())
+    replaced_images = list(replaced_images_map.values())
     duplicate_titles = [
         {"title": title, "count": count}
         for title, count in Counter(clean(p.get("title")) for p in pages).most_common()
@@ -214,6 +225,7 @@ def main() -> int:
             "proposedOrAppliedTypeChanges": len(type_changes),
             "remainingWeakTitles": len(weak),
             "missingImageReferences": len(missing_images),
+            "editorialImageReplacements": len(replaced_images),
             "emptyInternalLinkLabels": len(empty_labels),
             "brokenLinksReportedByImporter": len(load_json(CONTENT / "broken-links.json")),
             "duplicateTitles": len(duplicate_titles),
@@ -223,6 +235,7 @@ def main() -> int:
         "annotatedWorks": [{"id": p["id"], "title": clean(p.get("title"))} for p in pages if p.get("type") == "annotated-text"],
         "remainingWeakTitles": weak,
         "missingImageReferences": missing_images,
+        "editorialImageReplacements": replaced_images,
         "emptyInternalLinkLabels": empty_labels,
         "brokenLinks": load_json(CONTENT / "broken-links.json"),
         "duplicateTitles": duplicate_titles,

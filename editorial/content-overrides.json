@@ -3,9 +3,73 @@
     "title": "The Rialto Bridge by Canaletto",
     "note": "Corrects a recovered image-wrapper title that incorrectly identified the image as Eliot in 1910."
   },
+  "burbank-notes-aspern-n": {
+    "title": "The gondola stopped, the old palace was there…",
+    "note": "Uses the annotated passage linked from the poem instead of the duplicated recovered title."
+  },
+  "burbank-notes-burbank-n": {
+    "title": "Burbank",
+    "note": "Uses the annotated name linked from the poem instead of the duplicated recovered title."
+  },
+  "burbank-notes-entertainment-n": {
+    "title": "So the countess passed on…",
+    "note": "Uses the annotated passage linked from the poem instead of the duplicated recovered title."
+  },
+  "burbank-notes-introduction": {
+    "title": "Introduction to “Burbank with a Baedeker: Bleistein with a Cigar”",
+    "note": "Expands the generic recovered title using the page heading and inbound link context."
+  },
+  "burbank-notes-othello-n": {
+    "title": "Goats and monkeys",
+    "note": "Uses the annotated phrase linked from the poem instead of the duplicated recovered title."
+  },
+  "burbank-notes-pared-n": {
+    "title": "Pared his claws",
+    "note": "Uses the annotated phrase linked from the poem instead of the duplicated recovered title."
+  },
   "burbank-notes-title-a": {
     "type": "annotation",
     "title": "Title of “Burbank with a Baedeker: Bleistein with a Cigar”",
     "note": "This is an annotation about the poem title, not a primary annotated work."
+  },
+  "burbank-notes-title-n": {
+    "title": "Title: “Burbank with a Baedeker: Bleistein with a Cigar”",
+    "note": "Uses the linked title and identifies this record as its annotation instead of retaining the duplicated recovered title."
+  },
+  "burbank-notes-toccata-n": {
+    "title": "With such hair too!",
+    "note": "Uses the annotated phrase linked from the poem instead of the duplicated recovered title."
+  },
+  "burbank-notes-trala-n": {
+    "title": "Tra-la-la-la-la-la-lair",
+    "note": "Uses the annotated phrase linked from the poem instead of the duplicated recovered title."
+  },
+  "waste-notes-title-n": {
+    "title": "Title: “The Waste Land”",
+    "note": "Uses the linked title and identifies this record as its annotation instead of retaining the duplicated recovered title."
+  },
+  "waste-notes-enl218": {
+    "title": "Eliot’s Note to Line 218 (Tiresias)",
+    "note": "Uses the page opening and the descriptive inbound link instead of the recovered filename."
+  },
+  "waste-notes-fourmill-t": {
+    "title": "“Fourmillante cité” — English Translation",
+    "note": "Identifies the translated Baudelaire phrase instead of retaining the recovered filename."
+  },
+  "waste-notes-philomela": {
+    "title": "Philomela and the Nightingale",
+    "note": "Uses the page heading and inbound link text."
+  },
+  "waste-notes-sonofman": {
+    "title": "Son of Man",
+    "note": "Uses the page heading and inbound link text instead of the recovered filename."
+  },
+  "waste-notes-stag-om": {
+    "title": "Ovid: The Transformation of Actaeon into a Stag",
+    "note": "Uses the work attribution and page heading instead of the recovered filename."
+  },
+  "waste-notes-sybil-t": {
+    "title": "Petronius’s Cumaean Sibyl — Latin and Greek",
+    "note": "Identifies the source, subject, and languages instead of retaining the incorrect recovered filename."
   }
 }

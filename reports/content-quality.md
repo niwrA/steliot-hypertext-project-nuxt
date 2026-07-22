@@ -7,8 +7,9 @@ Mode: **dry run**
 - **pages**: 297
 - **proposedOrAppliedTitleChanges**: 0
 - **proposedOrAppliedTypeChanges**: 0
-- **remainingWeakTitles**: 7
-- **missingImageReferences**: 21
+- **remainingWeakTitles**: 0
+- **missingImageReferences**: 5
+- **editorialImageReplacements**: 16
 - **emptyInternalLinkLabels**: 520
 - **brokenLinksReportedByImporter**: 13
 - **duplicateTitles**: 16

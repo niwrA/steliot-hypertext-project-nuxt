@@ -3,8 +3,9 @@
     "pages": 297,
     "proposedOrAppliedTitleChanges": 0,
     "proposedOrAppliedTypeChanges": 0,
-    "remainingWeakTitles": 7,
-    "missingImageReferences": 21,
+    "remainingWeakTitles": 0,
+    "missingImageReferences": 5,
+    "editorialImageReplacements": 16,
     "emptyInternalLinkLabels": 520,
     "brokenLinksReportedByImporter": 13,
     "duplicateTitles": 16
@@ -25,83 +26,8 @@
       "title": "The Waste Land - T.S. Eliot"
     }
   ],
-  "remainingWeakTitles": [
-    {
-      "id": "burbank-notes-introduction",
-      "title": "introduction",
-      "suggestion": "sources",
-      "source": "b",
-      "score": 100
-    },
-    {
-      "id": "waste-notes-enl218",
-      "title": "218_EN",
-      "suggestion": "sources",
-      "source": "strong",
-      "score": 110
-    },
-    {
-      "id": "waste-notes-fourmill-t",
-      "title": "Fourmillante_T",
-      "suggestion": "French",
-      "source": "b",
-      "score": 100
-    },
-    {
-      "id": "waste-notes-philomela",
-      "title": "Philomela",
-      "suggestion": "sources",
-      "source": "strong",
-      "score": 110
-    },
-    {
-      "id": "waste-notes-sonofman",
-      "title": "SonofMan",
-      "suggestion": "sources",
-      "source": "strong",
-      "score": 110
-    },
-    {
-      "id": "waste-notes-stag-om",
-      "title": "Stag_OM",
-      "suggestion": null,
-      "source": null,
-      "score": -999
-    },
-    {
-      "id": "waste-notes-sybil-t",
-      "title": "Sybil_N",
-      "suggestion": "Latin (with quotations in Greek)",
-      "source": "strong",
-      "score": 110
-    }
-  ],
+  "remainingWeakTitles": [],
   "missingImageReferences": [
-    {
-      "pageId": "among-notes-among-m",
-      "path": "images/stressed.gif",
-      "alt": ""
-    },
-    {
-      "pageId": "among-notes-among-m",
-      "path": "images/uslong.gif",
-      "alt": ""
-    },
-    {
-      "pageId": "among-notes-among-m",
-      "path": "images/ghdot.gif",
-      "alt": ""
-    },
-    {
-      "pageId": "among-notes-among-m",
-      "path": "images/ghslur.gif",
-      "alt": ""
-    },
-    {
-      "pageId": "among-notes-among-m",
-      "path": "images/usshort.gif",
-      "alt": ""
-    },
     {
       "pageId": "burbank-notes-img-rialto",
       "path": "images/RialtoCs.jpg",
@@ -126,61 +52,120 @@
       "pageId": "corlady",
       "path": "images/correg5s.jpg",
       "alt": "Correggio's Protrait of a Lady"
+    }
+  ],
+  "editorialImageReplacements": [
+    {
+      "pageId": "among-notes-among-m",
+      "path": "images/stressed.gif",
+      "alt": "",
+      "replacement": "/editorial-assets/scansion/stressed.svg",
+      "provenance": "Editorial reconstruction of a missing scansion glyph; dimensions and function follow Among_notes/Among_M.htm."
+    },
+    {
+      "pageId": "among-notes-among-m",
+      "path": "images/uslong.gif",
+      "alt": "",
+      "replacement": "/editorial-assets/scansion/unstressed-long.svg",
+      "provenance": "Editorial reconstruction of a missing scansion glyph; dimensions and function follow Among_notes/Among_M.htm."
+    },
+    {
+      "pageId": "among-notes-among-m",
+      "path": "images/ghdot.gif",
+      "alt": "",
+      "replacement": "/editorial-assets/scansion/pause-dot.svg",
+      "provenance": "Editorial reconstruction of a missing scansion glyph; dimensions and function follow Among_notes/Among_M.htm."
+    },
+    {
+      "pageId": "among-notes-among-m",
+      "path": "images/ghslur.gif",
+      "alt": "",
+      "replacement": "/editorial-assets/scansion/slur.svg",
+      "provenance": "Editorial reconstruction of a missing scansion glyph; dimensions and function follow Among_notes/Among_M.htm."
+    },
+    {
+      "pageId": "among-notes-among-m",
+      "path": "images/usshort.gif",
+      "alt": "",
+      "replacement": "/editorial-assets/scansion/unstressed-short.svg",
+      "provenance": "Editorial reconstruction of a missing scansion glyph; dimensions and function follow Among_notes/Among_M.htm."
     },
     {
       "pageId": "eliot-search",
       "path": "avmini.gif",
-      "alt": ""
+      "alt": "",
+      "replacement": "omit",
+      "provenance": "Obsolete third-party search-service badge omitted; adjacent archival text retains the link purpose."
     },
     {
       "pageId": "essays-sweuripides",
       "path": "Essays/greek3.gif",
-      "alt": ""
+      "alt": "",
+      "replacement": "text",
+      "provenance": "Transcribed from The Sacred Wood (Project Gutenberg ebook 57795), Euripides and Professor Murray."
     },
     {
       "pageId": "essays-sweuripides",
       "path": "Essays/greek4.gif",
-      "alt": ""
+      "alt": "",
+      "replacement": "text",
+      "provenance": "Transcribed from The Sacred Wood (Project Gutenberg ebook 57795), Euripides and Professor Murray."
     },
     {
       "pageId": "essays-sweuripides",
       "path": "Essays/greek5.gif",
-      "alt": ""
+      "alt": "",
+      "replacement": "text",
+      "provenance": "Transcribed from The Sacred Wood (Project Gutenberg ebook 57795), Euripides and Professor Murray."
     },
     {
       "pageId": "essays-sweuripides",
       "path": "Essays/greek6.gif",
-      "alt": ""
+      "alt": "",
+      "replacement": "text",
+      "provenance": "Transcribed from The Sacred Wood (Project Gutenberg ebook 57795), Euripides and Professor Murray."
     },
     {
       "pageId": "essays-swpoeticdr",
       "path": "Essays/greek2.gif",
-      "alt": ""
+      "alt": "",
+      "replacement": "text",
+      "provenance": "Transcribed from The Sacred Wood (Project Gutenberg ebook 57795), The Possibility of a Poetic Drama."
     },
     {
       "pageId": "essays-swtradition",
       "path": "Essays/greek1.gif",
-      "alt": ""
+      "alt": "",
+      "replacement": "text",
+      "provenance": "Transcribed from The Sacred Wood (Project Gutenberg ebook 57795), Tradition and the Individual Talent, section III."
     },
     {
       "pageId": "portrait-frame",
       "path": "R.gif",
-      "alt": ""
+      "alt": "",
+      "replacement": "legacy-marker",
+      "provenance": "Recovered reference icons are rendered as the existing accessible CSS marker."
     },
     {
       "pageId": "portrait-note",
       "path": "r.gif",
-      "alt": ""
+      "alt": "",
+      "replacement": "legacy-marker",
+      "provenance": "Recovered reference icons are rendered as the existing accessible CSS marker."
     },
     {
       "pageId": "portrait-note",
       "path": "sep.gif",
-      "alt": ""
+      "alt": "",
+      "replacement": "/editorial-assets/separator.svg",
+      "provenance": "Neutral editorial reconstruction of a missing decorative separator."
     },
     {
       "pageId": "rhapsody-frame",
       "path": "R.gif",
-      "alt": ""
+      "alt": "",
+      "replacement": "legacy-marker",
+      "provenance": "Recovered reference icons are rendered as the existing accessible CSS marker."
     }
   ],
   "emptyInternalLinkLabels": [
@@ -2334,10 +2319,6 @@
   ],
   "duplicateTitles": [
     {
-      "title": "tra la,",
-      "count": 9
-    },
-    {
       "title": "Chicago",
       "count": 4
     },
@@ -2395,6 +2376,10 @@
     },
     {
       "title": "Quandofiam",
+      "count": 2
+    },
+    {
+      "title": "Son of Man",
       "count": 2
     }
   ]
