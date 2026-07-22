@@ -28,20 +28,43 @@ jobs:
           submodules: true
           lfs: false
 
-      - name: Build, validate and deploy generated site
-        id: builddeploy
-        uses: Azure/static-web-apps-deploy@v1
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10.28.2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.22.0
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --no-frozen-lockfile
+
+      - name: Audit, test and generate static site
+        run: |
+          pnpm run content:audit
+          pnpm run typecheck
+          pnpm test
+          pnpm run content:routes
+          pnpm exec nuxt generate
+          node tools/validate-output.mjs
         env:
           NUXT_PUBLIC_SITE_URL: ${{ vars.NUXT_PUBLIC_SITE_URL }}
           NUXT_PUBLIC_ISSUE_URL: ${{ vars.NUXT_PUBLIC_ISSUE_URL }}
+
+      - name: Deploy generated site
+        id: builddeploy
+        uses: Azure/static-web-apps-deploy@v1
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_WITTY_DESERT_047FB4A10 }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: upload
-          app_location: /
+          app_location: .output/public
           api_location: ""
-          output_location: .output/public
-          app_build_command: npm run validate
+          output_location: ""
+          skip_app_build: true
 
   close_pull_request_job:
     if: >-

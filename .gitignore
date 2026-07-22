@@ -4,3 +4,4 @@ node_modules
 .data
 *.tsbuildinfo
 .DS_Store
+dist
