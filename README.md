@@ -1,6 +1,6 @@
 # T. S. Eliot Hypertext Project — static Nuxt edition
 
-This repository contains the modern, statically generated edition of the T. S. Eliot Hypertext Project, created by Arwin van Arum in 1998. The recovered HTML is treated as archival source material; derived JSON under `public/content/` remains reproducible and editorial corrections live in `editorial/content-overrides.json`.
+This repository contains the modern, statically generated edition of the T. S. Eliot Hypertext Project, started by Arwin van Arum in 1998. The recovered HTML is treated as archival source material; derived JSON under `public/content/` remains reproducible and editorial corrections live in `editorial/content-overrides.json`.
 
 ## Development and validation
 
