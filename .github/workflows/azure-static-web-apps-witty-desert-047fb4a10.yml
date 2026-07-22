@@ -26,7 +26,7 @@ jobs:
           cache: npm
 
       - name: Pin stable npm
-        run: npm install --global npm@10.9.2
+        run: npm install --global npm@11.9.0
 
       - name: Show tool versions
         run: |
