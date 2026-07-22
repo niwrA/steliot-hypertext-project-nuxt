@@ -3,13 +3,7 @@ import { copyFileSync,existsSync,mkdirSync,readFileSync,readdirSync,writeFileSyn
 import { resolve } from 'node:path'
 const root=resolve(import.meta.dirname,'..'),content=resolve(root,'public/content')
 const manifest=JSON.parse(readFileSync(resolve(content,'manifest.json'),'utf8'))
-const generated=resolve(root,'app/generated')
-const generatedPages=resolve(generated,'pages')
-mkdirSync(generatedPages,{recursive:true})
-copyFileSync(resolve(content,'manifest.json'),resolve(generated,'manifest.json'))
-for(const name of readdirSync(resolve(content,'pages')).filter(name=>name.endsWith('.json')).sort()){
-  copyFileSync(resolve(content,'pages',name),resolve(generatedPages,name))
-}
+mkdirSync(resolve(root,'app/generated'),{recursive:true});copyFileSync(resolve(content,'manifest.json'),resolve(root,'app/generated/manifest.json'))
 const namespace=t=>t==='annotation'?'annotation':['image-wrapper','bibliography-image'].includes(t)?'image':['bibliography','source-page'].includes(t)?'reference':'read'
 const url=p=>`/${namespace(p.type)}/${p.id}/`
 const errors=[],routes=new Map(),ids=new Set();

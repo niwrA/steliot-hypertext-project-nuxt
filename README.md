@@ -1,6 +1,6 @@
 # T. S. Eliot Hypertext Project — static Nuxt edition
 
-This repository contains the modern, statically generated edition of the T. S. Eliot Hypertext Project, started by Arwin van Arum in 1998. The recovered HTML is treated as archival source material; derived JSON under `public/content/` remains reproducible and editorial corrections live in `editorial/content-overrides.json`.
+This repository contains the modern, statically generated edition of the T. S. Eliot Hypertext Project, created by Arwin van Arum in 1998. The recovered HTML is treated as archival source material; derived JSON under `public/content/` remains reproducible and editorial corrections live in `editorial/content-overrides.json`.
 
 ## Development and validation
 
@@ -48,7 +48,7 @@ Use these exact settings:
 | Build command | `npm run generate` |
 | Node version | `22` |
 
-The included workflow builds and validates first, then uploads `.output/public` with `skip_app_build: true`. Add the repository secret `AZURE_STATIC_WEB_APPS_API_TOKEN` and repository variables `NUXT_PUBLIC_SITE_URL` and, optionally, `NUXT_PUBLIC_ISSUE_URL`. `staticwebapp.config.json` provides a real 404 rewrite (status 404), MIME types, cache policy, and security headers; there is no SPA fallback.
+The included Azure-created workflow identity is retained in `.github/workflows/azure-static-web-apps-witty-desert-047fb4a10.yml`. It builds and validates first, then uploads `.output/public` with `skip_app_build: true`. It uses the existing Azure resource secret `AZURE_STATIC_WEB_APPS_API_TOKEN_WITTY_DESERT_047FB4A10`; do not rename that secret unless the Azure resource is reconnected. Add repository variables `NUXT_PUBLIC_SITE_URL` and, optionally, `NUXT_PUBLIC_ISSUE_URL`. `staticwebapp.config.json` provides a real 404 rewrite (status 404), MIME types, cache policy, and security headers; there is no SPA fallback.
 
 ## Editorial and audit policy
 

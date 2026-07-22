@@ -1,19 +1,18 @@
 import manifestData from '../generated/manifest.json'
-import { canonicalPath, type ContentPage, type Manifest, type ManifestPage } from '~~/shared/content'
+import { canonicalPath, type ContentPage, type Manifest, type ManifestPage } from '../../shared/content'
 
 export const manifest=manifestData as Manifest
 export const pageById=new Map(manifest.pages.map(p=>[p.id,p]))
 export const publicUrl=(id:string)=>{const p=pageById.get(id);return p?canonicalPath(p):undefined}
-const cleanPath=(value:string)=>(decodeURIComponent(value).replace(/\\/g,'/').replace(/^\.\//,'').split(/[?#]/)[0] ?? '').toLowerCase()
-const pageBySourcePath=new Map(manifest.pages.map(page=>[cleanPath(page.sourceFile),page]))
+const cleanPath=(value:string)=>decodeURIComponent(value).replace(/\\/g,'/').replace(/^\.\//,'').split(/[?#]/)[0].toLowerCase()
 const resolveRelative=(sourceFile:string,href:string)=>{
   if(href.startsWith('/'))return cleanPath(href)
   const bits=(sourceFile.includes('/')?sourceFile.slice(0,sourceFile.lastIndexOf('/')+1):'').split('/').filter(Boolean)
   for(const bit of cleanPath(href).split('/')){if(!bit||bit==='.')continue;if(bit==='..')bits.pop();else bits.push(bit)}
-  return cleanPath(bits.join('/'))
+  return bits.join('/')
 }
 export const assetUrl=(sourceFile:string,src:string)=>{
-  const clean=decodeURIComponent(src).replace(/\\/g,'/').split(/[?#]/)[0] ?? ''
+  const clean=decodeURIComponent(src).replace(/\\/g,'/').split(/[?#]/)[0]
   const marker=clean.toLowerCase().lastIndexOf('/images/')
   if(marker>=0)return `/content/assets/${clean.slice(marker+1).split('/').map(encodeURIComponent).join('/')}`
   if(clean.toLowerCase().startsWith('images/'))return `/content/assets/${clean.split('/').map(encodeURIComponent).join('/')}`
@@ -34,17 +33,11 @@ export function renderLegacy(page:ContentPage){
   html=html.replace(/<a\b([^>]*?)href=["']([^"']+)["']([^>]*)>/gi,(all,before,href,after)=>{
     if(/^(https?:|mailto:|tel:)/i.test(href)){const extra=/^https?:/i.test(href)?' target="_blank" rel="external noopener noreferrer"':'';return `<a ${before}href="${esc(href)}"${after}${extra}>`}
     if(href.startsWith('#'))return `<a ${before}href="${esc(href)}"${after}>`
-    const normalized=resolveRelative(page.sourceFile,href)
-    const target=pageBySourcePath.get(normalized)||targets.get(cleanPath(href))||targets.get(normalized)
+    const normalized=resolveRelative(page.sourceFile,href);const target=targets.get(cleanPath(href))||targets.get(normalized)
     if(!target)return `<a ${before}href="${esc(href)}"${after}>`
     return `<a ${before}href="${canonicalPath(target)}" data-page-id="${target.id}" data-page-type="${target.type}"${after}>`
   })
   return html
 }
-const pageModules=import.meta.glob<{default:ContentPage}>('../generated/pages/*.json')
-export async function loadPage(id:string){
-  const module=pageModules[`../generated/pages/${id}.json`]
-  if(!module)throw new Error(`Missing generated content module: ${id}`)
-  return (await module()).default
-}
+export async function loadPage(id:string){return await $fetch<ContentPage>(`/content/pages/${encodeURIComponent(id)}.json`)}
 export function pageForRoute(namespace:string,id:string){const p=pageById.get(id);return p&&canonicalPath(p)===`/${namespace}/${id}/`?p:null}
