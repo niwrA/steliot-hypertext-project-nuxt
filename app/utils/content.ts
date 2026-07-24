@@ -40,10 +40,25 @@ export const assetUrl=(sourceFile:string,src:string)=>{
   return `/content/assets/${out.map(encodeURIComponent).join('/')}`
 }
 const esc=(s:string)=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]!))
+const normalizeLegacyMarkup=(html:string)=>{
+  let normalized=html
+    .replace(/<\/?font\b[^>]*>/gi,'')
+    .replace(/<center\b[^>]*>/gi,'<div class="legacy-center">')
+    .replace(/<\/center>/gi,'</div>')
+    .replace(/<h1\b([^>]*)>/gi,'<h2 class="legacy-heading"$1>')
+    .replace(/<\/h1>/gi,'</h2>')
+  normalized=normalized.replace(/<a\b([^>]*)>([\s\S]*?)<\/a>/gi,(all,attrs,body)=>{
+    if(/\bhref\s*=/i.test(attrs))return all
+    const name=/\bname\s*=\s*["']([^"']+)["']/i.exec(attrs)?.[1]
+    return name?`<span id="${esc(name)}" class="legacy-anchor">${body}</span>`:body
+  })
+  return normalized
+}
 export function renderLegacy(page:ContentPage){
+  if(page.type==='frameset')return '<p class="legacy-document-note">This recovered record was the original frameset entry point. Its navigation and documents are available through the modern project index.</p>'
   const targets=new Map<string,ManifestPage>()
   for(const link of page.links){if(!link.pageId)continue;const target=pageById.get(link.pageId);if(!target)continue;for(const key of [link.path,link.href,link.resolvedPath])if(key)targets.set(cleanPath(key),target)}
-  let html=page.html.replace(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi,(all,href,body)=>{
+  let html=normalizeLegacyMarkup(page.html).replace(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi,(all,href,body)=>{
     const replacement=linkReplacement(page.sourceFile,href)
     return replacement?.renderAs==='text'?body:all
   })
@@ -53,8 +68,9 @@ export function renderLegacy(page:ContentPage){
     const replacement = assetReplacements[resolveRelative(page.sourceFile, src)]
     if(replacement?.renderAs==='omit')return ''
     if(replacement?.renderAs==='text'&&replacement.text)return `<span class="editorial-greek" lang="grc" aria-label="${esc(replacement.alt)}">${esc(replacement.text).replace(/\n/g,'<br>')}</span>`
+    const attributes=`${before} ${after}`.replace(/\/\s*$/,'').replace(/\s(?:alt|loading|tabindex|data-lightbox)\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]+)/gi,'').trim()
     const alt=/\balt=["']([^"']*)/i.exec(`${before}${after}`)?.[1]||replacement?.alt||''
-    return `<img ${before}src="${assetUrl(page.sourceFile,src)}"${after} loading="lazy" tabindex="0" data-lightbox alt="${esc(alt||page.title)}">`
+    return `<img${attributes?` ${attributes}`:''} src="${assetUrl(page.sourceFile,src)}" loading="lazy" tabindex="0" data-lightbox alt="${esc(alt||page.title)}">`
   })
   html=html.replace(/<a\b([^>]*?)href=["']([^"']+)["']([^>]*)>/gi,(all,before,href,after)=>{
     const replacement=linkReplacement(page.sourceFile,href)

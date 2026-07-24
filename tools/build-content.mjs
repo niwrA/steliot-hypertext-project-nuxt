@@ -26,5 +26,5 @@ const annotationPreviews=Object.fromEntries(manifest.pages.filter(p=>p.type==='a
 writeFileSync(resolve(root,'app/generated/annotation-previews.json'),JSON.stringify(annotationPreviews,null,2)+'\n')
 const legacy=Object.fromEntries(manifest.pages.flatMap(p=>[[`/read/${p.id}`,url(p)],[`/read/${p.slug}`,url(p)]]));writeFileSync(resolve(content,'legacy-routes.json'),JSON.stringify(legacy,null,2)+'\n')
 const fixed=['/','/about/','/search/'];const all=[...fixed,...routes.keys()].sort();writeFileSync(resolve(content,'routes.json'),JSON.stringify(all,null,2)+'\n')
-const base=(process.env.NUXT_PUBLIC_SITE_URL||'').replace(/\/$/,'');writeFileSync(resolve(root,'public/sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${all.map(r=>`  <url><loc>${base?base+r:r}</loc></url>`).join('\n')}\n</urlset>\n`)
+const base=(process.env.NUXT_PUBLIC_SITE_URL||'https://www.tseliothypertextproject.nl').replace(/\/$/,'');writeFileSync(resolve(root,'public/sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${all.map(r=>`  <url><loc>${base+r}</loc></url>`).join('\n')}\n</urlset>\n`)
 console.log(JSON.stringify({records:manifest.pages.length,primaryWorks:works.length,prerenderRoutes:all.length,searchIndex:file},null,2))

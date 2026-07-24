@@ -1,11 +1,14 @@
 <script setup lang="ts">
+const siteUrl = String(useRuntimeConfig().public.siteUrl).replace(/\/$/, '')
 useSeoMeta({
   title: 'About — T. S. Eliot Hypertext Project',
   description: 'About the original 1998 T. S. Eliot Hypertext Project by Arwin van Arum and its recovered modern edition.',
   ogTitle: 'About the T. S. Eliot Hypertext Project',
   ogDescription: 'The history and editorial principles of this recovered scholarly hypertext.',
-  ogImage: '/social-preview.png',
+  ogUrl: `${siteUrl}/about/`,
+  ogImage: `${siteUrl}/social-preview.png`,
   twitterCard: 'summary_large_image',
 })
+useHead({ link: [{ rel: 'canonical', href: `${siteUrl}/about/` }] })
 </script>
 <template><div><SiteHeader/><main class="about-main"><article class="about-card"><header class="about-hero"><p class="eyebrow">About the project</p><h1>A scholarly hypertext, recovered and renewed</h1><p class="about-deck">The T. S. Eliot Hypertext Project was created by Arwin van Arum in 1998. This modern edition preserves that early web project while making its texts, annotations, sources, and images easier to read and explore today.</p><NuxtLink class="primary-link" to="/">Explore the project</NuxtLink></header><section><h2>The original project</h2><div><p>The project began in 1998 as a collection of interlinked HTML pages devoted to close reading of works by T. S. Eliot. Its structure reflects an early vision of the web as a scholarly medium.</p><p>Arwin van Arum is both the author of the original project and the editor of this modern edition.</p></div></section><section><h2>Preservation and the modern edition</h2><div><p>The recovered 1998 HTML is preserved separately as archival source material. It is not manually rewritten for this interface. A reproducible import process creates structured content, while the renderer supplies contemporary navigation, typography, accessibility, and metadata.</p><p>The modern edition uses ordinary static documents: works, annotations, references, and images each have a canonical page whose primary content is readable without JavaScript.</p></div></section><section><h2>An edition in progress</h2><div><p>Recovery does not resolve every missing image, broken external link, unclear title, or incomplete attribution. Corrections belong in the importer or editorial override layer so the historical source remains intact.</p><p>A future release may make the recovered original site available for direct consultation; it is not published in this edition.</p></div></section><section><h2>Corrections</h2><div><p>Readers are invited to report transcription errors, broken links, classification problems, or other corrections. Use “Report an issue” in a document footer; the report includes the page title, content identifier, type, and URL when a reporting destination is configured.</p></div></section><footer class="about-footer"><p><strong>Original project and modern edition:</strong> Arwin van Arum</p><NuxtLink to="/">Browse the edition →</NuxtLink></footer></article></main></div></template>

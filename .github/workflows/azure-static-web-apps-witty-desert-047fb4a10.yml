@@ -51,7 +51,7 @@ jobs:
           pnpm exec nuxt generate
           node tools/validate-output.mjs
         env:
-          NUXT_PUBLIC_SITE_URL: ${{ vars.NUXT_PUBLIC_SITE_URL }}
+          NUXT_PUBLIC_SITE_URL: ${{ vars.NUXT_PUBLIC_SITE_URL || 'https://www.tseliothypertextproject.nl' }}
           NUXT_PUBLIC_ISSUE_URL: ${{ vars.NUXT_PUBLIC_ISSUE_URL }}
 
       - name: Deploy generated site

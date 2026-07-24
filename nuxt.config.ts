@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 
+const productionSiteUrl = 'https://www.tseliothypertextproject.nl'
 const routes: string[] = JSON.parse(
   readFileSync(resolve('public/content/routes.json'), 'utf8')
 )
@@ -9,7 +10,7 @@ export default defineNuxtConfig({
   compatibilityDate:'2026-07-22',
   ssr:true,
   css:['~/assets/css/main.css'],
-  runtimeConfig:{public:{siteUrl:process.env.NUXT_PUBLIC_SITE_URL||'',issueUrl:process.env.NUXT_PUBLIC_ISSUE_URL||''}},
+  runtimeConfig:{public:{siteUrl:process.env.NUXT_PUBLIC_SITE_URL||productionSiteUrl,issueUrl:process.env.NUXT_PUBLIC_ISSUE_URL||''}},
   app:{head:{htmlAttrs:{lang:'en'},meta:[{name:'theme-color',content:'#f2efe7'}],link:[
     {rel:'icon',href:'/favicon.ico'},{rel:'manifest',href:'/site.webmanifest'},{rel:'apple-touch-icon',href:'/apple-touch-icon.png'}
   ]}},
